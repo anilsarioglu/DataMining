@@ -1,0 +1,4490 @@
+[
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d9e40ebc9ab50e411707e42964b8b77be7bb4e48",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21620181.9
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1030cb31234ab15f2b6391ee3c66b541091b4e28",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 897309.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5aa7e8a5121a5b93b6bda81c84c0d4537d6e4f74",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fbf59d6e4dfc528183671b8b187bf8c7c2508e98",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 919365.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b2e95336129d04162fa989425f8c3e49cf498305",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3323187.7
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f508377f1f7202bea3428ce7308231228b4dfbb4",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1388371.09
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "be80d1ecdb93bb03530ff78f66ea320e1141b871",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21748425.39
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "10c79067ad4cd1163b642e2cfd531589432246eb",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f675bf71ed8267d3252266dc9327450b9d2c3b96",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3423.83
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "62dc978af3771ebcb105968995937172bfa5bd21",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3324426.27
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b8958d53bf1f9be9ffff0359728a56d21eb456d1",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3199454.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d29dbbc73c016e08a426a79b7f7f54a65a001b7f",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1523884.14
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8b4e1a24596fae03ce554959f65739d107e45d3e",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21619564.96
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6bcedf1f39303a1b054fa47c563b516c3f2be672",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1154021.51
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9d61aa789d5b72e60a60b6fc0b128c7181d31288",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7b21f19124744cff3ef23491f37b7b515bafb0da",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 14444.49
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b83da11793b5cb02c812538f79d7d2f2bc07e8b9",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "574f1362b6456cdecfcd5247d3ff25da728b39be",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 8214.76
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4d49eb87489a1f45d352a15528ca48f4d5daaf2f",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1187565.95
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "955131d70c076bdb8e5f3bebf64e919e4d5ec779",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21942369.18
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "edbb68292e5b4cc203ec2e77ec8404ce85f490a2",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fb2428dc90ba90c36759cb4b7764b2f448852822",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1172832.07
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d454aa3e5466d646c5753089c403b83906d58b29",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21216025.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5876a46aaf27fa338bf92ec65a180d13e0f1e8b9",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4e8225f675d18e4dcdea1263aea20979ccfd6798",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3635275.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6215c4a7e36f381023c72b9289cb67f9e1b83970",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 848429.18
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c2c8d04c682304929f909eaa0d4538cc3c1010ff",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21062601.7
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1bb0659fce59f4620945e56606c361e9cf8941f3",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 525464.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a4b59c44c16c55056937e3cabe874d77ecc8af16",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "495b002cdfb923330b7d46ae9e85738e7a0595c7",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "93b17d52b93e056bb19296b80e1f20ebe78abf06",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21344854.29
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ab53e6cbc400c756ffa9da55726802ff4160dfd0",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 510047.39
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d17ed7bd01465b0d112cb192f7d7125e63da08a1",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0cccebf9ac97b595e9fcbdccc48f90f15898fb3a",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "44f98c6120b5a0af95237ed413016dae3dab6917",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3213396.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "75b59ea09f4cf19ebbde0de9a77904fd53fda83e",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 14710.68
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "41a632ec22e68b1d2a3622549d5463589ac61fd8",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6277.03
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "dac1f0ee5bdcae0f4e20ac0e27a3e2a4d3f2170f",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": -5.3
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b9f9f32d55410cee32d21a4ebf8df906ea664bad",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": -57.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e1d5e655c8d191441fe2664a4b6e769e875bf41d",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1702076.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4b69e9edaa8facdbd8707bc2616f457ba9d3059a",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 61.26
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c44e04e445320a25d142282e1219719a9ae76819",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1906.8
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ceb4a192b97ac8676256bb48f2f36fb1ef44616a",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3284587.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c6d83acdbb050bdc343eb8c3294490bc5104906c",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 2386889.73
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "590f170aee918abeeead5cdc14fd379cd7c8da32",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2177.85
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6531d765dcbf0a8f324b7622e4a8c6d7df95899a",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3225648.86
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "38e5ae9e2d363323436143cb881c6313b6d346d5",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1606738.25
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "01d25ea78f760133a6d95a6c318fe5f66fdeb9e4",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20950346.48
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "98600b2e0fcbed426808fa92dc2a07bec347e6c4",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5483.23
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "52dfd69cb65a171702821f6cb643cb1694912844",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3196457.21
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6469773e7126d832dc5c245fc458e1afd90c5547",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21107351.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ed24897189c26508ec22de5eab1f9c1a749202f8",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1167756.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "476fe1275067269d28512bb5c09f2a01a6a83637",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "666d810c05638aafffadeb4d6f72232ed1513367",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 8280.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d5019c623c577ce19719d461ea2d915a72b8575d",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1909.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c717b432f8dd5426eec92fecd90dd04363de651f",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1308635.96
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9fc0bb9427e0d596ace642c6c1505ed1dfcaf851",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20355939.32
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "078cb04f34783e5b668167cf75a060b0e7c5ca7a",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 72.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "562640fe1ce5cf37512d0e596a31fad050f909cf",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 7020.45
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4473e8d6919936b0bc9c6be776cf02e4357d63f5",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1325.49
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "164b73d180318f28d27dece1f5f5142dfbe2467c",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3276056.4
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "41f2adc7d976d1991681cf3066a87e749ab7665c",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1308070.31
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7a53d1a73bdcbb14c93627af98e9486d2b26be77",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20940128.27
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2163060c71852419d02a480eeb3bb0ae0ff51eb6",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5073.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6c8863cbbf98ccfaccf14d37384cb31af82ee735",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1067.69
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "33dedb12ad8307c693918a485a0fc8e0e81840d8",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1708929.25
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "19eecdc3df9b213b6abafc46684ce3dbc4f321ea",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1666164.83
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3113df42e3b4a02b02ab12c1ff9a42b7e93c0578",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 193.8
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7da2e184e16c7ba4f2833a17b35409afef38da06",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2795.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "19da6d8900b291f9260350a4653a824231b5f744",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3158138.45
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7a4437f4f19397456206a6d133f518e9a8655fb3",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2084363c0851beb15c01a043f283b13418c1b714",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1310439.76
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7e7cddb2e484f55ede3b69beb6a7b05f219d7e5e",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 254.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7ec133b3f2e48f84a50b13cfd5ff39f6d4247222",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1239599.67
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "abb99f054505ea5cd6426628c633bd966216b016",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 118.88
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3c62fc3431dac8f1cbd7a995f2bfef389806f946",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3210.67
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7ceb8a1ace6cb3abecf312872cc547a60babbd0c",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 553.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b613493f4f25e98a913e7ce4b6450c1928c2460c",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 20.94
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "525c08bd561cc197bcdb01671ab548c9f8478608",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4955.71
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1c9d60dac2a38706e207f139b64cd6d7bb67dd06",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1698.61
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a4675a1eb3c75ba576f7e96cfef0b02dcce9987a",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1543977.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1b41e6debf9730e839a18509a8dad334de12d889",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1209703.22
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6d1df5b61493a72c72bea6d1b24fbc1b3d3a9c55",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 788651.43
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5a95a1303dbeefe64a6117c2c3a67e51672d96bc",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5353.46
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5d18eaab27643314cc86e736133346eff8b2f1e2",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 3350.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "84f0dbc9e16f1592943020149a1813b5dfce6495",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1445.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3bfc1d40c908e5a706bedcdbebb9576b5117c139",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21094612.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e9884e259f475cdf3c77c5f6550a22ce762cb9c2",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1280198.1
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8e1e3de605e2599be8000c6f51dc9ac5165e9391",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1306.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "83f103c63aadd161d2720c94d7a1c182bcad674a",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4364.83
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d21b8f3c0fe35229ce4395d509b263949be4d29b",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6246.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "baeeba47be01e2622f66aa74a5dfa4427b0158b6",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3435993.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1258688fe8b071651eeec39ab180328d393089bb",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1533196.29
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "abc08419906b9568277b5efce80431c28fd7fa99",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3914.42
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4989ca8e24ab3b4fa5a21ccbf162f9b5733c3df4",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1766013.72
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "49b5cd6065be0800cb17741a45f08c3a9763eb40",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1818.42
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b1066fd860dc50ff26dea66dc02ed2d796da010b",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6061.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "bc332817e8d80596bbc4234bd5f7dab21fb6a721",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3493260.15
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "89811c223b10c68c4b50afbf22f2f75eb2684439",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21277501.87
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b45b2b47710b3e959a3ee220ee2a35eb83568b7d",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 175.16
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d718cb9ec8bec0c5d70b320ea72558acaa1ef9c2",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3705561.95
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "29a853f735f06db1f22de36497ac855d22691266",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21453864.23
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "760e1e5ea4728d0bbfba3ee9554fa2873771a55c",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 112.77
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ce09d1a042c8f52b714cc42db6094e653e14d05b",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3761212.36
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8106943adf29e90b726a6e58ea8378367d211ef8",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21551992.37
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d3391a104e3cbf2d417e5c0d050974e11a7f81a8",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 14703.14
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "bf34bad72ac0726416261c7bb7a3100c0c7c3ee2",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 10126.27
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3ef9388342a2367020e2cafa9e74cff6c62a288e",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3354182.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "62709b9607a583e96c5fd934a060b0ea7a0d26b1",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21347243.53
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3987a08e253948f6f9fc13b7cd45ccfd9c6f3f0e",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1448334.47
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2918128898060c5740ce57c1d9b73af24a561000",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1882227.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1553661425d45545459fdccdadf7ffcac38d9028",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 740457.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fac4a24fa57d2be3ec4f8de461e742b5f7fc1a59",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2818.52
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "79969615b7e19c606561abbb2290a8ffe14c9718",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 759239.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f33bfd6c979a716ec7030bfc9a2cacacd470bad5",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 4653.4
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7d657a6646b990a235b53393d6f8fd87a54cd585",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1305588.11
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0a9fb4eac19c9043ac57082ef6d0474d85270a6b",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1336.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4cf672ecfca380076c5c47f96663968078079e37",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 16.32
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1bf881b173ef01ae17300448f69c95f56ecbf757",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3309455.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "79b5b38bb53c406d737dec9573081a7b772e2f7f",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21282034.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e62f50feca0c92278c4322f3e661fa271af6287a",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b179d67fd49e97bd212f6bb85f2a041a13e4c1f6",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21124345.05
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6a6d9e2f6dad2a9a6beef24f971bd20b27d51671",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2616007.16
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "877ed4fafd1091867d394105261c3d9b1e10c433",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1275.24
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6048c682e48c0f9b2f669f54b181136c898462ec",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 10.25
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b43626e34feabf4821ff0c80322ede8751ae9d28",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4147937.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6a0e88bdf6b5debc443f3f6761baa1103084f459",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20970388.21
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0d080caf943125c491a3ff939a092dc7f7a5c080",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 609571.63
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2f4b8f5dd22ccca0a316b7234f9c743e1b5a708e",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 97.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "428e2661851e95921a401d5b3ff6eed204b436da",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4825880.28
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "da6cd8b41e73b89c4c5cbc4bf9fefb9c98c7ca40",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21387544.01
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "33707d9ebb24b0f3fc0a5257148eb596594e34e0",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1000.73
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "232fb87ee74ecdd9bb156cda449276f61ce65d2c",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "680a65be8f209b72b198b0494e5aa3ce162d4114",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 52.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "be78c00f12d77e2f67443cacd59b6bab2ba29d0a",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a91dfca7a6939df1dbe036b7c0b81f9aba3454cc",
+    "fields": {
+      "trimester": "2007 - Q4",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4763648.52
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "660d9142eb7186466a12e1a6f323fd786cad8a1b",
+    "fields": {
+      "trimester": "2007 - Q3",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2179981.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e36d24e0b6921e81144f212c7e77e167045942b1",
+    "fields": {
+      "trimester": "2007 - Q3",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 263056.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "577bb74e95a6a57dd7c5419741fefdc5b8c8f7f9",
+    "fields": {
+      "trimester": "2007 - Q1",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 5874234.1
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d146e38ba8af9ffe6e4462d1ed9b61af70564860",
+    "fields": {
+      "trimester": "2007 - Q1",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 479472.9
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b4828df10fa639ff775b8679783b397bddceb6f4",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 9123.73
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f3cee13442edfb82966d1dc8d12229068059df68",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21557945.92
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0c0ae57cc898f07483d2156af2c1a2f17a2ce0be",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1344464.52
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7b1c674b452e34b0b04abe4f828cac358c1271a0",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3223.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "92ee906a4dbca17dc70477489314c6789514806c",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1493916.8
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6cfff94de884e171c57c0a1a120baf57c87dd26b",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 848061.7
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d5842725eac8cd8b503a5df10cf0d4696ff875c3",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 16692.7
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2d72498c1bea76fd38dc53b90c16eeee033b1dcd",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6779.46
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9ba8c2327ae1dd6b8632aa8509afb682e99606df",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3254871.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "359f94036931a4e91231af3fd2aa0f8c525a154f",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1467451.51
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b3630fc258bcb1d7cbc366e086e4cccc95924a0c",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3401018.17
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8608d8c595016815779495daf8f73dd635949c01",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 7388.29
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c95e5e87922c9da6fccaf609f2dbad9abdb21216",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3415529.26
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0cac5f7fa9a6d091010e20c092fa096a564fef7d",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 420908.77
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e777b50cf2def991158139a792c398ac85d74f1a",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 8730.21
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1b1c2f978b02f669b524c2aba06bd39b2c701202",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1133471.02
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6b34e0492048c22f72063d18ef34061b0607343a",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1298.78
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "31136aca1e99ecdf081a35445996efdf1e33aae3",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 655469.24
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ded7c74818eee50681760aa58302e5bdadeb0610",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 13.52
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9f036ad31a347a17d27ff45c6d797efd941c6d7c",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1326047.58
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6df1e7cccf0aae07c273d6e892002405bf37efc3",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 507130.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "cb9a465e468206b6d992159cdd6826c26a359add",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5925.77
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "563a483d2c623f988e0e9e8695d28e99d99969b6",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1250277.95
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "dfd847bdcbb58bbda640bca079fab24db9b53ff3",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 19979336.99
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "17b6d90c9cad023a33a2b7a10d3e445e036fb3e8",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1848499.34
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "873d66f7b836270f783760d32e130b8f39a65bcd",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 283.05
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fe6d1a0862109be7b571c0626f79abb54a4602d5",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "08946fefd0b705d290cfca258d5f9511beff9c74",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1499385.85
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2d3dd3f862a598225c4708405cd4b13ee6c17510",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 65.18
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1571bad804c4e52d948d92c077b28f66f84b42a7",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "58bce29fa576aeb85f2cc29e5b1e385075ec44a9",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1408037.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7f7d12bf3efe7cb9ad4f9c4a39c799a3c5fe5490",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3287145.69
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "607ddd3370028ca82d1fd4d37f0e0c29b050d2e8",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2400.01
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "acd92e91158f92b93972dcf92acdacb38e654827",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 717.56
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fdf04bb320a930faedccac1f3a54345c332a8776",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5485352e9b2ee36d955eff4867d249906673a5e7",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3026335.31
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3f241f45865566c61bc613656fc64803c1533ace",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20535016.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0eb5146da6fbecb852236e21381239d62b20c332",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2360.48
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6f576f50efdb265e60b1e9943c9ab8c0cb4956cf",
+    "fields": {
+      "trimester": "2014 - Q4",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 11797.6
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "02c3fb0b2a9a0ff1674dc256814d050496994bdf",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1555.64
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "dea09cd4bc333aaf1f176bb5ab901e39fab9b597",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3162908.11
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "80345534dc607189fb5eb086f287055366dce658",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20783524.01
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b7577c1c6fb96eea77a0eae54522f3b576e10114",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2660.33
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ef804e6d5e2cf38160657bb09ff5f50a10584953",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3247804.88
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4f8582ccb0ad6321aa0e4c5c1560e618cb29e43f",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3080406.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "301bca0c731982b5db9571c171dbe9be113381ee",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1823.89
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0e422b09a37f7eb5b45bb4cce20a1c6dfe1ac756",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21408229.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6f72fdb5990aa7497a6d0a3ece7ee70ef697fbab",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1981.48
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b290699b28437533a0361d9968fe863fa2dbf9c9",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 82.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9fabd10e2a3fececc5d1455ee7d5732ec00d846d",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20913009.83
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5f56a72697a6851e285f65e6a9ca530051b6854d",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3135654.83
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5aaa9e3e12afec95a12ff938f3e88b3bf3a5d886",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1320938.71
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e9d1ecefba287cd157329fc6bb5a6993d650fb56",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20698716.34
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "182bf35aab5d8db1d71764a1619cb26a9f295739",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1413320.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f88820fdbf4f4984dc0586263a677931a4bce505",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5479.87
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "24232cf5f74579242f26db7e57f2ee37d3afdb96",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1630023.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d76d611e2172eb7823db940b28a983d92c1e54fb",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1216079.78
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1210c88a21dc4226193222d368009f16fa07c506",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2284.36
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5e2a1fd426f785aee14ec6401665107efe18c026",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 277.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "67dde161dcf97d329c53467994c9d5bc69169245",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 10140.46
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "11ac6da22f65bd1654e6673364082f24ea49f595",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21329672.04
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "78da1ab052b6265b239091e761c80136b75f8fbd",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 998271.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8e9ed8ac7eb8547ed2329d944cc4c63ab311afab",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4934.88
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f7747ce9d0efceaec3872c9fe16ab69e0a291bbd",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1043491.56
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "55e60f01ae0fd0060536b666c97bb39614a9bf0d",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "cccbc8312f519f57455bb19850f582d19dde7bad",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 11514.78
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "35d075fd7ee7382e44378fd4da1e71f4d49bffe0",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3714216.85
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9fb2fa35f0183ffeba3839871bf46793be24b474",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2076563.74
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ad8084dec7bfa4c7a1ae21d84d666ea3c905a33b",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1094133.68
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9a75afa629adb4946b12f043c24f660901d1aa7a",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1701.32
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "740a9afad90406e64d7440fdbe9cf2bf4637fec1",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1476541.97
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f282e9c0bd26d29ba2af92aa608a5bad6ea8a8f6",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 19287.63
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "79f8c658ee36903e6d8bbd38ec152bbd522a19d9",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5110.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "02a3a31c99d0668f707964534755eb27d969b035",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 912300.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6268e117e5a787f6c0a4b3ef7aaeb07d4e6134f0",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 635.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ec4a2b51264279bfa815b57d371c021b546bc516",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 362.12
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5880f764af112ae2ba8d670458ea6bcac90419ab",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 11854.14
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "dcfa92a8178109b2cc0861bb1af5b0be3fd5d5f7",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21910522.27
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "bedccaa53fe5b4e0963d2b539007ff82a400f477",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 3999.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fc92ebe5c715fcb18d4f3115440e9845fdcf5cb7",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 486.39
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2fffa93447a3057946f583c46340b53fcd2caab6",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4758.6
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6467fbbe696e7f5209fc13087ac09ba5b8641fe3",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21326561.68
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f89451efd003ab4d925b13e4e3fc65840a9e3372",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3394626.24
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ed171894e82d9ffa53e4360e00dcb79c8d48e311",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21221590.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7995089bb813cfff796a0545965f387eff117014",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3067105.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "15a66c74ea49af1bc2f87329d08803c463c378b7",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 3404.58
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ab8dba59ae8954a2446336a800171703ebc093e7",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 351792.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9e06751453e9357b78f0dbd5a362d979ff9fa60d",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 185.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7fa56a6a143f219a966df1e7af6f2c31cec56de0",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 317086.28
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7d131019f92e9693dfa0688f37a2b1b8072028c1",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2807893.37
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2a83b8a790af8210d22b2fa525b5cb73a6f4479f",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 532691.36
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f80efa6b2962a6da566e63077d2cbd4df91191a9",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2222.08
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6335d42d2e5f54ff950656ea8531c08e1e8492d7",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2059893.39
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "58f49442630939626bb11953d768bbe8a31e6bae",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 301145.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "763379d5eafd4af9e6a143b5c5fa4b4a8d220666",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 699.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "be9ec20e707124837742098f43ffa70c71ed68db",
+    "fields": {
+      "trimester": "2007 - Q3",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21070631.89
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "dd0d79500d3d2863cd96761d990550bae8cd864c",
+    "fields": {
+      "trimester": "2007 - Q2",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4877220.7
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "cebd78cc78e4046a7912f07b4108cb827bcb9386",
+    "fields": {
+      "trimester": "2007 - Q2",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 340145.97
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f07e8d02b20d5c9fd105e6154109e3be81f16d1d",
+    "fields": {
+      "trimester": "2007 - Q1",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 894956.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9e6af4779d36b06fd27a39bc7d5d748acf220691",
+    "fields": {
+      "trimester": "2007 - Q1",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20997967.18
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1b2f4bbde95603d258d188645d4efd7d7ca2e497",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3290336.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "af503ea31b5a4ebb7d871e9b7535b2852c604ad6",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1462042.53
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f6181d7777ef20c67ee4033e5c399b2d8d6f0006",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5a3415e4c2d4ecb8c966fad0c331ac377c53aa57",
+    "fields": {
+      "trimester": "2019 - Q3",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 20590.94
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c758a2bff3021c3a92a394e4e9f1905795a49559",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f05b7f5842e76fb0f441f5d4fe3c06dd97cc47b9",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "cb851d7e87ae039bf3bbd0c8eea8eb10ebb74be8",
+    "fields": {
+      "trimester": "2019 - Q2",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 13752.93
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e2c091e9c062e2e56b1fabe57ab95fa05f3c1981",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3367660.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "40fb9ef8ccdb9f9910fca1af82c7935a22a336ab",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 788236.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a1de6699a15bc7d9776edc1a001c82d73b552616",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7ecb18e2995547ebfa8d979b6c73c59f59b2194b",
+    "fields": {
+      "trimester": "2019 - Q1",
+      "jaar": "2019",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6607.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "858b733ca1e7f2beb904e1b7a27bda6a35caa41b",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 22234159.57
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8df2910391cb97fe6bcd8e87aa555cace0acd48c",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "755f8ec2209aadef018d808481522fe3b480ca72",
+    "fields": {
+      "trimester": "2018 - Q4",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6d78bd6e2394aada3f76fb6c859545ef5b7936ab",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e66cd7434c42a917ab9dffdaebdbf462d2cb95e8",
+    "fields": {
+      "trimester": "2018 - Q3",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 11491.74
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ca3afaa79390405d887a37e3dcef431e74894e77",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21408083.57
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ccfe45892f51caf18ecaa0ac7c99a49930620b8d",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1072937.17
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e10f3f5bb5d83202b0627263e0b5addfc60e50fd",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9f9503b5ea33c9ce690777c33b8346d667a31c8a",
+    "fields": {
+      "trimester": "2018 - Q2",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4773.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6f29e2979ab5b3242ff924202f0dd2866ed77742",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 642650.73
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a782c565535dd6aa32fc5ffc114549a5bbf05172",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "724cfb3191f9f966e3c3376aa9771a0a4604b8d5",
+    "fields": {
+      "trimester": "2018 - Q1",
+      "jaar": "2018",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2879.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6f68dda72eb7f017855dcb9fff4d9a3bc651fe3c",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3269503.66
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f46e053d634301fbffbf6ee39e6b2d1e35a0d9ad",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1387412.15
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "effe61ee477a11269a4938ddb396f0bf3260c8ea",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21399779.26
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "853be1502d16e4de5528decc2492940781ab398c",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 760260.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ceb73f06d9c86dd79b8ebb890d3ca1fd6f461da3",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6e26b1e0f8229de365865e6822ba4c099a7caf4b",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b3f72d03a6001c5bad90d9c9ef7a2ec2a1843f64",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3369.42
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3491ee57a7833e40242574aceb81b4479e1e5c3b",
+    "fields": {
+      "trimester": "2017 - Q4",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1679.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "033e9971187b20e0d36e80a6271397b860858034",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6ac9a40d77c10abba7277e43dd8757b0fd5a67cd",
+    "fields": {
+      "trimester": "2017 - Q3",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2289.63
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "15a6079add471000cac154617760c4618d164d79",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4951.95
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e31c07cac1bfee626d5c2868bd0bc40095316137",
+    "fields": {
+      "trimester": "2017 - Q2",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3535.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e506f93f09447d3f4c40a3c60437aba86f833386",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3331902.43
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8b7062da68378ac2255af96926f2190b0ca37a8a",
+    "fields": {
+      "trimester": "2017 - Q1",
+      "jaar": "2017",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 5838.58
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f10bf90c773b346a6e05dcb8cb5124b0ea668c42",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1335953.87
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "84f5c857eacd563f81bbccdedc106fd97bb3eeb1",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21128935.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1d042aaf4adafd6f6a946bed15865acf14c3bcce",
+    "fields": {
+      "trimester": "2016 - Q4",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "98978936f7133e6145f5c886ffd7c865eeb5368b",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3222281.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "911f645b59e5983c9000740afbe608c15a25e138",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21200385.14
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a5fa4aa12dc7a63673a44a79552b1e40db312609",
+    "fields": {
+      "trimester": "2016 - Q3",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2922.4
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9b9bf0de1967e93e6e8e542c7dcdaa1eef9a3310",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3325779.52
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e349af20fd4491b579f65d837f944f0a8010fbe0",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 57.2
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f3c92f23c396b449854f624c09f5c5c50bc85414",
+    "fields": {
+      "trimester": "2016 - Q2",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 7461.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5a167939811e4d9784c225f9e68bf6507f5332ad",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20724455.96
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d7b58b5fb4ac83f8915ec5caa12416fbf241b5e5",
+    "fields": {
+      "trimester": "2016 - Q1",
+      "jaar": "2016",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 6147.38
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a310661dd4b975ff15cc098e1fce585bdf8d360a",
+    "fields": {
+      "trimester": "2015 - Q4",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 1601.57
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "37c9bfdf1632b2b274a1d626f7f4de7426f8d819",
+    "fields": {
+      "trimester": "2015 - Q3",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "59c3eb5ddae0a9930b28ee9cd7cd2d392186a209",
+    "fields": {
+      "trimester": "2015 - Q2",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1303296.5
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "158fdc88d4f8ef9a54f83f4b9c8b95700dc3ca43",
+    "fields": {
+      "trimester": "2015 - Q1",
+      "jaar": "2015",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1144135.08
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "82ea12d8a4644ed8cea3c85f89aada685b74d810",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1287626.43
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "84151bf420b5b2c50f09a5aad82f73210643cecc",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21359568.71
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "47e844c5a0565b1a3f57989385846e0c0a3be6f6",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 614107.77
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a031e31de0a30d81e4c62d30d60be88323460a1e",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 1074.57
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5783a07b344a5ef244c8e61ac38b3b954dc5e58a",
+    "fields": {
+      "trimester": "2014 - Q3",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2652.03
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3acdf95b338026d9513b25c27a1daf685b627da8",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 918492.36
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f528afa5b59077864f7111ad3e15027c937471de",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2027.28
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "99128ffbd7360f1f53e8402eafbefe13c4242103",
+    "fields": {
+      "trimester": "2014 - Q2",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 104.84
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3d72ddae9fbc8612b18b5a7efbc601d874e872e9",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21058212.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8307509b07414ed7da02addcb64cbcb7caed5172",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 618294.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d272fa90684168f61d97d21b34046fe3c29aec92",
+    "fields": {
+      "trimester": "2014 - Q1",
+      "jaar": "2014",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fde54c25b5a6e4204647bf36df07187d49caa001",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1661632.85
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "bd90717dd761d859b45c7b45f5a09bb7d5b75906",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21069005.69
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ae548c687cf6fe828182f108558db386f78c3bc7",
+    "fields": {
+      "trimester": "2013 - Q4",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 821487.1
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c1429e3bfb10daf502512e9216bb83443f02d9ba",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3142739.26
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "774db3af91261f29fcb4fdff4e3f3e7f54c64750",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 719115.42
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8cfd0715e72593825175324029f3252a156299d3",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3655.75
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "515f0d9a2ef8881c7ec4c4aaff5407ee67e0144c",
+    "fields": {
+      "trimester": "2013 - Q3",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2964.82
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d7694afd3dcf3d62ea3c020e1d9e70209226d026",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3215472.8
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2e2cabe56375169f5e399fdc8b622a72f5062edf",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 4250.81
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c8454f8e4502bdf5d874dfed8130c3b7b6e56a0c",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 322.07
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "815a2e48280598750b8120054b4c1ba23d60bb0c",
+    "fields": {
+      "trimester": "2013 - Q2",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 947.53
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7b059a6b691ca4aeb8d672a46449a08a4021a5ee",
+    "fields": {
+      "trimester": "2013 - Q1",
+      "jaar": "2013",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.84
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8314ff3484e4b69ef1031b209a839219df8cd53d",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3080420.88
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0cea4f2ca1d095e25f1b18858b3691e7265cd886",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "76b3258b37a61834a19ed857f621acb3eef8c6d8",
+    "fields": {
+      "trimester": "2012 - Q4",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 2205.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e662ae47bacf9235533756dc368998abbb9ba163",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3231259.57
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "da6c074131d87fa71b922b88d7569357ea80e290",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1707814.06
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a7e62043a3f1cc3d4cc265a4062ec55495902ef7",
+    "fields": {
+      "trimester": "2012 - Q3",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21573340.88
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "301d856f98c0ac3ca02353c2a7e89b1215b120ba",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 4136.93
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "add0ded51133260e6c9dd97a171776bb0d57e995",
+    "fields": {
+      "trimester": "2012 - Q2",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3f48f585dbaebf1776305f5c632064f6db3347f8",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3634172.58
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "06ada7c85d34a511cdc51b9f75c98a1788a33a4e",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21326088.79
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2e116b52db5f2d75277f936a47ccfebced9ee098",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b1c92bcd6eeb93698019573926e16dea9f803011",
+    "fields": {
+      "trimester": "2012 - Q1",
+      "jaar": "2012",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4350.22
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "13b1bc52ec083684fa666ddd692001188360be02",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2114606.26
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "89faf4427b3cd62b1d02c2a173fc49e7bad784b5",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1473054.99
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7662819cef31e8e2d84587eb930da9b1f24424d2",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2598.72
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "1800055d80a9e87bc10e14bd364f5d793d25b1b0",
+    "fields": {
+      "trimester": "2011 - Q4",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 4747.73
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "572e36d00ec7f84dd025e771533dfbb87161a8ab",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21625421.62
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "69ab8cb979c9901d89cb4496a3f5a6d0aa1bc0dc",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 3968.86
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4c06c4cc4921e8948340310d9f83762761ce66ba",
+    "fields": {
+      "trimester": "2011 - Q3",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 3467.42
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "acce65ff7d3d1b36b624ff003a1bf5060b31a621",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1127357.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2653ee008c7c0d40eca5f994912ff9653261a5f1",
+    "fields": {
+      "trimester": "2011 - Q2",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 3166.86
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9019b5b54564d23d334ff3c2f08e94d05afcce90",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1381850.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "be79460085cd45fdede5bbbd8bbbf64dd062a96f",
+    "fields": {
+      "trimester": "2011 - Q1",
+      "jaar": "2011",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 61.53
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "c60a80e590f2570e38ef5e496eecf057b3d06526",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2024489.08
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f252fceaa1cb0824dea7e07be6a1daf578725068",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2618.74
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7334d013522e31dbf17f35774eab76d3874c24fa",
+    "fields": {
+      "trimester": "2010 - Q4",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 14642.81
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b45dbd57b6c5ef433434120f6764f96eaabaf7ce",
+    "fields": {
+      "trimester": "2010 - Q3",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3550028.77
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "3b7378a7aac6e1237315cf30733fd7611d9f094c",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3674258.64
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5f70b12f9616d74e3ef7dfe554ce6e30720806c8",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1564731.1
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "4a028e192996beea1024cb7810d2651f83424d3b",
+    "fields": {
+      "trimester": "2010 - Q2",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 225.67
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b316705fe9179c5801d4f160cbef0d146621a43b",
+    "fields": {
+      "trimester": "2010 - Q1",
+      "jaar": "2010",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1216151.29
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "664bdcb6dedc375f44886c13fe7e09dd3456a4a4",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1621948.4
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "328cabc1c39dffa2c4f90cba361fc15bd7969fec",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 1000088.44
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0ae4cc000d64f8b3a59ec54d80a87a2e1dabfbdf",
+    "fields": {
+      "trimester": "2009 - Q4",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 675.17
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "82b0bd73a6b62a7a70ee9f229073ab6892ae3af7",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1480521.56
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "5c353c9b3b0edb35e7d7e099ebeb76e21236e553",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21702211.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "92cd75365f4a7861dc5b3df28a8e24bd4f2cb8dc",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 652282.31
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "f6f6dbf28d5873cf66a07d123c50af1c782c76fd",
+    "fields": {
+      "trimester": "2009 - Q3",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 170.1
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "a20ee4e321f3a30409fdf0321c7667d032c3438f",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3074236.59
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "ac91aa539d8f6e4a100329071b544ffd8ca8d7d0",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1827040.43
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "569872d525e46b31c331cd95037fd771421f0fbe",
+    "fields": {
+      "trimester": "2009 - Q2",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 2056.63
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "95cbfcd21fbd956c95c4cca5a90066c0433a41cd",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 3458557.89
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "9ecb49032635916dcbad6b6f0e68ed0a583fa56a",
+    "fields": {
+      "trimester": "2009 - Q1",
+      "jaar": "2009",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21003079.55
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b40ba0ee77ca2395143d4331e7e2c37d28f793cf",
+    "fields": {
+      "trimester": "2008 - Q4",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 580.67
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "e5dcc28b30fcf2548ff81684013815473df95553",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2064380.05
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "d51157bec43ae2098f165492f1fecc5457e95835",
+    "fields": {
+      "trimester": "2008 - Q3",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 337669.18
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "97403e67e738fbddcd3f4a44ccadb5239ade818a",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4900164.71
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "cb715b178835a983fa8a8db33b9457f736cdfd5f",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1873269.41
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "6759ba9bcaa915c80a8f66e893e237aa9d0bfd18",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20784968.48
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "371bd219554258083b9be77c9e630f2f6e6ddc15",
+    "fields": {
+      "trimester": "2008 - Q2",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Toeristische verenigingen",
+      "trein_km": 219.34
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "7aefb8f5b029e18db81c6ee36fb9a3ca2f2647bb",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 5004787.48
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0a886b5b3f12f1270bee3d7abbc7469804ee96a3",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 21054748.19
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "fbc514dbf5b354eb150265f7493ae9699d88b9ff",
+    "fields": {
+      "trimester": "2008 - Q1",
+      "jaar": "2008",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Aangemelde instantie",
+      "trein_km": 0.0
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "15a88c2a9664c0d4035c9f37f578b929b422c133",
+    "fields": {
+      "trimester": "2007 - Q4",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 2310631.24
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "8ab36cf61893ed7ac17eb6389e7c38436ae111d5",
+    "fields": {
+      "trimester": "2007 - Q4",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20675983.27
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "2ccd61036d32325e63b55825b8721d89e40edc9c",
+    "fields": {
+      "trimester": "2007 - Q4",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 524716.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "b9793705dff449635b39a2fddd8fd09f70322bf8",
+    "fields": {
+      "trimester": "2007 - Q3",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 4587141.98
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "0e2f21d78adf52e11c7501936a5deb3a14c1788f",
+    "fields": {
+      "trimester": "2007 - Q2",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Niet effectief",
+      "sector_nl": "Goederen",
+      "trein_km": 1540004.13
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  },
+  {
+    "datasetid": "evolutie-van-treinkilometers",
+    "recordid": "654beec80475bf8aec564e0254dbf3b36a9e5ba8",
+    "fields": {
+      "trimester": "2007 - Q2",
+      "jaar": "2007",
+      "effectief_niet_effectief_nl": "Effectief",
+      "sector_nl": "Reizigers",
+      "trein_km": 20740508.45
+    },
+    "record_timestamp": "2019-10-29T08:32:00+01:00"
+  }
+]

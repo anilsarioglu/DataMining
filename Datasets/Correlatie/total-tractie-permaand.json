@@ -1,0 +1,3557 @@
+[
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4d527947a4bc5481e50ba1b2edd5c11ebbefeeb5",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1987-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e30c024eda16fc255ac15510bc40735dcddd74a3",
+    "fields": {
+      "totaal": 75000,
+      "empty": "1987-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a1edf5e51cd431f8a12760d0fbf57a61a255b9c0",
+    "fields": {
+      "totaal": 74000,
+      "empty": "1987-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "938580242840660ca55210242dfac517ab4e400d",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1987-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a6251eb4a9f66f1350dbe9205ff8e2deaa0eb8eb",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1988-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e6fee90799a8a74246e358aae65897f0b61f305e",
+    "fields": {
+      "totaal": 77000,
+      "empty": "1988-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ef810871df7855621e725381e0b16c7c94380ddf",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1988-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9f7f586fbde4c252989ba199b46578bae7bf400d",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1989-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "460c3f243fafa74f923b709c238f1f73de7960fb",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1989-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "73b60e590effeb6154b5d614d9866202f2d5a7db",
+    "fields": {
+      "totaal": 76000,
+      "empty": "1989-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "dfe9badb27fa8c7ec4a898f8a1f39caa0a1c2a11",
+    "fields": {
+      "totaal": 83000,
+      "empty": "1989-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a379e5a19162fbda15c56705ec4da5700143cce2",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1989-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2e8920c4e90ec3f6022ca25e064a29864e693428",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1990-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c8802edebf626095ec4f1952cf694a9e408d32ca",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1990-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0858c027f2510b0d21be58aaed1753c711b6e73d",
+    "fields": {
+      "totaal": 74000,
+      "empty": "1990-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d8204ff005764bc176cf6bce98d97ff633ccecba",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1990-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "87b413178bf41f379fae7044b70bf62c522eb35e",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1991-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d7b5e363c5879536c5451cf782486e5d52a114c5",
+    "fields": {
+      "totaal": 81000,
+      "empty": "1991-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ad185ca0f47f6c3d1ed5269369d00ff0d7a5a008",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1991-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d6b8b4340c222d68323bcc085cff7b59b02da159",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1991-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "451596b9ec8e0ae6ffcffec7026484eaef006a1c",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1992-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "02c068e0a8d7e9099cc88ca24838c8cd41b94143",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1992-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "af6af2cac369697834937b3011b9a8f36534f866",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1992-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "619b3c381e0e17cfb8c0bf743e3c1989e286ce3a",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1993-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cedc5cd93389a8edb33e0ae4be9f9487e804b12d",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1993-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "dc47d97b1c2d626ed12b12087646c020bdf57c5c",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1993-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0c8fc63e8740ea23f445a3669fb5e6eed6d5b9e0",
+    "fields": {
+      "totaal": 99000,
+      "empty": "1994-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "01b7293b84c8b4e4bb3701f84df041b2ebba28bb",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1994-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "06938a703ffd4e6529ed5185b8450be9b35d6d33",
+    "fields": {
+      "totaal": 83000,
+      "empty": "1994-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "955bceff9548a9f2e14505e53eaf11bd4adc1a8a",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1994-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9949502f1197dea2121202667a19e90aef6c209e",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1994-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "371ec6b119fef0b72aaeb102ebf19513d502f4c2",
+    "fields": {
+      "totaal": 102000,
+      "empty": "1995-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "03bd47e30ba811f632a939db3e6ad72db3a8ddb3",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1995-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a6329712ccec77d32eb86cc9bca5be0d4151a378",
+    "fields": {
+      "totaal": 101000,
+      "empty": "1996-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4e02b74cad5d641bedb3c0f148668df695637aa7",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1996-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cb6782e1bd9de9189d18fdb4d6a690a2f1d5fec6",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1996-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7768f36cf6182798f1190dc5a495e61285778d88",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1996-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e2b514e824e3c581efa33d2ef15ad00607758efb",
+    "fields": {
+      "totaal": 115000,
+      "empty": "1997-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "99007d812c8061900d9a8de8753d03531cd221e5",
+    "fields": {
+      "totaal": 93000,
+      "empty": "1997-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "daf2b1c085243b4a527b255c6659f08d7dfa519d",
+    "fields": {
+      "totaal": 95000,
+      "empty": "1997-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "df362f6790a1cc22e9bca1664013cd7e66fb4f65",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1997-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3970fb1ee03454a8d2098de83b0f5addca49cd2c",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1997-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9c916d2e439a030246514ef38fe13254b229d82f",
+    "fields": {
+      "totaal": 108000,
+      "empty": "1998-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5d9704409303e21bffb1a6b9bdb07ea49f108041",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1998-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7b0103b0bd06c8cff198207b6088eaee691385a0",
+    "fields": {
+      "totaal": 102000,
+      "empty": "1998-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "643fe4d3fe7ed9d4b4f23a2b884011d3504d3fbd",
+    "fields": {
+      "totaal": 111000,
+      "empty": "1998-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "28b798f67293632f6e50f9e61dea267208cc9eb7",
+    "fields": {
+      "totaal": 112000,
+      "empty": "1999-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "437d9b77b10e2d8a411dcd615cc691b3bad0d924",
+    "fields": {
+      "totaal": 104000,
+      "empty": "1999-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b7b2c5c52a03bef772f81ecc925873e1e4766154",
+    "fields": {
+      "totaal": 102000,
+      "empty": "1999-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "dbe93c5bf52efd4a69131389ff0197b8507fc211",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1999-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a85e40c88323ab95035c0c1cb788c20044fcfa72",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1999-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7ec80927eec0eccd8be48325154bfda295f21be8",
+    "fields": {
+      "totaal": 108000,
+      "empty": "1999-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a1ae6884364c550589454be4388ddb0567094631",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2000-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "898d1b92d6deacd0e353ec0acb122cdc47948fd1",
+    "fields": {
+      "totaal": 101000,
+      "empty": "2000-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1db25259f263be5cfcc115a2c07598f0d2c435c2",
+    "fields": {
+      "totaal": 106000,
+      "empty": "2000-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "58caa8dabbd7fff2fb6ac4be1b234dbfa4c3ab96",
+    "fields": {
+      "totaal": 125000,
+      "empty": "2001-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1a2efddcebe0495a9b5612ddea02ce746722e9a3",
+    "fields": {
+      "totaal": 112000,
+      "empty": "2001-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5d6305969780856b7b7abd7367dc6de63e46afa1",
+    "fields": {
+      "totaal": 106000,
+      "empty": "2001-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e88f9fa8104969ed7baddc4d6704c12b0209c72b",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2001-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f32277e6e6b23ce7da9b63ac05410b0e37712a1c",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2001-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b034d2f9a0cc8c9dc8a0ff88b9ebf22559842eb9",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2001-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2efb50d4000264da3368cf748406f0b3176148cc",
+    "fields": {
+      "totaal": 114000,
+      "empty": "2001-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "126325ad2bbe136f4aba79bbe9b0339797ab4de7",
+    "fields": {
+      "totaal": 119000,
+      "empty": "2001-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5dea6b99db34ad1d06f800501fc7f36ecea01081",
+    "fields": {
+      "totaal": 109000,
+      "empty": "2002-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e15f74cc2b82b3607ccbdd043d30c0b37a41c79e",
+    "fields": {
+      "totaal": 115000,
+      "empty": "2002-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "230e5955b2c5a1466a48ffac9d8708323c2d08eb",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2002-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b9737377b71aeec2c4ae94180cc4b2058a6d4865",
+    "fields": {
+      "totaal": 115000,
+      "empty": "2002-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "33dd972ec1d45f933f34225f3c8a8d49f9c2b171",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2002-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8b6e1e707db6c8a0760aa9b795079510027648c4",
+    "fields": {
+      "totaal": 118000,
+      "empty": "2002-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e71956d369a2fdfe26746157d1d896a7e8c8040c",
+    "fields": {
+      "totaal": 133000,
+      "empty": "2003-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ea1d42b9eae20f708ef9743a7a87fd2008d033e0",
+    "fields": {
+      "totaal": 113000,
+      "empty": "2003-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0d04330eb7be6619570964d9164c442a0a7cc4e2",
+    "fields": {
+      "totaal": 104000,
+      "empty": "2003-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2f77708c014b2152eb5d322957e6fac872bdc94d",
+    "fields": {
+      "totaal": 112000,
+      "empty": "2003-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "506d09b352eb26377800d8d9c7ea074159bbe044",
+    "fields": {
+      "totaal": 127000,
+      "empty": "2003-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "499ede4e7b7e0c7a6f1e9157d77986328e5c3b2c",
+    "fields": {
+      "totaal": 115000,
+      "empty": "2003-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4c50fa8d29011491c24694b2dde916ec6af3c316",
+    "fields": {
+      "totaal": 112000,
+      "empty": "2004-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "beb77d376681d129f7ff9dfc82d67516a75cb36b",
+    "fields": {
+      "totaal": 111000,
+      "empty": "2004-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cb88eb5011242aa12baab7eaf57436af5310f4b3",
+    "fields": {
+      "totaal": 107000,
+      "empty": "2004-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b7b8c68d00845f3442c621d2c3d9ea2819e1bd54",
+    "fields": {
+      "totaal": 116000,
+      "empty": "2004-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fc95c0d318ba664c9448214f0960145f97929037",
+    "fields": {
+      "totaal": 127000,
+      "empty": "2005-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "63bcbaa7bde2a0a519d46ff7015bd5085b39fce4",
+    "fields": {
+      "totaal": 106000,
+      "empty": "2005-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6919946fcd4f91c5dfe9f581019b9909aad8628e",
+    "fields": {
+      "totaal": 110000,
+      "empty": "2005-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b519e5874205242824061380a66b0f6cf24cd0fc",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2005-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6029de4e25890f2ccc9cb3fa3cc47965e1d45aae",
+    "fields": {
+      "totaal": 133000,
+      "empty": "2005-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d3ba9b7402ccac27988a22867762f7d0689e154f",
+    "fields": {
+      "totaal": 124000,
+      "empty": "2006-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "299a0d06a9eb457bac2c0555447171d75fda7246",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2006-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8e34c34c0684eb29d6ac5ab148c2785e42466d02",
+    "fields": {
+      "totaal": 126235,
+      "empty": "2007-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fdfd6268027329918ea410d95ace9e2c416b35f2",
+    "fields": {
+      "totaal": 125478,
+      "empty": "2007-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "23a0b6795d0c46f936bc7d785cd2fa75180161dc",
+    "fields": {
+      "totaal": 109699,
+      "empty": "2007-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e93a4af6327ff02d0c08719ee2e9f8edf72af767",
+    "fields": {
+      "totaal": 110600,
+      "empty": "2007-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4b5c97b60fe0c9e7e8733a7f388eff887653c95a",
+    "fields": {
+      "totaal": 109703,
+      "empty": "2007-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f7555432b095710394501bd739d31e715b03e722",
+    "fields": {
+      "totaal": 109961,
+      "empty": "2007-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3682156c717eaab0e31be9e7a19888a152e51cd6",
+    "fields": {
+      "totaal": 111042,
+      "empty": "2007-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3039fbd811ece16f8cfb7dc711a0c7f84329ce0e",
+    "fields": {
+      "totaal": 127192,
+      "empty": "2008-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7d4c26524e342c7d5acd4eb85beb75e2670bf15e",
+    "fields": {
+      "totaal": 121513,
+      "empty": "2008-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b01aa307277836aa90b7bd96c8750dc31a7f32f4",
+    "fields": {
+      "totaal": 123686,
+      "empty": "2008-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f34821bd52c2cc14319de3d28ff087b0b7e3d3bd",
+    "fields": {
+      "totaal": 121058,
+      "empty": "2008-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f932581fb158aa0554bf5d450ccf3fc09f6a7d44",
+    "fields": {
+      "totaal": 126414,
+      "empty": "2008-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2592a89580a9c9b742dc447cca15be4ae5f27bb9",
+    "fields": {
+      "totaal": 106391,
+      "empty": "2009-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "840465f1acdc95f91cdef2539e828116b3c52bdd",
+    "fields": {
+      "totaal": 106898,
+      "empty": "2009-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ddc02f84a408ab28e9007c7f4539a8eafdba4115",
+    "fields": {
+      "totaal": 137669,
+      "empty": "2010-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "12777fe9fcb81c9be02813af831cb689820121dd",
+    "fields": {
+      "totaal": 119735,
+      "empty": "2010-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34d4f0b801032fc549c556cfe388a518fa8b5eb1",
+    "fields": {
+      "totaal": 131003,
+      "empty": "2010-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "356652e6bbb28abdcd5e00976aa6f00f472d3a46",
+    "fields": {
+      "totaal": 106821,
+      "empty": "2010-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d204188896db3b2f3db933072fb6c469d3bbce18",
+    "fields": {
+      "totaal": 120338,
+      "empty": "2010-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ec18d4b88b2085865873e4f8598454e02668e6c9",
+    "fields": {
+      "totaal": 128365,
+      "empty": "2011-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b7734d1ca7725a943542f058428919825ebd80b4",
+    "fields": {
+      "totaal": 108754,
+      "empty": "2011-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ca79968d355b8cea1ea9c07b95af911556018c5a",
+    "fields": {
+      "totaal": 115273,
+      "empty": "2011-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f63cef81a0861ed3c9f794c834c3ffa1bfda2e5a",
+    "fields": {
+      "totaal": 120665,
+      "empty": "2012-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e81984e3cc1db0662910b3a96b4476ada2ef50b9",
+    "fields": {
+      "totaal": 112262,
+      "empty": "2012-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8619878a89236a22847c534e37026d4e2cbb9376",
+    "fields": {
+      "totaal": 106836,
+      "empty": "2012-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8038bd790601f944edd637861844cb90f76a9d34",
+    "fields": {
+      "totaal": 106490,
+      "empty": "2012-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fd0bc6439bb7bc6431e538f934a585586ab88736",
+    "fields": {
+      "totaal": 101409,
+      "empty": "2012-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9bf7c7d4f79b4da44dae3e52cbbadcd4d0f9c479",
+    "fields": {
+      "totaal": 119565,
+      "empty": "2013-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4aa679d021fbafeebb60967b3676085530879e83",
+    "fields": {
+      "totaal": 97478,
+      "empty": "2013-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "46e641fff84a6c4b39d85a366b20a4209914764f",
+    "fields": {
+      "totaal": 103063,
+      "empty": "2013-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "12ec55c02cb9830643e474b5492b04ced5daed46",
+    "fields": {
+      "totaal": 111676,
+      "empty": "2013-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "58611f035d4f0cb896a2d629042fdcbc34d63752",
+    "fields": {
+      "totaal": 112876,
+      "empty": "2014-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e8d4d017cf59a9b33607419ef3638a0296b6c30c",
+    "fields": {
+      "totaal": 106270,
+      "empty": "2014-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d83205849c9d6457ea02e89e71a85862ec722700",
+    "fields": {
+      "totaal": 98437,
+      "empty": "2014-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2470215999e5a50b8b1da8f60ab85e4b920b7e19",
+    "fields": {
+      "totaal": 102573,
+      "empty": "2014-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0e85b305dd791198e5432d7aadb6dfd146c315c7",
+    "fields": {
+      "totaal": 103724,
+      "empty": "2014-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4ba1997ed33852f22099ec5982e55232302e8d12",
+    "fields": {
+      "totaal": 113273,
+      "empty": "2014-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7d82c1d59df71655b1b0d39ef5dbd6ff359a95e2",
+    "fields": {
+      "totaal": 117080,
+      "empty": "2016-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e826468a368feea5c9e3bea541850389f2e7553d",
+    "fields": {
+      "totaal": 99321,
+      "empty": "2016-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "317bb0cfe35127fc1342fe55109b597853cd3761",
+    "fields": {
+      "totaal": 124513,
+      "empty": "2016-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "331c3c5f5ae2d21567462ba418d93a3ceca01ab8",
+    "fields": {
+      "totaal": 119583,
+      "empty": "2017-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f8ca69bdcb2343db13619cb49af06eeaaabe197d",
+    "fields": {
+      "totaal": 106916,
+      "empty": "2017-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "eaec776f3fc90f5b1cb8b90d40c51183d3f64874",
+    "fields": {
+      "totaal": 97762,
+      "empty": "2017-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4814ec541645e108464a358e33f739b8ca224c02",
+    "fields": {
+      "totaal": 98546,
+      "empty": "2017-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "030b7b84feac8cc7dcda904402320e8f889f4a1f",
+    "fields": {
+      "totaal": 104006,
+      "empty": "2017-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5e970eb6e9763841478f13ec482f539769137cce",
+    "fields": {
+      "totaal": 123752,
+      "empty": "2018-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "345eae1753a8d5df7c6298e8ec3fe81cece07395",
+    "fields": {
+      "totaal": 128244,
+      "empty": "2018-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8759f5f3451b7ec96e1ddde536fdf42206ef066d",
+    "fields": {
+      "totaal": 100979,
+      "empty": "2018-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b94d39e79cdc80d395d78942c72b19d80bef2724",
+    "fields": {
+      "totaal": 101982,
+      "empty": "2018-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "dfb40b2c6b6d3bbd1238fc616b81257437a6866b",
+    "fields": {
+      "totaal": 105461,
+      "empty": "2019-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "930fea98bfabd2372b32df75e5964c62c2c3cc96",
+    "fields": {
+      "totaal": 99248,
+      "empty": "2019-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cccc3bd60b8e1655f19f1765a07a3d5a0ebbc05c",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1987-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e534849201b1c887876c2b9f91e0186b76fa89cb",
+    "fields": {
+      "totaal": 81000,
+      "empty": "1987-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "72b20ade418af5d49a6e4d0cc947d08f4d3c72c6",
+    "fields": {
+      "totaal": 82000,
+      "empty": "1987-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1b6277fa6d26aced9609db570a767acc2f3ab535",
+    "fields": {
+      "totaal": 79000,
+      "empty": "1987-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "82578aeea1c796932d2b8c9d8ff9cd95765f058c",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1987-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "db03892851855639051bc3780bab760c225d8695",
+    "fields": {
+      "totaal": 80000,
+      "empty": "1987-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f8ccd11163de107e27f0f0c8f731510ffacb162e",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1988-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c11f1dcda80f81b12c6a41652d6c78784405a3c4",
+    "fields": {
+      "totaal": 79000,
+      "empty": "1988-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6fb6eb31360f2f4732140c3459cf09ad23ebdb41",
+    "fields": {
+      "totaal": 79000,
+      "empty": "1988-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f2fc6ead51ffb3d5f808fdcaa3bebf8af01c2881",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1988-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f3f8ae81f349fbacbe58e883e0a3345a1f2ebc58",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1989-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4588fa4c4f9050d03e7eff13ce846ebedf03f4ee",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1990-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "499ee7e5f2584898d0a540462a33d08d8ba03287",
+    "fields": {
+      "totaal": 80000,
+      "empty": "1990-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "69662e9c866eb67e0788b7417946ca277fdc729d",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1990-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6b7534e5656acf9f105bf36f663addf7e61169a2",
+    "fields": {
+      "totaal": 95000,
+      "empty": "1991-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "803862c01ceb9f33b688c7dec5871a7dd890a93b",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1991-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d89ed8bd8f729c55cf47350eb1f171e59aaa2422",
+    "fields": {
+      "totaal": 80000,
+      "empty": "1991-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "becd134c74508521d717cb0b8f4f3be7fed1bb3a",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1991-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bcb22f727e1b1e4998933bdd132c707d386eef5a",
+    "fields": {
+      "totaal": 75000,
+      "empty": "1992-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d152359aca03c71096c193edaad8b31618d8df3b",
+    "fields": {
+      "totaal": 100000,
+      "empty": "1992-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2a8033c4b9a952577e141191ae24e00b9472d783",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1992-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f69b6ca153570037de4dade381b5a70069608911",
+    "fields": {
+      "totaal": 99000,
+      "empty": "1992-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "15a9afda994c3562674205d25d9b1fcf1a48f50e",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1993-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "77dd0ff612d794f4eeae14d11a3da3a3463d8c81",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1993-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5d44c4ce2ac4cee3f0c987fc73c4fa4c100bdae3",
+    "fields": {
+      "totaal": 93000,
+      "empty": "1994-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c792fd54921c43e2cd45a2cef34b1ccf05f6253b",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1994-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3e7c92c76c3dfeab5cf206097a114f652a47866c",
+    "fields": {
+      "totaal": 100000,
+      "empty": "1994-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8d05dc338e0f76979d96298d6d931c442b622a5c",
+    "fields": {
+      "totaal": 102000,
+      "empty": "1995-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c8903243a323a4362f78519ce1701f852ca735a6",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1995-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "45aac8e39f818add131db1ab8855af745a1ccb81",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1995-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8f9e62b8060b2f6432d762f25c4fff8fd755760c",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1995-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "18307d7cadd6c859c9d0e1d258e8642dfda063a9",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1995-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "60c29727ce8baa8c1d2bce9e6869200f0bea8dbf",
+    "fields": {
+      "totaal": 104000,
+      "empty": "1996-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6c32a4d69682b1d8128dc01b176291bcb39cde42",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1996-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ff47b94a4f2cf1a3c229316a224a2fb64b77a440",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1996-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "513618d5934a2ddb930e86a59e03ab0260ed3bf3",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1996-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8833c45c65b86fb3ac983f134ff04432d78bcd4d",
+    "fields": {
+      "totaal": 97000,
+      "empty": "1996-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cc0097db7e074209cc4cd1a0bb22db8db1a227e7",
+    "fields": {
+      "totaal": 96000,
+      "empty": "1996-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c0cdf64941502f82f68031d0ac1bf403ddace238",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1997-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "77b707b4f211eac6e44eb72b87ee7069e5bc20b5",
+    "fields": {
+      "totaal": 101000,
+      "empty": "1997-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ad1b86e6919ad6c98bcaba7ea6f6437c5e8362b6",
+    "fields": {
+      "totaal": 95000,
+      "empty": "1997-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "714ff46fa0586c3f3d24a03bb60ebfd7b548fe51",
+    "fields": {
+      "totaal": 105000,
+      "empty": "1997-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c4b2b95c41475175aabfa113298be73f72305974",
+    "fields": {
+      "totaal": 99000,
+      "empty": "1998-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "58a51e5e59567df0f680e9ae96e19b0b38d7e7b3",
+    "fields": {
+      "totaal": 106000,
+      "empty": "1998-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "512263826d35c9f46f2d3f86bacf7d099bcedf6e",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1998-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "81a18003738645246e45f99df67795aa769557bc",
+    "fields": {
+      "totaal": 97000,
+      "empty": "1998-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e3bfc3ab45188c780ae84664cdca155a7b881338",
+    "fields": {
+      "totaal": 107000,
+      "empty": "1998-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "18f9c2203bd93e4610e839ca324c6d56140c74db",
+    "fields": {
+      "totaal": 115000,
+      "empty": "1998-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cf6d507578919ad2c941362b60e732198108b60d",
+    "fields": {
+      "totaal": 93000,
+      "empty": "1999-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "362f0d011489eb94a589e79957670efbceb8b9ce",
+    "fields": {
+      "totaal": 113000,
+      "empty": "1999-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "afdb2482d598dacaf48c89aff6a120281fbd7bc6",
+    "fields": {
+      "totaal": 96000,
+      "empty": "1999-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6a85628656405afcd06640f2b73bdaceec37c329",
+    "fields": {
+      "totaal": 98000,
+      "empty": "1999-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a0857e85148eb0ef88c945328bdb6cbb2d950548",
+    "fields": {
+      "totaal": 109000,
+      "empty": "1999-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e71e7a37dc3c9cfa8a92455c74d18b851adf06a6",
+    "fields": {
+      "totaal": 119000,
+      "empty": "1999-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2dbeb2662affcd0792d20873acd0197238210f75",
+    "fields": {
+      "totaal": 109000,
+      "empty": "2000-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "52df57782b6fd12620b4d1bf468c129b469118d2",
+    "fields": {
+      "totaal": 103000,
+      "empty": "2000-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "69183526e4ec9f41e930b49176c4daba35ed9d3e",
+    "fields": {
+      "totaal": 102000,
+      "empty": "2000-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3c3ba179c03e6963f526422898f548218ef7ee8f",
+    "fields": {
+      "totaal": 104000,
+      "empty": "2000-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4b4f262bc9825c16f0b366f122d0ead13f7300e4",
+    "fields": {
+      "totaal": 103000,
+      "empty": "2001-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "24ed20000e72ce8e85762ddfc325cc79f2ee77c0",
+    "fields": {
+      "totaal": 126000,
+      "empty": "2002-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cb45b1f090fa1891439b23dc91dd3dd4d3ec3748",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2002-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ddb52e324775a417290c004d2f3b21351108a4b0",
+    "fields": {
+      "totaal": 106000,
+      "empty": "2002-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "591f2fbb9871809febc05afce3126cc3d51e2ff6",
+    "fields": {
+      "totaal": 123000,
+      "empty": "2003-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "538c00082622f4283bfd8e28b3dc1198fa3c0ff4",
+    "fields": {
+      "totaal": 118000,
+      "empty": "2003-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "cd3c9be1755c43c608c2dee8edf371bc20727636",
+    "fields": {
+      "totaal": 109000,
+      "empty": "2003-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1de02440a09ccc9aa02ee3efd1b557d13bdb0267",
+    "fields": {
+      "totaal": 110000,
+      "empty": "2003-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "693d050d3c3cfbbdb93afdb99fdf252fa4f287e9",
+    "fields": {
+      "totaal": 107000,
+      "empty": "2004-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7ed820cbc7252fffc0eb91bf48b6b44576361603",
+    "fields": {
+      "totaal": 112000,
+      "empty": "2004-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "efb9ce0c6df129304abe8894c0962d02853e3874",
+    "fields": {
+      "totaal": 118000,
+      "empty": "2004-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e612c7b7531f0085506ddd2ac5f181c1c8519fdb",
+    "fields": {
+      "totaal": 125000,
+      "empty": "2005-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "46d98d1e5150068b4e4665a58678954f73c33049",
+    "fields": {
+      "totaal": 113000,
+      "empty": "2005-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d29dcc57717896071a288c443742181752340baf",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2005-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "65d5ce42b56e0984134351bb5977e3eb5e006c62",
+    "fields": {
+      "totaal": 110000,
+      "empty": "2005-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "60747e7e671fc92659c623d829d36ae3534daff2",
+    "fields": {
+      "totaal": 104000,
+      "empty": "2005-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "069e5db95b41fb3aaf968787ed258b9338b42644",
+    "fields": {
+      "totaal": 120000,
+      "empty": "2005-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0253629c95ff73e4cac317176fba352687702f30",
+    "fields": {
+      "totaal": 135000,
+      "empty": "2006-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ea0a0fb87e0c8679cdb208717ced394778ab5528",
+    "fields": {
+      "totaal": 112000,
+      "empty": "2006-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9c5795b155395c7372776abe7f987b90310a1d24",
+    "fields": {
+      "totaal": 107000,
+      "empty": "2006-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6043f24018dd23afacbf26fb0789e9637e7bdc70",
+    "fields": {
+      "totaal": 113000,
+      "empty": "2006-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "de9a9c372caaa3cddd6a3e684d43027a3e6a0e9b",
+    "fields": {
+      "totaal": 115108,
+      "empty": "2007-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "40c0930af9b09e14d4a11638db305dba160f3346",
+    "fields": {
+      "totaal": 109832,
+      "empty": "2007-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9d7ee193a62ff0f52fb3af52bd2f9bc28edc19ae",
+    "fields": {
+      "totaal": 119538,
+      "empty": "2007-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c510c8c132f8dc7d0cc32f405617d03364a3165a",
+    "fields": {
+      "totaal": 103638,
+      "empty": "2008-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "95291fb6811f99fac1718ed0a3210c3b275748d7",
+    "fields": {
+      "totaal": 112130,
+      "empty": "2008-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3267593775f1bc2dc675ee4f448eadadfbb9dc94",
+    "fields": {
+      "totaal": 116085,
+      "empty": "2008-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d391236d88ea22dc10e5e9edff65de8a857460be",
+    "fields": {
+      "totaal": 118000,
+      "empty": "2009-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "30846ffd1fd76d3519b85a25c7dcbcff7c47b9cf",
+    "fields": {
+      "totaal": 104839,
+      "empty": "2009-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2d2ad2b32982609f990fc57deafa2a5fb10996cc",
+    "fields": {
+      "totaal": 118784,
+      "empty": "2009-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d4ebed9d12e5198f5a0b24b9d249362c9a9acfd5",
+    "fields": {
+      "totaal": 112644,
+      "empty": "2010-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7568c69c2fa6e2da7267c313c8ed80f33390dfe4",
+    "fields": {
+      "totaal": 111896,
+      "empty": "2010-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e0c2d0318563d2a2ae55680a88f59145d9d7a1d6",
+    "fields": {
+      "totaal": 128195,
+      "empty": "2011-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "024ef336d4d131d4eb5b10d37337e477765b177b",
+    "fields": {
+      "totaal": 119154,
+      "empty": "2011-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e6b7cba28eceb2c09c9c7ba83ce35aa8ca0b7d48",
+    "fields": {
+      "totaal": 104377,
+      "empty": "2011-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d1078bc1c5a182a523a8abd47b9f281f123a53db",
+    "fields": {
+      "totaal": 122328,
+      "empty": "2012-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "14cb64a39a6291e83650c0ebcb843de0b27fced5",
+    "fields": {
+      "totaal": 130783,
+      "empty": "2012-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0d52968aee186052307fdcbdb71bcf942e0b1f14",
+    "fields": {
+      "totaal": 103204,
+      "empty": "2012-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "309394132332c61ad233a7eedfed6dfc51308071",
+    "fields": {
+      "totaal": 103900,
+      "empty": "2012-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4401640f8aa72e8161b04ccfe6bcadd437263726",
+    "fields": {
+      "totaal": 111503,
+      "empty": "2012-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "aa98af37c49c86edf872dacb030a6a1d7c6358dc",
+    "fields": {
+      "totaal": 129023,
+      "empty": "2013-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a51d8f5ca44f5f2882502a5587a98825257f0cb9",
+    "fields": {
+      "totaal": 106792,
+      "empty": "2013-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "96d9f2dc553f3dab86e07a565446f7649ae8ba65",
+    "fields": {
+      "totaal": 102130,
+      "empty": "2013-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a507fa557b68750de600d0e8fb29e41d2e36aca7",
+    "fields": {
+      "totaal": 117596,
+      "empty": "2013-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b4890af613ce9615eb0f6f99ad741cb7c8a02794",
+    "fields": {
+      "totaal": 115497,
+      "empty": "2014-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1aca25fb6dc558ab5f1bc0afde72d60657c17378",
+    "fields": {
+      "totaal": 106441,
+      "empty": "2014-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3788eeae383bce04f675d76f235358429ba6ff57",
+    "fields": {
+      "totaal": 96319,
+      "empty": "2014-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e8854530087792076f53a7dc1d7377ba06f4a8e7",
+    "fields": {
+      "totaal": 120625,
+      "empty": "2015-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0cf19293fa90fe00d24e9f7fc8f1efd3f3b07c2d",
+    "fields": {
+      "totaal": 124116,
+      "empty": "2015-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "dff58a4a75239d28d70aaead9419032b33f91f50",
+    "fields": {
+      "totaal": 105204,
+      "empty": "2015-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8716d2e5f8291f5ca41ee56d9627144aef16e218",
+    "fields": {
+      "totaal": 103433,
+      "empty": "2015-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "476f6ae042e8486e7b8c54281e04dd3b9c5487f8",
+    "fields": {
+      "totaal": 107159,
+      "empty": "2015-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5e5555d3ee9b1f012ca44535b19a67b67a2bd6cc",
+    "fields": {
+      "totaal": 119786,
+      "empty": "2016-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6451a2d215a6759b45b20c2b01b004a28dc269ed",
+    "fields": {
+      "totaal": 94457,
+      "empty": "2016-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "889e87bb5d81c87780a5efbdc4d877c38c0b3545",
+    "fields": {
+      "totaal": 97422,
+      "empty": "2016-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c6ec9a635dccea482467343dcbb5ca4007443916",
+    "fields": {
+      "totaal": 97649,
+      "empty": "2016-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1948b4891c1ffe2b40934e858d4d6eb214fd0b52",
+    "fields": {
+      "totaal": 111837,
+      "empty": "2016-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ac9776b85de80cf8b471273be1a13d21ea8b800c",
+    "fields": {
+      "totaal": 112933,
+      "empty": "2017-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5d13048be4fac0560ccc7a464257d6f1cd04843a",
+    "fields": {
+      "totaal": 103562,
+      "empty": "2017-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e7fffa51dda481bcb6514543c2f6f1f99f5006c3",
+    "fields": {
+      "totaal": 117138,
+      "empty": "2017-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5bdf59a13145348b297123f0ed3271b73f7e05e9",
+    "fields": {
+      "totaal": 120373,
+      "empty": "2017-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "8f7c7350787ebba071fed4e227075b9613225185",
+    "fields": {
+      "totaal": 102837,
+      "empty": "2018-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5bc1d43424806345c62ffec260e8284625ef45b6",
+    "fields": {
+      "totaal": 105391,
+      "empty": "2018-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d0edb9e0fb0ea7033397feb153abf7e34fc2a920",
+    "fields": {
+      "totaal": 100876,
+      "empty": "2018-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "decec9056a35e29edc924501cb21f50ea026b206",
+    "fields": {
+      "totaal": 117116,
+      "empty": "2018-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "96e51ef15b0e2f233616a9d8704f2fd7cb7abe16",
+    "fields": {
+      "totaal": 118116,
+      "empty": "2018-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a6ef1e269fe162d4da871d99c793468c6ad18361",
+    "fields": {
+      "totaal": 132682,
+      "empty": "2019-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "843875175350d44708e26085f404d122663fd4f1",
+    "fields": {
+      "totaal": 112443,
+      "empty": "2019-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "441080dbec586ea2e46d4c7a16fafded4af50e2e",
+    "fields": {
+      "totaal": 109692,
+      "empty": "2019-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fb009fa503d15c699508c23b2f2d729a9f58eddf",
+    "fields": {
+      "totaal": 105871,
+      "empty": "2019-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b5f98acc75d5741ea025173923448b2c3d98261d",
+    "fields": {
+      "totaal": 116773,
+      "empty": "2019-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "68bb6993f3f6c9b5c9f7123f97cc3df0438d5eb2",
+    "fields": {
+      "totaal": 113407,
+      "empty": "2019-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e81a9a2f2c938a239810c02a7f2fe15355c417c4",
+    "fields": {
+      "totaal": 104000,
+      "empty": "1987-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bd7c06009c5e449c85e975484d8fd32be583afd6",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1987-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "19c2e37086a8fb86e4d27c37ec4d28ed3e9b85e2",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1988-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0d8c1b2dca4b64503eb7f46676c50fc771c141ee",
+    "fields": {
+      "totaal": 83000,
+      "empty": "1988-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "40e589940428590bc7b6de62f56f59499b7f1a00",
+    "fields": {
+      "totaal": 82000,
+      "empty": "1988-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ad58acb53fa3781453254165ced168ee407bb518",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1988-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "285009175c2978a13669b7021bcc966bbd984f62",
+    "fields": {
+      "totaal": 83000,
+      "empty": "1988-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1d9e397abe1e42d1c710a18ea2127e23e8d154c2",
+    "fields": {
+      "totaal": 95000,
+      "empty": "1989-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "43c790eb94b2195429eecc8fcb43db22750c96f7",
+    "fields": {
+      "totaal": 85000,
+      "empty": "1989-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "57419da5f23c74511e442bbe360ac30822d5f483",
+    "fields": {
+      "totaal": 80000,
+      "empty": "1989-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "29da9602ca21f9067ea8f2403d5f7265436715dd",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1989-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "68e2ac488a3a839324271c952897c0a643f2b749",
+    "fields": {
+      "totaal": 81000,
+      "empty": "1989-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bd7d59fe59574153f3863ae2f057d94a58adb28d",
+    "fields": {
+      "totaal": 92000,
+      "empty": "1989-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "27faa65f18a71731dd632eaec433102e39c08e29",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1990-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2c417e1a9fa1105c3a8734c33b4b4bc0c769b3d4",
+    "fields": {
+      "totaal": 81000,
+      "empty": "1990-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f2e496ff5cbb49fb6924a236eeba85467838d965",
+    "fields": {
+      "totaal": 81000,
+      "empty": "1990-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5367de75f482f939e50428cf3fc585d1b58a2118",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1990-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fcaaccf24094a63b74e24f30cde87bfa876e4691",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1990-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5c2708b41f8e6ed15d2e8732d7756b2a0a0e3153",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1991-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "eb1190db4d168bcea7894ab3e75223e77e1767f4",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1991-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "acdb3acae867fb13fe69eb727b1b55f18e2dc33c",
+    "fields": {
+      "totaal": 82000,
+      "empty": "1991-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d446454022536c776f020463ab24ff141ce956c1",
+    "fields": {
+      "totaal": 97000,
+      "empty": "1991-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a1055c28fec72deed5f00437d63b277ede605414",
+    "fields": {
+      "totaal": 101000,
+      "empty": "1992-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6cb0dedd9e52a7c4c7e1d8e024e018c51e17170d",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1992-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b184acb1f4309ecbb2f4562a073a2497c6a28b55",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1992-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9e53e2268d6cb54b3d1a30a2ac844a758f7244cd",
+    "fields": {
+      "totaal": 79000,
+      "empty": "1992-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9410544963e67fb24c31a85e0bc189238bfb62da",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1992-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "268a5bb4d86daffdc58db6b68a6b9ec590136a01",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1993-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b7b4b8c6e58666c3074f2aa23696e5b45aea8c9a",
+    "fields": {
+      "totaal": 96000,
+      "empty": "1993-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "731d66faa9de34734b8837269f0977b38a526bf8",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1993-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "136500cc542de1aed232c3c3ef711ae69f94823d",
+    "fields": {
+      "totaal": 79000,
+      "empty": "1993-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5db0b724e7ae47c40ca95e83c84cb71eb5fdf233",
+    "fields": {
+      "totaal": 88000,
+      "empty": "1993-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "972d721bbe845021087298cdab2b4c2409a7e5fd",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1993-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "12cfaf998b70164ed8d30995db8706da4f2aded6",
+    "fields": {
+      "totaal": 101000,
+      "empty": "1993-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "777766fde4e18f9b1483db7259ef154993c952f3",
+    "fields": {
+      "totaal": 97000,
+      "empty": "1994-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fb667c6dd5bf66ae2fe3081c3643a23e36f666ae",
+    "fields": {
+      "totaal": 91000,
+      "empty": "1994-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7e94d034f3338df2bb61c31d86118c11af493c06",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1994-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4d27092e464c0433961e226cb5b5b3de927d1e7f",
+    "fields": {
+      "totaal": 84000,
+      "empty": "1994-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d57dd93398d93cd5bd568a14efd7ae082ae92310",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1995-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4942fd2d48b4a2e28b1d152ec57ae1e5c7b4af14",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1995-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ab1ab2fe7c96aa825430a1844ca6386d4274d1aa",
+    "fields": {
+      "totaal": 83000,
+      "empty": "1995-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "112837e42c326f877fec4e786f4c02e862fdb9b1",
+    "fields": {
+      "totaal": 86000,
+      "empty": "1995-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "81405d85172009181724528985f83ce070f8a5e5",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1995-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "29a4193aa35efec67206712e668064169cdc24b1",
+    "fields": {
+      "totaal": 87000,
+      "empty": "1996-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "807fa557487d90480079d77f824ada47662763d0",
+    "fields": {
+      "totaal": 108000,
+      "empty": "1996-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6c267e21856609bc31924698d184bc2696e41402",
+    "fields": {
+      "totaal": 89000,
+      "empty": "1997-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "122c1fe25f4aeef99161eb95b86245341721a8d0",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1997-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9873030db25340ac41546674f47a9e9c79431c0a",
+    "fields": {
+      "totaal": 90000,
+      "empty": "1997-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "00dbe35e9e32f65df2a29a84bfb202c9067d7ce8",
+    "fields": {
+      "totaal": 94000,
+      "empty": "1998-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "eaae853f18be1e1327cf51b213db9d8c4d189fb9",
+    "fields": {
+      "totaal": 100000,
+      "empty": "1998-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7998eb20e49b21d48f6710d1a274a55eed4c6777",
+    "fields": {
+      "totaal": 119000,
+      "empty": "2000-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34cc3d2feffa4e8f4ce893af18f559563df2a04a",
+    "fields": {
+      "totaal": 103000,
+      "empty": "2000-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "61ed77c35bdb8aa2bdb0277d1123e3b47e69279f",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2000-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c6a87fe01f0db5b57bb42df2b921b6d34e582948",
+    "fields": {
+      "totaal": 92000,
+      "empty": "2000-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "961970aee9fd9f99ffcf143ec3048b8e53c63238",
+    "fields": {
+      "totaal": 111000,
+      "empty": "2000-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d208bd32dbb202a00e859c7138f388242fc8a33c",
+    "fields": {
+      "totaal": 115000,
+      "empty": "2001-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6a41d4c83797d7fd3c8c75d556f8f59350013356",
+    "fields": {
+      "totaal": 106000,
+      "empty": "2001-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6ed7d05bf033965e74b05aa04517c31ea47c6b39",
+    "fields": {
+      "totaal": 103000,
+      "empty": "2001-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9763e2e466efc9530d9c033a2cc118dc9f52392f",
+    "fields": {
+      "totaal": 110000,
+      "empty": "2002-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2feec237a66022e5389eee9102826cbddc59eee8",
+    "fields": {
+      "totaal": 102000,
+      "empty": "2002-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4eb962ccac0aa7178f65f6633cbc2d37bec62928",
+    "fields": {
+      "totaal": 101000,
+      "empty": "2002-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "354f39bc0db638983641ad0364f7a5bef69b7525",
+    "fields": {
+      "totaal": 98000,
+      "empty": "2003-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "46f89db003f34a8f889f7d192b9bbfcf20877a79",
+    "fields": {
+      "totaal": 127000,
+      "empty": "2003-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9621b149fd01efe8de92a5099aa7e44a9ef26cf0",
+    "fields": {
+      "totaal": 131000,
+      "empty": "2004-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9a973c124a36531d4866ca95ec3d8c19706e3b75",
+    "fields": {
+      "totaal": 120000,
+      "empty": "2004-02"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7fbf335a46fa93d44a0d383074f10762f25676fb",
+    "fields": {
+      "totaal": 128000,
+      "empty": "2004-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "92d21edde4634b9b567fd8b2ad5f89ab6f49e110",
+    "fields": {
+      "totaal": 109000,
+      "empty": "2004-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7350e9ae9dab14ca0d11f6d83d190b93e96bd5de",
+    "fields": {
+      "totaal": 134000,
+      "empty": "2004-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b9d3c22f2c193c416623fae6fc9697938f131f51",
+    "fields": {
+      "totaal": 128000,
+      "empty": "2005-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bbac7d4b277418265acc23232801ee5ffac42716",
+    "fields": {
+      "totaal": 135000,
+      "empty": "2006-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0140cea43672eb5248d5ae4503faaa8fd9feaac5",
+    "fields": {
+      "totaal": 110000,
+      "empty": "2006-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e259db77d29b378cdc3850000db7bfeb800057cd",
+    "fields": {
+      "totaal": 108000,
+      "empty": "2006-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b1f4308a75fec53a3011cb3e3defac5f3bc1fdef",
+    "fields": {
+      "totaal": 105000,
+      "empty": "2006-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4e18fd351c367f06247214222873dff2dc2f3391",
+    "fields": {
+      "totaal": 116000,
+      "empty": "2006-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "1af893f823fab5365848479d6aacd197214b573a",
+    "fields": {
+      "totaal": 122000,
+      "empty": "2006-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "b306ccaab23b92be188d59a903c29ddd1ba5e4eb",
+    "fields": {
+      "totaal": 121418,
+      "empty": "2007-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bea2936e0b56a9f9b82739d2d353573d0758d72e",
+    "fields": {
+      "totaal": 121127,
+      "empty": "2007-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "731a8a4171ccece1fd60c86b8f969f8ff15346f4",
+    "fields": {
+      "totaal": 121828,
+      "empty": "2008-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0087d4a379d36758ee66e48e913325e2b1c10e21",
+    "fields": {
+      "totaal": 110221,
+      "empty": "2008-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "bf538868973877ab899dbc5ce40d305e2e79cdbb",
+    "fields": {
+      "totaal": 106108,
+      "empty": "2008-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "5720fcc481d0b16226942926e8d542e341964ec8",
+    "fields": {
+      "totaal": 115313,
+      "empty": "2008-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "df1c56d82e0ee5d92af442422247e4cbe6e0ac85",
+    "fields": {
+      "totaal": 131771,
+      "empty": "2009-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "657322b2869775089c4d234b0fc83c88833aeac1",
+    "fields": {
+      "totaal": 121803,
+      "empty": "2009-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0f7f220fd97b6a652b27583987261c8cc9703f5c",
+    "fields": {
+      "totaal": 108077,
+      "empty": "2009-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "28a177fc8dc191ae5a60178646c596c5e01ace85",
+    "fields": {
+      "totaal": 104271,
+      "empty": "2009-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f7854bc1ba8bf1f041d189e43343734f4cbfb291",
+    "fields": {
+      "totaal": 110838,
+      "empty": "2009-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "be28fec5be4e42165dc5c84a76482251e3d4048a",
+    "fields": {
+      "totaal": 109577,
+      "empty": "2009-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "3a0c5a1bd04fa2797a8088f508a43283aadc2197",
+    "fields": {
+      "totaal": 131764,
+      "empty": "2009-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "54f253204ec06f82a55db634135ca0e2a3f42e38",
+    "fields": {
+      "totaal": 118191,
+      "empty": "2010-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "757e2ac7762980b3cf064a651375697a9ac4f3c3",
+    "fields": {
+      "totaal": 112807,
+      "empty": "2010-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34fc94d49d2c158411d969e84fdd1930face613c",
+    "fields": {
+      "totaal": 106116,
+      "empty": "2010-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "62a81f1d28d4e8f650520abdcdbd626078f27702",
+    "fields": {
+      "totaal": 112666,
+      "empty": "2010-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "9b180b5bb5f4c1c3b6a22208c1fa2d675b821a5e",
+    "fields": {
+      "totaal": 141223,
+      "empty": "2010-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "be609bcb218d9376d478ab5cdda28881d92745b2",
+    "fields": {
+      "totaal": 109764,
+      "empty": "2011-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d73fef2da91f555b9b4857dd0b325eccb30fe5d7",
+    "fields": {
+      "totaal": 114533,
+      "empty": "2011-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a50ff36ce068052193ba590e489ee5481fdec5a9",
+    "fields": {
+      "totaal": 106507,
+      "empty": "2011-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fd43aefac34adee5439e005512e5339c8a8adfc8",
+    "fields": {
+      "totaal": 110718,
+      "empty": "2011-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a40fbac12f3e87dc84f2b136f7231c0f210527dc",
+    "fields": {
+      "totaal": 114677,
+      "empty": "2011-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f204950f968eace1d29bd8cb663b01d41afe4b75",
+    "fields": {
+      "totaal": 115569,
+      "empty": "2011-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c1bb143941e14993403a4aaded417c418e0f4196",
+    "fields": {
+      "totaal": 113005,
+      "empty": "2012-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "489f9302fa4ec60091538c7f0acc95be8cf580f7",
+    "fields": {
+      "totaal": 116797,
+      "empty": "2012-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c58ddfd0d06bee4be669f01907c7072afd3f7c8a",
+    "fields": {
+      "totaal": 123700,
+      "empty": "2013-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "816b21ca360cd226a2d2a0cb12e238f68bd61149",
+    "fields": {
+      "totaal": 112287,
+      "empty": "2013-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "a673fc5debed007b5aaea1cc14d7599f63dd51c9",
+    "fields": {
+      "totaal": 103313,
+      "empty": "2013-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4362485d08a424c85aa9587a0534f87be61667ae",
+    "fields": {
+      "totaal": 111433,
+      "empty": "2013-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "246e073d663f8a96948c885ae450c06981fabac8",
+    "fields": {
+      "totaal": 122973,
+      "empty": "2014-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34952c0b047f3a0cbec1cdfc408e45cf7b975e36",
+    "fields": {
+      "totaal": 110597,
+      "empty": "2014-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7a8ad5efa568b1d54d95879de0302b2f0bc9678d",
+    "fields": {
+      "totaal": 105480,
+      "empty": "2014-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "fa8f009273aace2ba22ce8177827ea75a2070d92",
+    "fields": {
+      "totaal": 129195,
+      "empty": "2015-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "03f68de1e262a72a161f71218e1a3b46e0ae617e",
+    "fields": {
+      "totaal": 106782,
+      "empty": "2015-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34406b9f4782d99f7469b0de2d29d6e5fa6b644e",
+    "fields": {
+      "totaal": 101106,
+      "empty": "2015-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d59e3259fbc57f4f7e97e50284c088d6c274d379",
+    "fields": {
+      "totaal": 100024,
+      "empty": "2015-07"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e40fb9bace23d0cce158afb4a8f7ae62cc51bf2c",
+    "fields": {
+      "totaal": 95095,
+      "empty": "2015-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d29fcf86d034b164c36ea1c39e52c0e0966fee35",
+    "fields": {
+      "totaal": 108453,
+      "empty": "2015-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "34e9c17f9b92139ee3491383c91a0c3a9997734b",
+    "fields": {
+      "totaal": 110655,
+      "empty": "2015-12"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "2aef80d3205ba4eb06c077c75758faec37449b8b",
+    "fields": {
+      "totaal": 121844,
+      "empty": "2016-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "c408d43b0937cd9fa0736d65cde44e4c0045e0e4",
+    "fields": {
+      "totaal": 110827,
+      "empty": "2016-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "ddd12d90a1e876a54a7da956a60254604d34e14a",
+    "fields": {
+      "totaal": 104042,
+      "empty": "2016-09"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "f8b38abec48dc7d2c437b6b660d0e2246f6d3d83",
+    "fields": {
+      "totaal": 115991,
+      "empty": "2016-11"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4914e9fd81d6118e9d3fb4751635c1a6c7f47b30",
+    "fields": {
+      "totaal": 136054,
+      "empty": "2017-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "e44ce3d221ca7996633e131e19682a1e158d2e06",
+    "fields": {
+      "totaal": 104697,
+      "empty": "2017-04"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "6ead03c1b71c6fd27d48500e6b4083d8573e04aa",
+    "fields": {
+      "totaal": 106500,
+      "empty": "2017-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "616bea5d24594dc071494a0b2139ffbfeb1dc99f",
+    "fields": {
+      "totaal": 126649,
+      "empty": "2018-01"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "7a4c135335d92a081a0e6ce2df923a7464056e60",
+    "fields": {
+      "totaal": 100016,
+      "empty": "2018-08"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "4dc1d9ad87bfdfe6ff48e47ffa74864e53b5cd11",
+    "fields": {
+      "totaal": 115129,
+      "empty": "2018-10"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "629d6de9c7526e940319ad69277672c7192efad2",
+    "fields": {
+      "totaal": 120487,
+      "empty": "2019-03"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "d1541989faae1ae1e0c0d59244da400819ccd718",
+    "fields": {
+      "totaal": 111550,
+      "empty": "2019-05"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  },
+  {
+    "datasetid": "total-tractie-permaand",
+    "recordid": "0dd5a18d07450a271517452db622eba7eb296039",
+    "fields": {
+      "totaal": 102656,
+      "empty": "2019-06"
+    },
+    "record_timestamp": "2019-12-09T09:02:00+01:00"
+  }
+]

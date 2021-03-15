@@ -1,0 +1,6151 @@
+[
+  {
+    "name": "Chastre",
+    "longitude": "4.649833",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chastre/2018/01/07/23/56",
+    "latitude": "50.607464",
+    "geo": {
+      "lat": 50.607464,
+      "lon": 4.649833
+    },
+    "id": "BE.NMBS.008861523"
+  },
+  {
+    "name": "Dinant",
+    "longitude": "4.908179",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Dinant/2018/01/07/23/56",
+    "latitude": "50.260724",
+    "geo": {
+      "lat": 50.260724,
+      "lon": 4.908179
+    },
+    "id": "BE.NMBS.008863503"
+  },
+  {
+    "name": "Cour Sur Heure",
+    "longitude": "4.392258",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Cour Sur Heure/2018/01/07/23/56",
+    "latitude": "50.300889",
+    "geo": {
+      "lat": 50.300889,
+      "lon": 4.392258
+    },
+    "id": "BE.NMBS.008873379"
+  },
+  {
+    "name": "Neufvilles",
+    "longitude": "4.010669",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Neufvilles/2018/01/07/23/56",
+    "latitude": "50.543597",
+    "geo": {
+      "lat": 50.543597,
+      "lon": 4.010669
+    },
+    "id": "BE.NMBS.008883121"
+  },
+  {
+    "name": "Hansbeke",
+    "longitude": "3.537447",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hansbeke/2018/01/07/23/56",
+    "latitude": "51.072708",
+    "geo": {
+      "lat": 51.072708,
+      "lon": 3.5374470000000002
+    },
+    "id": "BE.NMBS.008891165"
+  },
+  {
+    "name": "Oudenaarde",
+    "longitude": "3.600803",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Oudenaarde/2018/01/07/23/56",
+    "latitude": "50.850558",
+    "geo": {
+      "lat": 50.850558,
+      "lon": 3.600803
+    },
+    "id": "BE.NMBS.008892601"
+  },
+  {
+    "name": "Melle",
+    "longitude": "3.797086",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Melle/2018/01/07/23/56",
+    "latitude": "51.002814",
+    "geo": {
+      "lat": 51.002814,
+      "lon": 3.797086
+    },
+    "id": "BE.NMBS.008893039"
+  },
+  {
+    "name": "Terhagen",
+    "longitude": "3.897361",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Terhagen/2018/01/07/23/56",
+    "latitude": "50.902003",
+    "geo": {
+      "lat": 50.902003,
+      "lon": 3.897361
+    },
+    "id": "BE.NMBS.008895448"
+  },
+  {
+    "name": "Okegem",
+    "longitude": "4.053542",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Okegem/2018/01/07/23/56",
+    "latitude": "50.857256",
+    "geo": {
+      "lat": 50.857256,
+      "lon": 4.053542
+    },
+    "id": "BE.NMBS.008895778"
+  },
+  {
+    "name": "Liedekerke",
+    "longitude": "4.095286",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Liedekerke/2018/01/07/23/56",
+    "latitude": "50.882525",
+    "geo": {
+      "lat": 50.882525,
+      "lon": 4.095286
+    },
+    "id": "BE.NMBS.008895836"
+  },
+  {
+    "name": "Bissegem",
+    "longitude": "3.224047",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bissegem/2018/01/07/23/56",
+    "latitude": "50.825844",
+    "geo": {
+      "lat": 50.825844,
+      "lon": 3.224047
+    },
+    "id": "BE.NMBS.008896388"
+  },
+  {
+    "name": "Izegem",
+    "longitude": "3.21335",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Izegem/2018/01/07/23/56",
+    "latitude": "50.920958",
+    "geo": {
+      "lat": 50.920958,
+      "lon": 3.21335
+    },
+    "id": "BE.NMBS.008896909"
+  },
+  {
+    "name": "AIX EN PROVENCE",
+    "longitude": "5.31669080257416",
+    "departures": "https://data.irail.be/NMBS/Liveboard/AIX EN PROVENCE/2018/01/07/23/56",
+    "latitude": "43.4536587954535",
+    "geo": {
+      "lat": 43.4536587954535,
+      "lon": 5.31669080257416
+    },
+    "id": "FR.SNCF.99003"
+  },
+  {
+    "name": "NIMES",
+    "longitude": "4.36639",
+    "departures": "https://data.irail.be/NMBS/Liveboard/NIMES/2018/01/07/23/56",
+    "latitude": "43.832499",
+    "geo": {
+      "lat": 43.832499,
+      "lon": 4.36639
+    },
+    "id": "FR.SNCF.99011"
+  },
+  {
+    "name": "Haren",
+    "longitude": "4.419825",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haren/2018/01/07/23/56",
+    "latitude": "50.889231",
+    "geo": {
+      "lat": 50.889231,
+      "lon": 4.419825
+    },
+    "id": "BE.NMBS.008811155"
+  },
+  {
+    "name": "Nossegem",
+    "longitude": "4.506108",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nossegem/2018/01/07/23/56",
+    "latitude": "50.883308",
+    "geo": {
+      "lat": 50.883308,
+      "lon": 4.506108
+    },
+    "id": "BE.NMBS.008811247"
+  },
+  {
+    "name": "Zellik",
+    "longitude": "4.275583",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zellik/2018/01/07/23/56",
+    "latitude": "50.889731",
+    "geo": {
+      "lat": 50.889731,
+      "lon": 4.275583
+    },
+    "id": "BE.NMBS.008812062"
+  },
+  {
+    "name": "Mollem",
+    "longitude": "4.21675",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mollem/2018/01/07/23/56",
+    "latitude": "50.932808",
+    "geo": {
+      "lat": 50.932808,
+      "lon": 4.21675
+    },
+    "id": "BE.NMBS.008812112"
+  },
+  {
+    "name": "Malines",
+    "longitude": "4.48313",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Malines/2018/01/07/23/56",
+    "latitude": "51.01758",
+    "geo": {
+      "lat": 51.01758,
+      "lon": 4.48313
+    },
+    "id": "BE.NMBS.008822004"
+  },
+  {
+    "name": "Aarschot",
+    "longitude": "4.824036",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aarschot/2018/01/07/23/56",
+    "latitude": "50.984408",
+    "geo": {
+      "lat": 50.984408,
+      "lon": 4.8240359999999995
+    },
+    "id": "BE.NMBS.008833209"
+  },
+  {
+    "name": "Liege Palais",
+    "longitude": "5.57255",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Liege Palais/2018/01/07/23/56",
+    "latitude": "50.64705",
+    "geo": {
+      "lat": 50.64705,
+      "lon": 5.57255
+    },
+    "id": "BE.NMBS.008841525"
+  },
+  {
+    "name": "Sclessin",
+    "longitude": "5.556722",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sclessin/2018/01/07/23/56",
+    "latitude": "50.610396",
+    "geo": {
+      "lat": 50.610396,
+      "lon": 5.556722
+    },
+    "id": "BE.NMBS.008843133"
+  },
+  {
+    "name": "Pont De Seraing",
+    "longitude": "5.511328",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pont De Seraing/2018/01/07/23/56",
+    "latitude": "50.619968",
+    "geo": {
+      "lat": 50.619968,
+      "lon": 5.511328
+    },
+    "id": "BE.NMBS.008843141"
+  },
+  {
+    "name": "Vilvoorde",
+    "longitude": "4.432583",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vilvoorde/2018/01/07/23/56",
+    "latitude": "50.924208",
+    "geo": {
+      "lat": 50.924208,
+      "lon": 4.432583
+    },
+    "id": "BE.NMBS.008811189"
+  },
+  {
+    "name": "Brussels South",
+    "longitude": "4.336922",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels South/2018/01/07/23/56",
+    "latitude": "50.836782",
+    "geo": {
+      "lat": 50.836782,
+      "lon": 4.336922
+    },
+    "id": "BE.NMBS.008814001"
+  },
+  {
+    "name": "Nijvel",
+    "longitude": "4.334678",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nijvel/2018/01/07/23/56",
+    "latitude": "50.600536",
+    "geo": {
+      "lat": 50.600536,
+      "lon": 4.334678
+    },
+    "id": "BE.NMBS.008814209"
+  },
+  {
+    "name": "Heide",
+    "longitude": "4.461131",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heide/2018/01/07/23/56",
+    "latitude": "51.365344",
+    "geo": {
+      "lat": 51.365344,
+      "lon": 4.461131
+    },
+    "id": "BE.NMBS.008821519"
+  },
+  {
+    "name": "Melkouwen",
+    "longitude": "4.671031",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Melkouwen/2018/01/07/23/56",
+    "latitude": "51.095064",
+    "geo": {
+      "lat": 51.095064,
+      "lon": 4.671031
+    },
+    "id": "BE.NMBS.008821824"
+  },
+  {
+    "name": "Londerzeel",
+    "longitude": "4.296936",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Londerzeel/2018/01/07/23/56",
+    "latitude": "51.009519",
+    "geo": {
+      "lat": 51.009519,
+      "lon": 4.296936
+    },
+    "id": "BE.NMBS.008822111"
+  },
+  {
+    "name": "Boortmeerbeek",
+    "longitude": "4.573897",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Boortmeerbeek/2018/01/07/23/56",
+    "latitude": "50.98185",
+    "geo": {
+      "lat": 50.98185,
+      "lon": 4.573897
+    },
+    "id": "BE.NMBS.008822475"
+  },
+  {
+    "name": "Bleret",
+    "longitude": "5.28599",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bleret/2018/01/07/23/56",
+    "latitude": "50.685161",
+    "geo": {
+      "lat": 50.685161,
+      "lon": 5.28599
+    },
+    "id": "BE.NMBS.008841434"
+  },
+  {
+    "name": "Hony",
+    "longitude": "5.573494",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hony/2018/01/07/23/56",
+    "latitude": "50.540336",
+    "geo": {
+      "lat": 50.540335999999996,
+      "lon": 5.573494
+    },
+    "id": "BE.NMBS.008842655"
+  },
+  {
+    "name": "Aywaille",
+    "longitude": "5.672483",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aywaille/2018/01/07/23/56",
+    "latitude": "50.473014",
+    "geo": {
+      "lat": 50.473014,
+      "lon": 5.672483
+    },
+    "id": "BE.NMBS.008842754"
+  },
+  {
+    "name": "Jemeppe Sur Meuse",
+    "longitude": "5.49779",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jemeppe Sur Meuse/2018/01/07/23/56",
+    "latitude": "50.61843",
+    "geo": {
+      "lat": 50.618430000000004,
+      "lon": 5.49779
+    },
+    "id": "BE.NMBS.008843158"
+  },
+  {
+    "name": "Engis",
+    "longitude": "5.401992",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Engis/2018/01/07/23/56",
+    "latitude": "50.582964",
+    "geo": {
+      "lat": 50.582964,
+      "lon": 5.401992
+    },
+    "id": "BE.NMBS.008843240"
+  },
+  {
+    "name": "Bressoux",
+    "longitude": "5.612496",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bressoux/2018/01/07/23/56",
+    "latitude": "50.644473",
+    "geo": {
+      "lat": 50.644473,
+      "lon": 5.612496
+    },
+    "id": "BE.NMBS.008843901"
+  },
+  {
+    "name": "Assesse",
+    "longitude": "5.021306",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Assesse/2018/01/07/23/56",
+    "latitude": "50.36855",
+    "geo": {
+      "lat": 50.36855,
+      "lon": 5.021306
+    },
+    "id": "BE.NMBS.008864931"
+  },
+  {
+    "name": "Gouy Lez Pieton",
+    "longitude": "4.325064",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gouy Lez Pieton/2018/01/07/23/56",
+    "latitude": "50.4957",
+    "geo": {
+      "lat": 50.4957,
+      "lon": 4.325064
+    },
+    "id": "BE.NMBS.008871373"
+  },
+  {
+    "name": "Mevergnies Attre",
+    "longitude": "3.833003",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mevergnies Attre/2018/01/07/23/56",
+    "latitude": "50.600333",
+    "geo": {
+      "lat": 50.600333,
+      "lon": 3.8330029999999997
+    },
+    "id": "BE.NMBS.008886058"
+  },
+  {
+    "name": "Zeebrugge Dorp",
+    "longitude": "3.195697",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zeebrugge Dorp/2018/01/07/23/56",
+    "latitude": "51.326108",
+    "geo": {
+      "lat": 51.326108,
+      "lon": 3.195697
+    },
+    "id": "BE.NMBS.008891553"
+  },
+  {
+    "name": "Lissewege",
+    "longitude": "3.194506",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lissewege/2018/01/07/23/56",
+    "latitude": "51.294708",
+    "geo": {
+      "lat": 51.294708,
+      "lon": 3.194506
+    },
+    "id": "BE.NMBS.008891629"
+  },
+  {
+    "name": "Herzele",
+    "longitude": "3.879358",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herzele/2018/01/07/23/56",
+    "latitude": "50.897203",
+    "geo": {
+      "lat": 50.897203,
+      "lon": 3.879358
+    },
+    "id": "BE.NMBS.008895430"
+  },
+  {
+    "name": "Geraardsbergen",
+    "longitude": "3.871956",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Geraardsbergen/2018/01/07/23/56",
+    "latitude": "50.771025",
+    "geo": {
+      "lat": 50.771025,
+      "lon": 3.871956
+    },
+    "id": "BE.NMBS.008895505"
+  },
+  {
+    "name": "Wervik",
+    "longitude": "3.046975",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wervik/2018/01/07/23/56",
+    "latitude": "50.781861",
+    "geo": {
+      "lat": 50.781861,
+      "lon": 3.046975
+    },
+    "id": "BE.NMBS.008896396"
+  },
+  {
+    "name": "LUXEMBOURG",
+    "longitude": "6.133793592453",
+    "departures": "https://data.irail.be/NMBS/Liveboard/LUXEMBOURG/2018/01/07/23/56",
+    "latitude": "49.6000512882886",
+    "geo": {
+      "lat": 49.6000512882886,
+      "lon": 6.133793592453
+    },
+    "id": "LU.X.99001"
+  },
+  {
+    "name": "Brussels Airport",
+    "longitude": "4.484444",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Airport/2018/01/07/23/56",
+    "latitude": "50.901389",
+    "geo": {
+      "lat": 50.901389,
+      "lon": 4.484444
+    },
+    "id": "BE.NMBS.008819406"
+  },
+  {
+    "name": "Hove",
+    "longitude": "4.465469",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hove/2018/01/07/23/56",
+    "latitude": "51.154114",
+    "geo": {
+      "lat": 51.154114,
+      "lon": 4.465469
+    },
+    "id": "BE.NMBS.008821337"
+  },
+  {
+    "name": "Berlaar",
+    "longitude": "4.638258",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Berlaar/2018/01/07/23/56",
+    "latitude": "51.113708",
+    "geo": {
+      "lat": 51.113708,
+      "lon": 4.638258
+    },
+    "id": "BE.NMBS.008821816"
+  },
+  {
+    "name": "Bilzen",
+    "longitude": "5.50918",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bilzen/2018/01/07/23/56",
+    "latitude": "50.86869",
+    "geo": {
+      "lat": 50.86869,
+      "lon": 5.50918
+    },
+    "id": "BE.NMBS.008831138"
+  },
+  {
+    "name": "Statte",
+    "longitude": "5.219678",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Statte/2018/01/07/23/56",
+    "latitude": "50.528283",
+    "geo": {
+      "lat": 50.528283,
+      "lon": 5.219678
+    },
+    "id": "BE.NMBS.008843406"
+  },
+  {
+    "name": "Mazy",
+    "longitude": "4.675825",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mazy/2018/01/07/23/56",
+    "latitude": "50.513503",
+    "geo": {
+      "lat": 50.513503,
+      "lon": 4.675825
+    },
+    "id": "BE.NMBS.008861333"
+  },
+  {
+    "name": "Paliseul",
+    "longitude": "5.118997",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Paliseul/2018/01/07/23/56",
+    "latitude": "49.894789",
+    "geo": {
+      "lat": 49.894789,
+      "lon": 5.118997
+    },
+    "id": "BE.NMBS.008865540"
+  },
+  {
+    "name": "Fontaine Valmont",
+    "longitude": "4.211775",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Fontaine Valmont/2018/01/07/23/56",
+    "latitude": "50.320439",
+    "geo": {
+      "lat": 50.320439,
+      "lon": 4.211775
+    },
+    "id": "BE.NMBS.008871688"
+  },
+  {
+    "name": "Ham Sur Heure",
+    "longitude": "4.405086",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ham Sur Heure/2018/01/07/23/56",
+    "latitude": "50.320539",
+    "geo": {
+      "lat": 50.320539,
+      "lon": 4.405086
+    },
+    "id": "BE.NMBS.008873387"
+  },
+  {
+    "name": "Ath",
+    "longitude": "3.776406",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ath/2018/01/07/23/56",
+    "latitude": "50.6271",
+    "geo": {
+      "lat": 50.6271,
+      "lon": 3.7764059999999997
+    },
+    "id": "BE.NMBS.008886009"
+  },
+  {
+    "name": "Lichtervelde",
+    "longitude": "3.126908",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lichtervelde/2018/01/07/23/56",
+    "latitude": "51.025281",
+    "geo": {
+      "lat": 51.025281,
+      "lon": 3.126908
+    },
+    "id": "BE.NMBS.008892205"
+  },
+  {
+    "name": "Diksmuide",
+    "longitude": "2.869156",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Diksmuide/2018/01/07/23/56",
+    "latitude": "51.033075",
+    "geo": {
+      "lat": 51.033075,
+      "lon": 2.869156
+    },
+    "id": "BE.NMBS.008892452"
+  },
+  {
+    "name": "Scheldewindeke",
+    "longitude": "3.777614",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Scheldewindeke/2018/01/07/23/56",
+    "latitude": "50.937803",
+    "geo": {
+      "lat": 50.937803,
+      "lon": 3.777614
+    },
+    "id": "BE.NMBS.008893070"
+  },
+  {
+    "name": "Aalst",
+    "longitude": "4.038586",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aalst/2018/01/07/23/56",
+    "latitude": "50.943053",
+    "geo": {
+      "lat": 50.943053,
+      "lon": 4.038586
+    },
+    "id": "BE.NMBS.008895000"
+  },
+  {
+    "name": "Erembodegem",
+    "longitude": "4.055543",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erembodegem/2018/01/07/23/56",
+    "latitude": "50.919302",
+    "geo": {
+      "lat": 50.919302,
+      "lon": 4.055543
+    },
+    "id": "BE.NMBS.008895091"
+  },
+  {
+    "name": "Comines",
+    "longitude": "2.999117",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Comines/2018/01/07/23/56",
+    "latitude": "50.77225",
+    "geo": {
+      "lat": 50.77225,
+      "lon": 2.999117
+    },
+    "id": "BE.NMBS.008896412"
+  },
+  {
+    "name": "Roulers",
+    "longitude": "3.130358",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Roulers/2018/01/07/23/56",
+    "latitude": "50.949358",
+    "geo": {
+      "lat": 50.949358,
+      "lon": 3.130358
+    },
+    "id": "BE.NMBS.008896800"
+  },
+  {
+    "name": "MAASTRICHT",
+    "longitude": "5.70502638816833",
+    "departures": "https://data.irail.be/NMBS/Liveboard/MAASTRICHT/2018/01/07/23/56",
+    "latitude": "50.8492393360268",
+    "geo": {
+      "lat": 50.8492393360268,
+      "lon": 5.70502638816833
+    },
+    "id": "NL.X.99002"
+  },
+  {
+    "name": "ROTTERDAM",
+    "longitude": "4.46946144104004",
+    "departures": "https://data.irail.be/NMBS/Liveboard/ROTTERDAM/2018/01/07/23/56",
+    "latitude": "51.9251079428785",
+    "geo": {
+      "lat": 51.9251079428785,
+      "lon": 4.46946144104004
+    },
+    "id": "NL.X.99003"
+  },
+  {
+    "name": "Veltem",
+    "longitude": "4.633522",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Veltem/2018/01/07/23/56",
+    "latitude": "50.900519",
+    "geo": {
+      "lat": 50.900519,
+      "lon": 4.633522
+    },
+    "id": "BE.NMBS.008811270"
+  },
+  {
+    "name": "Bosvoorde",
+    "longitude": "4.407986",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bosvoorde/2018/01/07/23/56",
+    "latitude": "50.794458",
+    "geo": {
+      "lat": 50.794458,
+      "lon": 4.407986
+    },
+    "id": "BE.NMBS.008811437"
+  },
+  {
+    "name": "Merchtem",
+    "longitude": "4.223492",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Merchtem/2018/01/07/23/56",
+    "latitude": "50.953853",
+    "geo": {
+      "lat": 50.953853,
+      "lon": 4.223492
+    },
+    "id": "BE.NMBS.008812120"
+  },
+  {
+    "name": "Lebbeke",
+    "longitude": "4.134544",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lebbeke/2018/01/07/23/56",
+    "latitude": "51.004606",
+    "geo": {
+      "lat": 51.004606,
+      "lon": 4.134544
+    },
+    "id": "BE.NMBS.008812161"
+  },
+  {
+    "name": "Ternat",
+    "longitude": "4.165342",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ternat/2018/01/07/23/56",
+    "latitude": "50.874519",
+    "geo": {
+      "lat": 50.874519,
+      "lon": 4.165342
+    },
+    "id": "BE.NMBS.008812252"
+  },
+  {
+    "name": "Brussels Congres",
+    "longitude": "4.362634",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Congres/2018/01/07/23/56",
+    "latitude": "50.851671",
+    "geo": {
+      "lat": 50.851671,
+      "lon": 4.362634
+    },
+    "id": "BE.NMBS.008813045"
+  },
+  {
+    "name": "Uccle Calevoet",
+    "longitude": "4.331383",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Uccle Calevoet/2018/01/07/23/56",
+    "latitude": "50.792131",
+    "geo": {
+      "lat": 50.792131,
+      "lon": 4.331383
+    },
+    "id": "BE.NMBS.008814134"
+  },
+  {
+    "name": "Ruisbroek",
+    "longitude": "4.295328",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ruisbroek/2018/01/07/23/56",
+    "latitude": "50.791831",
+    "geo": {
+      "lat": 50.791831,
+      "lon": 4.295328
+    },
+    "id": "BE.NMBS.008814365"
+  },
+  {
+    "name": "Lier",
+    "longitude": "4.561579",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lier/2018/01/07/23/56",
+    "latitude": "51.136022",
+    "geo": {
+      "lat": 51.136022,
+      "lon": 4.561579
+    },
+    "id": "BE.NMBS.008821600"
+  },
+  {
+    "name": "Begijnendijk",
+    "longitude": "4.800344",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Begijnendijk/2018/01/07/23/56",
+    "latitude": "51.021972",
+    "geo": {
+      "lat": 51.021972,
+      "lon": 4.800344
+    },
+    "id": "BE.NMBS.008821865"
+  },
+  {
+    "name": "Weerde",
+    "longitude": "4.470292",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Weerde/2018/01/07/23/56",
+    "latitude": "50.977411",
+    "geo": {
+      "lat": 50.977411,
+      "lon": 4.470292
+    },
+    "id": "BE.NMBS.008822251"
+  },
+  {
+    "name": "Niel",
+    "longitude": "4.340583",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Niel/2018/01/07/23/56",
+    "latitude": "51.110917",
+    "geo": {
+      "lat": 51.110917,
+      "lon": 4.340583
+    },
+    "id": "BE.NMBS.008824240"
+  },
+  {
+    "name": "Balen",
+    "longitude": "5.16605",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Balen/2018/01/07/23/56",
+    "latitude": "51.168314",
+    "geo": {
+      "lat": 51.168314,
+      "lon": 5.16605
+    },
+    "id": "BE.NMBS.008832045"
+  },
+  {
+    "name": "Pepinster Cite",
+    "longitude": "5.804611",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pepinster Cite/2018/01/07/23/56",
+    "latitude": "50.563381",
+    "geo": {
+      "lat": 50.563381,
+      "lon": 5.8046109999999995
+    },
+    "id": "BE.NMBS.008844313"
+  },
+  {
+    "name": "Blanmont",
+    "longitude": "4.636386",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Blanmont/2018/01/07/23/56",
+    "latitude": "50.619447",
+    "geo": {
+      "lat": 50.619447,
+      "lon": 4.636386
+    },
+    "id": "BE.NMBS.008861531"
+  },
+  {
+    "name": "Gendron Celles",
+    "longitude": "4.964598",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gendron Celles/2018/01/07/23/56",
+    "latitude": "50.210804",
+    "geo": {
+      "lat": 50.210804,
+      "lon": 4.964598
+    },
+    "id": "BE.NMBS.008863834"
+  },
+  {
+    "name": "Naninne",
+    "longitude": "4.930342",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Naninne/2018/01/07/23/56",
+    "latitude": "50.419394",
+    "geo": {
+      "lat": 50.419394,
+      "lon": 4.930342
+    },
+    "id": "BE.NMBS.008864964"
+  },
+  {
+    "name": "Bastogne South",
+    "longitude": "5.709672",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bastogne South/2018/01/07/23/56",
+    "latitude": "49.99963",
+    "geo": {
+      "lat": 49.99963,
+      "lon": 5.709672
+    },
+    "id": "BE.NMBS.008865110"
+  },
+  {
+    "name": "Habay",
+    "longitude": "5.632569",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Habay/2018/01/07/23/56",
+    "latitude": "49.718619",
+    "geo": {
+      "lat": 49.718619,
+      "lon": 5.632569
+    },
+    "id": "BE.NMBS.008866142"
+  },
+  {
+    "name": "Roux",
+    "longitude": "4.393197",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Roux/2018/01/07/23/56",
+    "latitude": "50.443114",
+    "geo": {
+      "lat": 50.443114,
+      "lon": 4.393197
+    },
+    "id": "BE.NMBS.008871217"
+  },
+  {
+    "name": "Obaix Buzet",
+    "longitude": "4.363632",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Obaix Buzet/2018/01/07/23/56",
+    "latitude": "50.535765",
+    "geo": {
+      "lat": 50.535765,
+      "lon": 4.363632
+    },
+    "id": "BE.NMBS.008871332"
+  },
+  {
+    "name": "Pieton",
+    "longitude": "4.288444",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pieton/2018/01/07/23/56",
+    "latitude": "50.434964",
+    "geo": {
+      "lat": 50.434964,
+      "lon": 4.288444
+    },
+    "id": "BE.NMBS.008871415"
+  },
+  {
+    "name": "Thuin",
+    "longitude": "4.288914",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Thuin/2018/01/07/23/56",
+    "latitude": "50.342739",
+    "geo": {
+      "lat": 50.342739,
+      "lon": 4.288914
+    },
+    "id": "BE.NMBS.008871811"
+  },
+  {
+    "name": "Hourpes",
+    "longitude": "4.308742",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hourpes/2018/01/07/23/56",
+    "latitude": "50.363689",
+    "geo": {
+      "lat": 50.363689,
+      "lon": 4.308742
+    },
+    "id": "BE.NMBS.008871829"
+  },
+  {
+    "name": "Auvelais",
+    "longitude": "4.6307",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Auvelais/2018/01/07/23/56",
+    "latitude": "50.44917",
+    "geo": {
+      "lat": 50.44917,
+      "lon": 4.6307
+    },
+    "id": "BE.NMBS.008874716"
+  },
+  {
+    "name": "Carnieres",
+    "longitude": "4.264386",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Carnieres/2018/01/07/23/56",
+    "latitude": "50.4477",
+    "geo": {
+      "lat": 50.4477,
+      "lon": 4.264386
+    },
+    "id": "BE.NMBS.008882248"
+  },
+  {
+    "name": "Aalter",
+    "longitude": "3.447856",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aalter/2018/01/07/23/56",
+    "latitude": "51.092258",
+    "geo": {
+      "lat": 51.092258,
+      "lon": 3.447856
+    },
+    "id": "BE.NMBS.008891140"
+  },
+  {
+    "name": "Kortemark",
+    "longitude": "3.043867",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kortemark/2018/01/07/23/56",
+    "latitude": "51.025358",
+    "geo": {
+      "lat": 51.025358,
+      "lon": 3.043867
+    },
+    "id": "BE.NMBS.008892403"
+  },
+  {
+    "name": "Sleidinge",
+    "longitude": "3.66776",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sleidinge/2018/01/07/23/56",
+    "latitude": "51.126428",
+    "geo": {
+      "lat": 51.126428,
+      "lon": 3.66776
+    },
+    "id": "BE.NMBS.008893260"
+  },
+  {
+    "name": "Temse",
+    "longitude": "4.221817",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Temse/2018/01/07/23/56",
+    "latitude": "51.125914",
+    "geo": {
+      "lat": 51.125914,
+      "lon": 4.221817
+    },
+    "id": "BE.NMBS.008894672"
+  },
+  {
+    "name": "Welle",
+    "longitude": "4.050922",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Welle/2018/01/07/23/56",
+    "latitude": "50.903375",
+    "geo": {
+      "lat": 50.903375,
+      "lon": 4.050922
+    },
+    "id": "BE.NMBS.008895851"
+  },
+  {
+    "name": "Wolfstee",
+    "longitude": "4.784722",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wolfstee/2018/01/07/23/56",
+    "latitude": "51.168611",
+    "geo": {
+      "lat": 51.168611,
+      "lon": 4.784722
+    },
+    "id": "BE.NMBS.00999312"
+  },
+  {
+    "name": "AEROPORT CDG TGV",
+    "longitude": "2.57101535797119",
+    "departures": "https://data.irail.be/NMBS/Liveboard/AEROPORT CDG TGV/2018/01/07/23/56",
+    "latitude": "49.0037090826835",
+    "geo": {
+      "lat": 49.0037090826835,
+      "lon": 2.57101535797119
+    },
+    "id": "FR.SNCF.99001"
+  },
+  {
+    "name": "SETE",
+    "longitude": "3.69621276855469",
+    "departures": "https://data.irail.be/NMBS/Liveboard/SETE/2018/01/07/23/56",
+    "latitude": "43.4127948755782",
+    "geo": {
+      "lat": 43.4127948755782,
+      "lon": 3.69621276855469
+    },
+    "id": "FR.SNCF.99014"
+  },
+  {
+    "name": "Mortsel Deurnesteenweg",
+    "longitude": "4.44383",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mortsel Deurnesteenweg/2018/01/07/23/56",
+    "latitude": "51.186039",
+    "geo": {
+      "lat": 51.186039,
+      "lon": 4.44383
+    },
+    "id": "BE.NMBS.008821154"
+  },
+  {
+    "name": "Kalmthout",
+    "longitude": "4.466942",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kalmthout/2018/01/07/23/56",
+    "latitude": "51.389744",
+    "geo": {
+      "lat": 51.389744,
+      "lon": 4.4669419999999995
+    },
+    "id": "BE.NMBS.008821444"
+  },
+  {
+    "name": "Kapellen",
+    "longitude": "4.433081",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kapellen/2018/01/07/23/56",
+    "latitude": "51.313375",
+    "geo": {
+      "lat": 51.313375,
+      "lon": 4.433081
+    },
+    "id": "BE.NMBS.008821535"
+  },
+  {
+    "name": "Turnhout",
+    "longitude": "4.937564",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Turnhout/2018/01/07/23/56",
+    "latitude": "51.322775",
+    "geo": {
+      "lat": 51.322775,
+      "lon": 4.937564
+    },
+    "id": "BE.NMBS.008821907"
+  },
+  {
+    "name": "Muizen",
+    "longitude": "4.513839",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Muizen/2018/01/07/23/56",
+    "latitude": "51.008203",
+    "geo": {
+      "lat": 51.008203,
+      "lon": 4.513839
+    },
+    "id": "BE.NMBS.008822426"
+  },
+  {
+    "name": "Bornem",
+    "longitude": "4.240431",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bornem/2018/01/07/23/56",
+    "latitude": "51.098819",
+    "geo": {
+      "lat": 51.098819,
+      "lon": 4.240431
+    },
+    "id": "BE.NMBS.008822772"
+  },
+  {
+    "name": "Genk",
+    "longitude": "5.49803",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Genk/2018/01/07/23/56",
+    "latitude": "50.967056",
+    "geo": {
+      "lat": 50.967056,
+      "lon": 5.49803
+    },
+    "id": "BE.NMBS.008831765"
+  },
+  {
+    "name": "Juslenville",
+    "longitude": "5.810194",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Juslenville/2018/01/07/23/56",
+    "latitude": "50.544514",
+    "geo": {
+      "lat": 50.544514,
+      "lon": 5.810194
+    },
+    "id": "BE.NMBS.008844321"
+  },
+  {
+    "name": "Dolhain Gileppe",
+    "longitude": "5.936683",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Dolhain Gileppe/2018/01/07/23/56",
+    "latitude": "50.616374",
+    "geo": {
+      "lat": 50.616374,
+      "lon": 5.936683
+    },
+    "id": "BE.NMBS.008844545"
+  },
+  {
+    "name": "Ronet",
+    "longitude": "4.828415",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ronet/2018/01/07/23/56",
+    "latitude": "50.457735",
+    "geo": {
+      "lat": 50.457735,
+      "lon": 4.828415
+    },
+    "id": "BE.NMBS.008861119"
+  },
+  {
+    "name": "Nameche",
+    "longitude": "4.998369",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nameche/2018/01/07/23/56",
+    "latitude": "50.470381",
+    "geo": {
+      "lat": 50.470381,
+      "lon": 4.998369
+    },
+    "id": "BE.NMBS.008863453"
+  },
+  {
+    "name": "Grupont",
+    "longitude": "5.280228",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Grupont/2018/01/07/23/56",
+    "latitude": "50.090622",
+    "geo": {
+      "lat": 50.090622,
+      "lon": 5.280228
+    },
+    "id": "BE.NMBS.008864337"
+  },
+  {
+    "name": "Arlon",
+    "longitude": "5.810614",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Arlon/2018/01/07/23/56",
+    "latitude": "49.679975",
+    "geo": {
+      "lat": 49.679975,
+      "lon": 5.810614
+    },
+    "id": "BE.NMBS.008866001"
+  },
+  {
+    "name": "Erquelinnes Village",
+    "longitude": "4.130281",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erquelinnes Village/2018/01/07/23/56",
+    "latitude": "50.309539",
+    "geo": {
+      "lat": 50.309539,
+      "lon": 4.130281
+    },
+    "id": "BE.NMBS.008871647"
+  },
+  {
+    "name": "Charleroi West",
+    "longitude": "4.435644",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Charleroi West/2018/01/07/23/56",
+    "latitude": "50.409741",
+    "geo": {
+      "lat": 50.409741,
+      "lon": 4.435644
+    },
+    "id": "BE.NMBS.008872066"
+  },
+  {
+    "name": "Yves Gomezee",
+    "longitude": "4.490469",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Yves Gomezee/2018/01/07/23/56",
+    "latitude": "50.238039",
+    "geo": {
+      "lat": 50.238039,
+      "lon": 4.490469
+    },
+    "id": "BE.NMBS.008873239"
+  },
+  {
+    "name": "Pry",
+    "longitude": "4.430361",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pry/2018/01/07/23/56",
+    "latitude": "50.268789",
+    "geo": {
+      "lat": 50.268789,
+      "lon": 4.4303609999999995
+    },
+    "id": "BE.NMBS.008873312"
+  },
+  {
+    "name": "Berzee",
+    "longitude": "4.405942",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Berzee/2018/01/07/23/56",
+    "latitude": "50.285589",
+    "geo": {
+      "lat": 50.285589,
+      "lon": 4.405942
+    },
+    "id": "BE.NMBS.008873320"
+  },
+  {
+    "name": "Farciennes",
+    "longitude": "4.565091",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Farciennes/2018/01/07/23/56",
+    "latitude": "50.435567",
+    "geo": {
+      "lat": 50.435567,
+      "lon": 4.565091
+    },
+    "id": "BE.NMBS.008874567"
+  },
+  {
+    "name": "Masnuy Saint Pierre",
+    "longitude": "3.962139",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Masnuy Saint Pierre/2018/01/07/23/56",
+    "latitude": "50.536547",
+    "geo": {
+      "lat": 50.536547,
+      "lon": 3.962139
+    },
+    "id": "BE.NMBS.008881174"
+  },
+  {
+    "name": "Obourg",
+    "longitude": "4.008558",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Obourg/2018/01/07/23/56",
+    "latitude": "50.469539",
+    "geo": {
+      "lat": 50.469539,
+      "lon": 4.008558
+    },
+    "id": "BE.NMBS.008881406"
+  },
+  {
+    "name": "Lessen",
+    "longitude": "3.836492",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lessen/2018/01/07/23/56",
+    "latitude": "50.712947",
+    "geo": {
+      "lat": 50.712947,
+      "lon": 3.836492
+    },
+    "id": "BE.NMBS.008886504"
+  },
+  {
+    "name": "Maria Aalter",
+    "longitude": "3.386725",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Maria Aalter/2018/01/07/23/56",
+    "latitude": "51.107608",
+    "geo": {
+      "lat": 51.107608,
+      "lon": 3.386725
+    },
+    "id": "BE.NMBS.008891132"
+  },
+  {
+    "name": "Ostend",
+    "longitude": "2.927904",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ostend/2018/01/07/23/56",
+    "latitude": "51.226518",
+    "geo": {
+      "lat": 51.226518,
+      "lon": 2.927904
+    },
+    "id": "BE.NMBS.008891702"
+  },
+  {
+    "name": "Ghent Dampoort",
+    "longitude": "3.740491",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ghent Dampoort/2018/01/07/23/56",
+    "latitude": "51.05665",
+    "geo": {
+      "lat": 51.05665,
+      "lon": 3.740491
+    },
+    "id": "BE.NMBS.008893120"
+  },
+  {
+    "name": "Schellebelle",
+    "longitude": "3.921372",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Schellebelle/2018/01/07/23/56",
+    "latitude": "51.003153",
+    "geo": {
+      "lat": 51.003153,
+      "lon": 3.921372
+    },
+    "id": "BE.NMBS.008893542"
+  },
+  {
+    "name": "Melsele",
+    "longitude": "4.288533",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Melsele/2018/01/07/23/56",
+    "latitude": "51.210714",
+    "geo": {
+      "lat": 51.210714,
+      "lon": 4.288533
+    },
+    "id": "BE.NMBS.008894755"
+  },
+  {
+    "name": "Ninove",
+    "longitude": "4.026242",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ninove/2018/01/07/23/56",
+    "latitude": "50.839504",
+    "geo": {
+      "lat": 50.839504,
+      "lon": 4.026242
+    },
+    "id": "BE.NMBS.008895760"
+  },
+  {
+    "name": "Haaltert",
+    "longitude": "4.021797",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haaltert/2018/01/07/23/56",
+    "latitude": "50.907375",
+    "geo": {
+      "lat": 50.907375,
+      "lon": 4.021797
+    },
+    "id": "BE.NMBS.008895869"
+  },
+  {
+    "name": "DEN HAAG",
+    "longitude": "4.32226181030273",
+    "departures": "https://data.irail.be/NMBS/Liveboard/DEN HAAG/2018/01/07/23/56",
+    "latitude": "52.0699574600902",
+    "geo": {
+      "lat": 52.0699574600902,
+      "lon": 4.32226181030273
+    },
+    "id": "NL.X.99001"
+  },
+  {
+    "name": "LONDON PANCRAS",
+    "longitude": "0.125277778",
+    "departures": "https://data.irail.be/NMBS/Liveboard/LONDON PANCRAS/2018/01/07/23/56",
+    "latitude": "51.530277778",
+    "geo": {
+      "lat": 51.530277778,
+      "lon": 0.125277778
+    },
+    "id": "UK.A.1"
+  },
+  {
+    "name": "Verviers Palais",
+    "longitude": "5.865262",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Verviers Palais/2018/01/07/23/56",
+    "latitude": "50.590961",
+    "geo": {
+      "lat": 50.590961,
+      "lon": 5.8652619999999995
+    },
+    "id": "BE.NMBS.008844057"
+  },
+  {
+    "name": "Fraipont",
+    "longitude": "5.723475",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Fraipont/2018/01/07/23/56",
+    "latitude": "50.565414",
+    "geo": {
+      "lat": 50.565414,
+      "lon": 5.723475
+    },
+    "id": "BE.NMBS.008844255"
+  },
+  {
+    "name": "Stockem",
+    "longitude": "5.767712",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Stockem/2018/01/07/23/56",
+    "latitude": "49.690736",
+    "geo": {
+      "lat": 49.690736,
+      "lon": 5.7677119999999995
+    },
+    "id": "BE.NMBS.008862018"
+  },
+  {
+    "name": "Courriere",
+    "longitude": "4.995732",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Courriere/2018/01/07/23/56",
+    "latitude": "50.387727",
+    "geo": {
+      "lat": 50.387727,
+      "lon": 4.995732
+    },
+    "id": "BE.NMBS.008864949"
+  },
+  {
+    "name": "Marchienne Zone",
+    "longitude": "4.389017",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marchienne Zone/2018/01/07/23/56",
+    "latitude": "50.397166",
+    "geo": {
+      "lat": 50.397166,
+      "lon": 4.389017
+    },
+    "id": "BE.NMBS.008871852"
+  },
+  {
+    "name": "Fleurus",
+    "longitude": "4.542909",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Fleurus/2018/01/07/23/56",
+    "latitude": "50.481021",
+    "geo": {
+      "lat": 50.481021,
+      "lon": 4.542909
+    },
+    "id": "BE.NMBS.008872413"
+  },
+  {
+    "name": "Familleureux",
+    "longitude": "4.211575",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Familleureux/2018/01/07/23/56",
+    "latitude": "50.519364",
+    "geo": {
+      "lat": 50.519364,
+      "lon": 4.211575
+    },
+    "id": "BE.NMBS.008883238"
+  },
+  {
+    "name": "Zeebrugge Strand",
+    "longitude": "3.186668",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zeebrugge Strand/2018/01/07/23/56",
+    "latitude": "51.324546",
+    "geo": {
+      "lat": 51.324546,
+      "lon": 3.186668
+    },
+    "id": "BE.NMBS.008891173"
+  },
+  {
+    "name": "Gavere Asper",
+    "longitude": "3.638958",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gavere Asper/2018/01/07/23/56",
+    "latitude": "50.930558",
+    "geo": {
+      "lat": 50.930558,
+      "lon": 3.638958
+    },
+    "id": "BE.NMBS.008892643"
+  },
+  {
+    "name": "Waarschoot",
+    "longitude": "3.615353",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Waarschoot/2018/01/07/23/56",
+    "latitude": "51.154608",
+    "geo": {
+      "lat": 51.154608,
+      "lon": 3.615353
+    },
+    "id": "BE.NMBS.008893815"
+  },
+  {
+    "name": "Vijfhuizen",
+    "longitude": "3.982651",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vijfhuizen/2018/01/07/23/56",
+    "latitude": "50.943327",
+    "geo": {
+      "lat": 50.943327,
+      "lon": 3.9826509999999997
+    },
+    "id": "BE.NMBS.008895489"
+  },
+  {
+    "name": "Vichte",
+    "longitude": "3.392842",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vichte/2018/01/07/23/56",
+    "latitude": "50.833558",
+    "geo": {
+      "lat": 50.833558,
+      "lon": 3.392842
+    },
+    "id": "BE.NMBS.008896230"
+  },
+  {
+    "name": "Noorderkempen",
+    "longitude": "4.2659",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Noorderkempen/2018/01/07/23/56",
+    "latitude": "51.2238",
+    "geo": {
+      "lat": 51.2238,
+      "lon": 4.2659
+    },
+    "id": "BE.NMBS.123456789"
+  },
+  {
+    "name": "Genval",
+    "longitude": "4.513725",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Genval/2018/01/07/23/56",
+    "latitude": "50.726408",
+    "geo": {
+      "lat": 50.726408,
+      "lon": 4.513725
+    },
+    "id": "BE.NMBS.008811528"
+  },
+  {
+    "name": "Kijkuit",
+    "longitude": "4.467533",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kijkuit/2018/01/07/23/56",
+    "latitude": "51.379236",
+    "geo": {
+      "lat": 51.379236,
+      "lon": 4.4675329999999995
+    },
+    "id": "BE.NMBS.008821451"
+  },
+  {
+    "name": "Herstal",
+    "longitude": "5.62235",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herstal/2018/01/07/23/56",
+    "latitude": "50.6604",
+    "geo": {
+      "lat": 50.6604,
+      "lon": 5.62235
+    },
+    "id": "BE.NMBS.008841608"
+  },
+  {
+    "name": "Leman",
+    "longitude": "5.467",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leman/2018/01/07/23/56",
+    "latitude": "50.5995",
+    "geo": {
+      "lat": 50.5995,
+      "lon": 5.467
+    },
+    "id": "BE.NMBS.008843224"
+  },
+  {
+    "name": "Groenendaal",
+    "longitude": "4.44935",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Groenendaal/2018/01/07/23/56",
+    "latitude": "50.76614",
+    "geo": {
+      "lat": 50.76614,
+      "lon": 4.44935
+    },
+    "id": "BE.NMBS.008811445"
+  },
+  {
+    "name": "Gastuche",
+    "longitude": "4.649597",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gastuche/2018/01/07/23/56",
+    "latitude": "50.736647",
+    "geo": {
+      "lat": 50.736647,
+      "lon": 4.649597
+    },
+    "id": "BE.NMBS.008811742"
+  },
+  {
+    "name": "Moensberg",
+    "longitude": "4.32979",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Moensberg/2018/01/07/23/56",
+    "latitude": "50.777909",
+    "geo": {
+      "lat": 50.777909,
+      "lon": 4.32979
+    },
+    "id": "BE.NMBS.008814431"
+  },
+  {
+    "name": "Wildert",
+    "longitude": "4.463825",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wildert/2018/01/07/23/56",
+    "latitude": "51.427614",
+    "geo": {
+      "lat": 51.427614,
+      "lon": 4.463825
+    },
+    "id": "BE.NMBS.008821436"
+  },
+  {
+    "name": "Kapelle Op Den Bos",
+    "longitude": "4.358819",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kapelle Op Den Bos/2018/01/07/23/56",
+    "latitude": "51.010795",
+    "geo": {
+      "lat": 51.010795,
+      "lon": 4.358819
+    },
+    "id": "BE.NMBS.008822053"
+  },
+  {
+    "name": "Malines Nekkerspoel",
+    "longitude": "4.489986",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Malines Nekkerspoel/2018/01/07/23/56",
+    "latitude": "51.030012",
+    "geo": {
+      "lat": 51.030012,
+      "lon": 4.489986
+    },
+    "id": "BE.NMBS.008822343"
+  },
+  {
+    "name": "Leuven",
+    "longitude": "4.716096",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leuven/2018/01/07/23/56",
+    "latitude": "50.881356",
+    "geo": {
+      "lat": 50.881356,
+      "lon": 4.716096
+    },
+    "id": "BE.NMBS.008833001"
+  },
+  {
+    "name": "Sint Joris Weert",
+    "longitude": "4.65195",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Joris Weert/2018/01/07/23/56",
+    "latitude": "50.8013",
+    "geo": {
+      "lat": 50.8013,
+      "lon": 4.65195
+    },
+    "id": "BE.NMBS.008833159"
+  },
+  {
+    "name": "Hoei",
+    "longitude": "5.234206",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hoei/2018/01/07/23/56",
+    "latitude": "50.527239",
+    "geo": {
+      "lat": 50.527239,
+      "lon": 5.234206
+    },
+    "id": "BE.NMBS.008843307"
+  },
+  {
+    "name": "Pepinster",
+    "longitude": "5.808247",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pepinster/2018/01/07/23/56",
+    "latitude": "50.568814",
+    "geo": {
+      "lat": 50.568814,
+      "lon": 5.808247
+    },
+    "id": "BE.NMBS.008844206"
+  },
+  {
+    "name": "Coo",
+    "longitude": "5.880883",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Coo/2018/01/07/23/56",
+    "latitude": "50.391311",
+    "geo": {
+      "lat": 50.391311,
+      "lon": 5.880883
+    },
+    "id": "BE.NMBS.008845229"
+  },
+  {
+    "name": "Pont A Celles",
+    "longitude": "4.354139",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pont A Celles/2018/01/07/23/56",
+    "latitude": "50.5136",
+    "geo": {
+      "lat": 50.5136,
+      "lon": 4.354139
+    },
+    "id": "BE.NMBS.008871365"
+  },
+  {
+    "name": "Forchies",
+    "longitude": "4.323483",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Forchies/2018/01/07/23/56",
+    "latitude": "50.43305",
+    "geo": {
+      "lat": 50.43305,
+      "lon": 4.3234829999999995
+    },
+    "id": "BE.NMBS.008871514"
+  },
+  {
+    "name": "Jemeppe Sur Sambre",
+    "longitude": "4.662626",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jemeppe Sur Sambre/2018/01/07/23/56",
+    "latitude": "50.450949",
+    "geo": {
+      "lat": 50.450949,
+      "lon": 4.6626259999999995
+    },
+    "id": "BE.NMBS.008874724"
+  },
+  {
+    "name": "Thieu",
+    "longitude": "4.098522",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Thieu/2018/01/07/23/56",
+    "latitude": "50.469539",
+    "geo": {
+      "lat": 50.469539,
+      "lon": 4.098522
+    },
+    "id": "BE.NMBS.008881455"
+  },
+  {
+    "name": "Quevy",
+    "longitude": "3.909245",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Quevy/2018/01/07/23/56",
+    "latitude": "50.341517",
+    "geo": {
+      "lat": 50.341517,
+      "lon": 3.909245
+    },
+    "id": "BE.NMBS.008881505"
+  },
+  {
+    "name": "Zedelgem",
+    "longitude": "3.1634",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zedelgem/2018/01/07/23/56",
+    "latitude": "51.12641",
+    "geo": {
+      "lat": 51.12641,
+      "lon": 3.1634
+    },
+    "id": "BE.NMBS.008891264"
+  },
+  {
+    "name": "Ghent Sint Pieters",
+    "longitude": "3.710232",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ghent Sint Pieters/2018/01/07/23/56",
+    "latitude": "51.035763",
+    "geo": {
+      "lat": 51.035763,
+      "lon": 3.710232
+    },
+    "id": "BE.NMBS.008892007"
+  },
+  {
+    "name": "Drongen",
+    "longitude": "3.653483",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Drongen/2018/01/07/23/56",
+    "latitude": "51.0474",
+    "geo": {
+      "lat": 51.0474,
+      "lon": 3.653483
+    },
+    "id": "BE.NMBS.008892031"
+  },
+  {
+    "name": "Wondelgem",
+    "longitude": "3.718372",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wondelgem/2018/01/07/23/56",
+    "latitude": "51.086864",
+    "geo": {
+      "lat": 51.086864,
+      "lon": 3.718372
+    },
+    "id": "BE.NMBS.008893211"
+  },
+  {
+    "name": "Lede",
+    "longitude": "3.984975",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lede/2018/01/07/23/56",
+    "latitude": "50.970903",
+    "geo": {
+      "lat": 50.970903,
+      "lon": 3.984975
+    },
+    "id": "BE.NMBS.008895067"
+  },
+  {
+    "name": "Galmaarden",
+    "longitude": "3.964938",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Galmaarden/2018/01/07/23/56",
+    "latitude": "50.743998",
+    "geo": {
+      "lat": 50.743998,
+      "lon": 3.964938
+    },
+    "id": "BE.NMBS.008895620"
+  },
+  {
+    "name": "Appelterre",
+    "longitude": "3.972025",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Appelterre/2018/01/07/23/56",
+    "latitude": "50.81345",
+    "geo": {
+      "lat": 50.81345,
+      "lon": 3.972025
+    },
+    "id": "BE.NMBS.008895745"
+  },
+  {
+    "name": "Meiser",
+    "longitude": "4.394025",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Meiser/2018/01/07/23/56",
+    "latitude": "50.854558",
+    "geo": {
+      "lat": 50.854558,
+      "lon": 4.394025
+    },
+    "id": "BE.NMBS.008811171"
+  },
+  {
+    "name": "Diegem",
+    "longitude": "4.441931",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Diegem/2018/01/07/23/56",
+    "latitude": "50.890481",
+    "geo": {
+      "lat": 50.890481,
+      "lon": 4.441931
+    },
+    "id": "BE.NMBS.008811213"
+  },
+  {
+    "name": "Opwijk",
+    "longitude": "4.187442",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Opwijk/2018/01/07/23/56",
+    "latitude": "50.974503",
+    "geo": {
+      "lat": 50.974503,
+      "lon": 4.187442
+    },
+    "id": "BE.NMBS.008812146"
+  },
+  {
+    "name": "Boechout",
+    "longitude": "4.494047",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Boechout/2018/01/07/23/56",
+    "latitude": "51.163828",
+    "geo": {
+      "lat": 51.163828,
+      "lon": 4.494047
+    },
+    "id": "BE.NMBS.008821634"
+  },
+  {
+    "name": "Wespelaar Tildonk",
+    "longitude": "4.637489",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wespelaar Tildonk/2018/01/07/23/56",
+    "latitude": "50.958297",
+    "geo": {
+      "lat": 50.958297,
+      "lon": 4.637489
+    },
+    "id": "BE.NMBS.008822525"
+  },
+  {
+    "name": "Alken",
+    "longitude": "5.29173",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Alken/2018/01/07/23/56",
+    "latitude": "50.886419",
+    "geo": {
+      "lat": 50.886419,
+      "lon": 5.29173
+    },
+    "id": "BE.NMBS.008831039"
+  },
+  {
+    "name": "Bierset Awans",
+    "longitude": "5.46055",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bierset Awans/2018/01/07/23/56",
+    "latitude": "50.658614",
+    "geo": {
+      "lat": 50.658614,
+      "lon": 5.46055
+    },
+    "id": "BE.NMBS.008841319"
+  },
+  {
+    "name": "Momalle",
+    "longitude": "5.367597",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Momalle/2018/01/07/23/56",
+    "latitude": "50.669911",
+    "geo": {
+      "lat": 50.669911,
+      "lon": 5.367597
+    },
+    "id": "BE.NMBS.008841459"
+  },
+  {
+    "name": "Angleur",
+    "longitude": "5.600949",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Angleur/2018/01/07/23/56",
+    "latitude": "50.61253",
+    "geo": {
+      "lat": 50.61253,
+      "lon": 5.600949
+    },
+    "id": "BE.NMBS.008842002"
+  },
+  {
+    "name": "Rivage",
+    "longitude": "5.585186",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Rivage/2018/01/07/23/56",
+    "latitude": "50.486422",
+    "geo": {
+      "lat": 50.486422,
+      "lon": 5.585186
+    },
+    "id": "BE.NMBS.008842705"
+  },
+  {
+    "name": "Spa",
+    "longitude": "5.855831",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Spa/2018/01/07/23/56",
+    "latitude": "50.490163",
+    "geo": {
+      "lat": 50.490163,
+      "lon": 5.855831
+    },
+    "id": "BE.NMBS.008844404"
+  },
+  {
+    "name": "Welkenraedt",
+    "longitude": "5.974261",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Welkenraedt/2018/01/07/23/56",
+    "latitude": "50.659464",
+    "geo": {
+      "lat": 50.659464,
+      "lon": 5.974261
+    },
+    "id": "BE.NMBS.008844503"
+  },
+  {
+    "name": "Gouvy",
+    "longitude": "5.953908",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gouvy/2018/01/07/23/56",
+    "latitude": "50.189414",
+    "geo": {
+      "lat": 50.189414,
+      "lon": 5.953908
+    },
+    "id": "BE.NMBS.008845005"
+  },
+  {
+    "name": "Sclaigneaux",
+    "longitude": "5.026374",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sclaigneaux/2018/01/07/23/56",
+    "latitude": "50.492204",
+    "geo": {
+      "lat": 50.492204,
+      "lon": 5.026374
+    },
+    "id": "BE.NMBS.008863446"
+  },
+  {
+    "name": "Aye",
+    "longitude": "5.300689",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aye/2018/01/07/23/56",
+    "latitude": "50.224872",
+    "geo": {
+      "lat": 50.224872,
+      "lon": 5.300689
+    },
+    "id": "BE.NMBS.008864352"
+  },
+  {
+    "name": "Natoye",
+    "longitude": "5.0612",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Natoye/2018/01/07/23/56",
+    "latitude": "50.343358",
+    "geo": {
+      "lat": 50.343358,
+      "lon": 5.0612
+    },
+    "id": "BE.NMBS.008864915"
+  },
+  {
+    "name": "Libramont",
+    "longitude": "5.379272",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Libramont/2018/01/07/23/56",
+    "latitude": "49.920425",
+    "geo": {
+      "lat": 49.920425,
+      "lon": 5.379272
+    },
+    "id": "BE.NMBS.008865003"
+  },
+  {
+    "name": "Couillet",
+    "longitude": "4.469343",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Couillet/2018/01/07/23/56",
+    "latitude": "50.392727",
+    "geo": {
+      "lat": 50.392727,
+      "lon": 4.469343
+    },
+    "id": "BE.NMBS.008874054"
+  },
+  {
+    "name": "Zinnik",
+    "longitude": "4.069142",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zinnik/2018/01/07/23/56",
+    "latitude": "50.573447",
+    "geo": {
+      "lat": 50.573447,
+      "lon": 4.069142
+    },
+    "id": "BE.NMBS.008883113"
+  },
+  {
+    "name": "Hainin",
+    "longitude": "3.766787",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hainin/2018/01/07/23/56",
+    "latitude": "50.428042",
+    "geo": {
+      "lat": 50.428042,
+      "lon": 3.766787
+    },
+    "id": "BE.NMBS.008884327"
+  },
+  {
+    "name": "Jemappes",
+    "longitude": "3.885189",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jemappes/2018/01/07/23/56",
+    "latitude": "50.452289",
+    "geo": {
+      "lat": 50.452289,
+      "lon": 3.885189
+    },
+    "id": "BE.NMBS.008884566"
+  },
+  {
+    "name": "Herseaux",
+    "longitude": "3.244758",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herseaux/2018/01/07/23/56",
+    "latitude": "50.71425",
+    "geo": {
+      "lat": 50.71425,
+      "lon": 3.244758
+    },
+    "id": "BE.NMBS.008885753"
+  },
+  {
+    "name": "De Panne",
+    "longitude": "2.602397",
+    "departures": "https://data.irail.be/NMBS/Liveboard/De Panne/2018/01/07/23/56",
+    "latitude": "51.077288",
+    "geo": {
+      "lat": 51.077288,
+      "lon": 2.602397
+    },
+    "id": "BE.NMBS.008892338"
+  },
+  {
+    "name": "Oudegem",
+    "longitude": "4.062361",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Oudegem/2018/01/07/23/56",
+    "latitude": "51.014903",
+    "geo": {
+      "lat": 51.014903,
+      "lon": 4.062361
+    },
+    "id": "BE.NMBS.008893518"
+  },
+  {
+    "name": "Hillegem",
+    "longitude": "3.857472",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hillegem/2018/01/07/23/56",
+    "latitude": "50.891303",
+    "geo": {
+      "lat": 50.891303,
+      "lon": 3.857472
+    },
+    "id": "BE.NMBS.008895422"
+  },
+  {
+    "name": "Ceroux Mousty",
+    "longitude": "4.568547",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ceroux Mousty/2018/01/07/23/56",
+    "latitude": "50.659325",
+    "geo": {
+      "lat": 50.659325,
+      "lon": 4.568547
+    },
+    "id": "BE.NMBS.008811817"
+  },
+  {
+    "name": "Court Saint Etienne",
+    "longitude": "4.565819",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Court Saint Etienne/2018/01/07/23/56",
+    "latitude": "50.645566",
+    "geo": {
+      "lat": 50.645566,
+      "lon": 4.565819
+    },
+    "id": "BE.NMBS.008811825"
+  },
+  {
+    "name": "Essene Lombeek",
+    "longitude": "4.115169",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Essene Lombeek/2018/01/07/23/56",
+    "latitude": "50.882447",
+    "geo": {
+      "lat": 50.882447,
+      "lon": 4.115169
+    },
+    "id": "BE.NMBS.008812260"
+  },
+  {
+    "name": "Antwerp Berchem",
+    "longitude": "4.4332",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerp Berchem/2018/01/07/23/56",
+    "latitude": "51.198914",
+    "geo": {
+      "lat": 51.198914,
+      "lon": 4.4332
+    },
+    "id": "BE.NMBS.008821121"
+  },
+  {
+    "name": "Nijlen",
+    "longitude": "4.664447",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nijlen/2018/01/07/23/56",
+    "latitude": "51.159717",
+    "geo": {
+      "lat": 51.159717,
+      "lon": 4.664447
+    },
+    "id": "BE.NMBS.008821667"
+  },
+  {
+    "name": "Boom",
+    "longitude": "4.360297",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Boom/2018/01/07/23/56",
+    "latitude": "51.091006",
+    "geo": {
+      "lat": 51.091006,
+      "lon": 4.360297
+    },
+    "id": "BE.NMBS.008822814"
+  },
+  {
+    "name": "Diest",
+    "longitude": "5.050025",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Diest/2018/01/07/23/56",
+    "latitude": "50.993342",
+    "geo": {
+      "lat": 50.993342,
+      "lon": 5.050025
+    },
+    "id": "BE.NMBS.008831401"
+  },
+  {
+    "name": "Heverlee",
+    "longitude": "4.694414",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heverlee/2018/01/07/23/56",
+    "latitude": "50.862442",
+    "geo": {
+      "lat": 50.862442,
+      "lon": 4.694414
+    },
+    "id": "BE.NMBS.008833126"
+  },
+  {
+    "name": "Landen",
+    "longitude": "5.079658",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Landen/2018/01/07/23/56",
+    "latitude": "50.747925",
+    "geo": {
+      "lat": 50.747925,
+      "lon": 5.079658
+    },
+    "id": "BE.NMBS.008833605"
+  },
+  {
+    "name": "Liege Jonfosse",
+    "longitude": "5.561125",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Liege Jonfosse/2018/01/07/23/56",
+    "latitude": "50.6403",
+    "geo": {
+      "lat": 50.6403,
+      "lon": 5.561125
+    },
+    "id": "BE.NMBS.008841558"
+  },
+  {
+    "name": "Esneux",
+    "longitude": "5.572658",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Esneux/2018/01/07/23/56",
+    "latitude": "50.529628",
+    "geo": {
+      "lat": 50.529628,
+      "lon": 5.572658
+    },
+    "id": "BE.NMBS.008842663"
+  },
+  {
+    "name": "Haute Flone",
+    "longitude": "5.331097",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haute Flone/2018/01/07/23/56",
+    "latitude": "50.554331",
+    "geo": {
+      "lat": 50.554331,
+      "lon": 5.331097
+    },
+    "id": "BE.NMBS.008843349"
+  },
+  {
+    "name": "Eupen",
+    "longitude": "6.037114",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eupen/2018/01/07/23/56",
+    "latitude": "50.635164",
+    "geo": {
+      "lat": 50.635164,
+      "lon": 6.037114
+    },
+    "id": "BE.NMBS.008844628"
+  },
+  {
+    "name": "Moustier",
+    "longitude": "4.693809",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Moustier/2018/01/07/23/56",
+    "latitude": "50.452754",
+    "geo": {
+      "lat": 50.452754,
+      "lon": 4.693809
+    },
+    "id": "BE.NMBS.008861150"
+  },
+  {
+    "name": "Leignon",
+    "longitude": "5.107781",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leignon/2018/01/07/23/56",
+    "latitude": "50.267772",
+    "geo": {
+      "lat": 50.267772,
+      "lon": 5.107781
+    },
+    "id": "BE.NMBS.008864816"
+  },
+  {
+    "name": "Sart Bernard",
+    "longitude": "4.948467",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sart Bernard/2018/01/07/23/56",
+    "latitude": "50.406617",
+    "geo": {
+      "lat": 50.406617,
+      "lon": 4.948467
+    },
+    "id": "BE.NMBS.008864956"
+  },
+  {
+    "name": "Walcourt",
+    "longitude": "4.435336",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Walcourt/2018/01/07/23/56",
+    "latitude": "50.258639",
+    "geo": {
+      "lat": 50.258639,
+      "lon": 4.435336
+    },
+    "id": "BE.NMBS.008873007"
+  },
+  {
+    "name": "Aiseau",
+    "longitude": "4.584378",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aiseau/2018/01/07/23/56",
+    "latitude": "50.429545",
+    "geo": {
+      "lat": 50.429545,
+      "lon": 4.584378
+    },
+    "id": "BE.NMBS.008874583"
+  },
+  {
+    "name": "Nimy",
+    "longitude": "3.956505",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nimy/2018/01/07/23/56",
+    "latitude": "50.471812",
+    "geo": {
+      "lat": 50.471812,
+      "lon": 3.956505
+    },
+    "id": "BE.NMBS.008881315"
+  },
+  {
+    "name": "Genly",
+    "longitude": "3.911636",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Genly/2018/01/07/23/56",
+    "latitude": "50.390639",
+    "geo": {
+      "lat": 50.390639,
+      "lon": 3.911636
+    },
+    "id": "BE.NMBS.008881562"
+  },
+  {
+    "name": "Maubray",
+    "longitude": "3.495487",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Maubray/2018/01/07/23/56",
+    "latitude": "50.546947",
+    "geo": {
+      "lat": 50.546947,
+      "lon": 3.495487
+    },
+    "id": "BE.NMBS.008885530"
+  },
+  {
+    "name": "Acren",
+    "longitude": "3.846683",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Acren/2018/01/07/23/56",
+    "latitude": "50.732936",
+    "geo": {
+      "lat": 50.732936,
+      "lon": 3.846683
+    },
+    "id": "BE.NMBS.008886546"
+  },
+  {
+    "name": "Beernem",
+    "longitude": "3.329886",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beernem/2018/01/07/23/56",
+    "latitude": "51.128008",
+    "geo": {
+      "lat": 51.128008,
+      "lon": 3.329886
+    },
+    "id": "BE.NMBS.008891124"
+  },
+  {
+    "name": "Gontrode",
+    "longitude": "3.801559",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gontrode/2018/01/07/23/56",
+    "latitude": "50.979844",
+    "geo": {
+      "lat": 50.979844,
+      "lon": 3.801559
+    },
+    "id": "BE.NMBS.008893047"
+  },
+  {
+    "name": "Serskamp",
+    "longitude": "3.959356",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Serskamp/2018/01/07/23/56",
+    "latitude": "50.984403",
+    "geo": {
+      "lat": 50.984403,
+      "lon": 3.959356
+    },
+    "id": "BE.NMBS.008893583"
+  },
+  {
+    "name": "Lokeren",
+    "longitude": "3.985283",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lokeren/2018/01/07/23/56",
+    "latitude": "51.107103",
+    "geo": {
+      "lat": 51.107103,
+      "lon": 3.985283
+    },
+    "id": "BE.NMBS.008894201"
+  },
+  {
+    "name": "Zottegem",
+    "longitude": "3.814414",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zottegem/2018/01/07/23/56",
+    "latitude": "50.869103",
+    "geo": {
+      "lat": 50.869103,
+      "lon": 3.814414
+    },
+    "id": "BE.NMBS.008895208"
+  },
+  {
+    "name": "PARIS",
+    "longitude": "2.35530138015747",
+    "departures": "https://data.irail.be/NMBS/Liveboard/PARIS/2018/01/07/23/56",
+    "latitude": "48.8804371787163",
+    "geo": {
+      "lat": 48.8804371787163,
+      "lon": 2.35530138015747
+    },
+    "id": "FR.SNCF.99012"
+  },
+  {
+    "name": "AMSTERDAM CENTRAL",
+    "longitude": "4.90032",
+    "departures": "https://data.irail.be/NMBS/Liveboard/AMSTERDAM CENTRAL/2018/01/07/23/56",
+    "latitude": "52.3791",
+    "geo": {
+      "lat": 52.3791,
+      "lon": 4.90032
+    },
+    "id": "NL.NS.ASD"
+  },
+  {
+    "name": "Vorst East",
+    "longitude": "4.320936",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vorst East/2018/01/07/23/56",
+    "latitude": "50.810204",
+    "geo": {
+      "lat": 50.810204,
+      "lon": 4.320936
+    },
+    "id": "BE.NMBS.008814118"
+  },
+  {
+    "name": "De Hoek",
+    "longitude": "4.370128",
+    "departures": "https://data.irail.be/NMBS/Liveboard/De Hoek/2018/01/07/23/56",
+    "latitude": "50.739181",
+    "geo": {
+      "lat": 50.739181,
+      "lon": 4.370128
+    },
+    "id": "BE.NMBS.008814175"
+  },
+  {
+    "name": "Lillois",
+    "longitude": "4.363247",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lillois/2018/01/07/23/56",
+    "latitude": "50.643742",
+    "geo": {
+      "lat": 50.643742,
+      "lon": 4.363247
+    },
+    "id": "BE.NMBS.008814241"
+  },
+  {
+    "name": "Eigenbrakel",
+    "longitude": "4.375525",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eigenbrakel/2018/01/07/23/56",
+    "latitude": "50.684778",
+    "geo": {
+      "lat": 50.684778,
+      "lon": 4.375525
+    },
+    "id": "BE.NMBS.008814258"
+  },
+  {
+    "name": "Wezemaal",
+    "longitude": "4.748314",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wezemaal/2018/01/07/23/56",
+    "latitude": "50.956206",
+    "geo": {
+      "lat": 50.956206,
+      "lon": 4.748314
+    },
+    "id": "BE.NMBS.008833233"
+  },
+  {
+    "name": "Neerwinden",
+    "longitude": "5.036322",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Neerwinden/2018/01/07/23/56",
+    "latitude": "50.763964",
+    "geo": {
+      "lat": 50.763964,
+      "lon": 5.036322
+    },
+    "id": "BE.NMBS.008833670"
+  },
+  {
+    "name": "Theux",
+    "longitude": "5.815186",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Theux/2018/01/07/23/56",
+    "latitude": "50.536314",
+    "geo": {
+      "lat": 50.536314,
+      "lon": 5.815186
+    },
+    "id": "BE.NMBS.008844339"
+  },
+  {
+    "name": "Franiere",
+    "longitude": "4.733547",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Franiere/2018/01/07/23/56",
+    "latitude": "50.439544",
+    "geo": {
+      "lat": 50.439544,
+      "lon": 4.733547
+    },
+    "id": "BE.NMBS.008861143"
+  },
+  {
+    "name": "Chateau De Seilles",
+    "longitude": "5.081753",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chateau De Seilles/2018/01/07/23/56",
+    "latitude": "50.49721",
+    "geo": {
+      "lat": 50.49721,
+      "lon": 5.081753
+    },
+    "id": "BE.NMBS.008863438"
+  },
+  {
+    "name": "Poix Saint Hubert",
+    "longitude": "5.292058",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Poix Saint Hubert/2018/01/07/23/56",
+    "latitude": "50.019772",
+    "geo": {
+      "lat": 50.019772,
+      "lon": 5.292058
+    },
+    "id": "BE.NMBS.008865227"
+  },
+  {
+    "name": "Ghlin",
+    "longitude": "3.906342",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ghlin/2018/01/07/23/56",
+    "latitude": "50.487408",
+    "geo": {
+      "lat": 50.487408,
+      "lon": 3.906342
+    },
+    "id": "BE.NMBS.008881125"
+  },
+  {
+    "name": "Froyennes",
+    "longitude": "3.355508",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Froyennes/2018/01/07/23/56",
+    "latitude": "50.629856",
+    "geo": {
+      "lat": 50.629856,
+      "lon": 3.355508
+    },
+    "id": "BE.NMBS.008885068"
+  },
+  {
+    "name": "Zingem",
+    "longitude": "3.645875",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zingem/2018/01/07/23/56",
+    "latitude": "50.909158",
+    "geo": {
+      "lat": 50.909158,
+      "lon": 3.645875
+    },
+    "id": "BE.NMBS.008892635"
+  },
+  {
+    "name": "Eke Nazareth",
+    "longitude": "3.627192",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eke Nazareth/2018/01/07/23/56",
+    "latitude": "50.961558",
+    "geo": {
+      "lat": 50.961558,
+      "lon": 3.627192
+    },
+    "id": "BE.NMBS.008892650"
+  },
+  {
+    "name": "Beveren",
+    "longitude": "4.26052",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beveren/2018/01/07/23/56",
+    "latitude": "51.20845",
+    "geo": {
+      "lat": 51.20845,
+      "lon": 4.26052
+    },
+    "id": "BE.NMBS.008894748"
+  },
+  {
+    "name": "Balegem Village",
+    "longitude": "3.7907",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Balegem Village/2018/01/07/23/56",
+    "latitude": "50.919953",
+    "geo": {
+      "lat": 50.919953,
+      "lon": 3.7907
+    },
+    "id": "BE.NMBS.008895257"
+  },
+  {
+    "name": "Bambrugge",
+    "longitude": "3.935661",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bambrugge/2018/01/07/23/56",
+    "latitude": "50.913903",
+    "geo": {
+      "lat": 50.913903,
+      "lon": 3.935661
+    },
+    "id": "BE.NMBS.008895463"
+  },
+  {
+    "name": "Courtrai",
+    "longitude": "3.265676",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Courtrai/2018/01/07/23/56",
+    "latitude": "50.824339",
+    "geo": {
+      "lat": 50.824339,
+      "lon": 3.265676
+    },
+    "id": "BE.NMBS.008896008"
+  },
+  {
+    "name": "Poperinge",
+    "longitude": "2.736304",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Poperinge/2018/01/07/23/56",
+    "latitude": "50.854421",
+    "geo": {
+      "lat": 50.854421,
+      "lon": 2.736304
+    },
+    "id": "BE.NMBS.008896735"
+  },
+  {
+    "name": "Ernage",
+    "longitude": "4.667119",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ernage/2018/01/07/23/56",
+    "latitude": "50.592412",
+    "geo": {
+      "lat": 50.592412,
+      "lon": 4.667119
+    },
+    "id": "BE.NMBS.008861515"
+  },
+  {
+    "name": "Marche Les Dames",
+    "longitude": "4.964581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marche Les Dames/2018/01/07/23/56",
+    "latitude": "50.480739",
+    "geo": {
+      "lat": 50.480739,
+      "lon": 4.964581
+    },
+    "id": "BE.NMBS.008863461"
+  },
+  {
+    "name": "Bastogne North",
+    "longitude": "5.721388",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bastogne North/2018/01/07/23/56",
+    "latitude": "50.00716",
+    "geo": {
+      "lat": 50.00716,
+      "lon": 5.721388
+    },
+    "id": "BE.NMBS.008865128"
+  },
+  {
+    "name": "Tubeke",
+    "longitude": "4.205725",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tubeke/2018/01/07/23/56",
+    "latitude": "50.691708",
+    "geo": {
+      "lat": 50.691708,
+      "lon": 4.205725
+    },
+    "id": "BE.NMBS.008883808"
+  },
+  {
+    "name": "Bruges",
+    "longitude": "3.216728",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bruges/2018/01/07/23/56",
+    "latitude": "51.197225",
+    "geo": {
+      "lat": 51.197225,
+      "lon": 3.216728
+    },
+    "id": "BE.NMBS.008891009"
+  },
+  {
+    "name": "De Pinte",
+    "longitude": "3.650883",
+    "departures": "https://data.irail.be/NMBS/Liveboard/De Pinte/2018/01/07/23/56",
+    "latitude": "50.99735",
+    "geo": {
+      "lat": 50.99735,
+      "lon": 3.650883
+    },
+    "id": "BE.NMBS.008892080"
+  },
+  {
+    "name": "Tielt",
+    "longitude": "3.328611",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tielt/2018/01/07/23/56",
+    "latitude": "50.990058",
+    "geo": {
+      "lat": 50.990058,
+      "lon": 3.328611
+    },
+    "id": "BE.NMBS.008892254"
+  },
+  {
+    "name": "Kwatrecht",
+    "longitude": "3.833333",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kwatrecht/2018/01/07/23/56",
+    "latitude": "50.991464",
+    "geo": {
+      "lat": 50.991464,
+      "lon": 3.833333
+    },
+    "id": "BE.NMBS.008893567"
+  },
+  {
+    "name": "Munkzwalm",
+    "longitude": "3.731544",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Munkzwalm/2018/01/07/23/56",
+    "latitude": "50.875853",
+    "geo": {
+      "lat": 50.875853,
+      "lon": 3.731544
+    },
+    "id": "BE.NMBS.008895232"
+  },
+  {
+    "name": "Herne",
+    "longitude": "4.014376",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herne/2018/01/07/23/56",
+    "latitude": "50.723701",
+    "geo": {
+      "lat": 50.723701,
+      "lon": 4.014376
+    },
+    "id": "BE.NMBS.008895646"
+  },
+  {
+    "name": "Idegem",
+    "longitude": "3.921411",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Idegem/2018/01/07/23/56",
+    "latitude": "50.801704",
+    "geo": {
+      "lat": 50.801704,
+      "lon": 3.921411
+    },
+    "id": "BE.NMBS.008895729"
+  },
+  {
+    "name": "Limal",
+    "longitude": "4.575297",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Limal/2018/01/07/23/56",
+    "latitude": "50.692144",
+    "geo": {
+      "lat": 50.692144,
+      "lon": 4.575297
+    },
+    "id": "BE.NMBS.008811635"
+  },
+  {
+    "name": "Brussels Central",
+    "longitude": "4.357131",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Central/2018/01/07/23/56",
+    "latitude": "50.845175",
+    "geo": {
+      "lat": 50.845175,
+      "lon": 4.357131
+    },
+    "id": "BE.NMBS.008813003"
+  },
+  {
+    "name": "Uccle Stalle",
+    "longitude": "4.323539",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Uccle Stalle/2018/01/07/23/56",
+    "latitude": "50.802431",
+    "geo": {
+      "lat": 50.802431,
+      "lon": 4.323539
+    },
+    "id": "BE.NMBS.008814126"
+  },
+  {
+    "name": "Halle",
+    "longitude": "4.2395",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Halle/2018/01/07/23/56",
+    "latitude": "50.7332",
+    "geo": {
+      "lat": 50.7332,
+      "lon": 4.2395
+    },
+    "id": "BE.NMBS.008814308"
+  },
+  {
+    "name": "Herentals",
+    "longitude": "4.828608",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herentals/2018/01/07/23/56",
+    "latitude": "51.181",
+    "geo": {
+      "lat": 51.181,
+      "lon": 4.828608
+    },
+    "id": "BE.NMBS.008821717"
+  },
+  {
+    "name": "Booischot",
+    "longitude": "4.772797",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Booischot/2018/01/07/23/56",
+    "latitude": "51.0375",
+    "geo": {
+      "lat": 51.0375,
+      "lon": 4.772797
+    },
+    "id": "BE.NMBS.008821857"
+  },
+  {
+    "name": "Langdorp",
+    "longitude": "4.863539",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Langdorp/2018/01/07/23/56",
+    "latitude": "51.002469",
+    "geo": {
+      "lat": 51.002469,
+      "lon": 4.863539
+    },
+    "id": "BE.NMBS.008833258"
+  },
+  {
+    "name": "Haren South",
+    "longitude": "4.415109",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haren South/2018/01/07/23/56",
+    "latitude": "50.889567",
+    "geo": {
+      "lat": 50.889567,
+      "lon": 4.415109
+    },
+    "id": "BE.NMBS.008811130"
+  },
+  {
+    "name": "Brussels Luxembourg",
+    "longitude": "4.37382",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Luxembourg/2018/01/07/23/56",
+    "latitude": "50.83886",
+    "geo": {
+      "lat": 50.83886,
+      "lon": 4.37382
+    },
+    "id": "BE.NMBS.008811304"
+  },
+  {
+    "name": "Bierges Walibi",
+    "longitude": "4.594753",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bierges Walibi/2018/01/07/23/56",
+    "latitude": "50.707772",
+    "geo": {
+      "lat": 50.707772,
+      "lon": 4.594753
+    },
+    "id": "BE.NMBS.008811718"
+  },
+  {
+    "name": "Pecrot",
+    "longitude": "4.651031",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Pecrot/2018/01/07/23/56",
+    "latitude": "50.779208",
+    "geo": {
+      "lat": 50.779208,
+      "lon": 4.651031
+    },
+    "id": "BE.NMBS.008811775"
+  },
+  {
+    "name": "Brussels Chapelle",
+    "longitude": "4.347869",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Chapelle/2018/01/07/23/56",
+    "latitude": "50.841131",
+    "geo": {
+      "lat": 50.841131,
+      "lon": 4.347869
+    },
+    "id": "BE.NMBS.008813037"
+  },
+  {
+    "name": "Linkebeek",
+    "longitude": "4.339781",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Linkebeek/2018/01/07/23/56",
+    "latitude": "50.773331",
+    "geo": {
+      "lat": 50.773331,
+      "lon": 4.339781
+    },
+    "id": "BE.NMBS.008814142"
+  },
+  {
+    "name": "Waterloo",
+    "longitude": "4.382925",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Waterloo/2018/01/07/23/56",
+    "latitude": "50.715558",
+    "geo": {
+      "lat": 50.715558,
+      "lon": 4.382925
+    },
+    "id": "BE.NMBS.008814266"
+  },
+  {
+    "name": "Vorst South",
+    "longitude": "4.310025",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vorst South/2018/01/07/23/56",
+    "latitude": "50.810158",
+    "geo": {
+      "lat": 50.810158,
+      "lon": 4.3100249999999996
+    },
+    "id": "BE.NMBS.008814373"
+  },
+  {
+    "name": "Antwerp Central",
+    "longitude": "4.421242",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerp Central/2018/01/07/23/56",
+    "latitude": "51.21686",
+    "geo": {
+      "lat": 51.21686,
+      "lon": 4.421242
+    },
+    "id": "BE.NMBS.008821006"
+  },
+  {
+    "name": "Hemiksem",
+    "longitude": "4.338527",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hemiksem/2018/01/07/23/56",
+    "latitude": "51.136393",
+    "geo": {
+      "lat": 51.136393,
+      "lon": 4.338527
+    },
+    "id": "BE.NMBS.008824224"
+  },
+  {
+    "name": "Lommel",
+    "longitude": "5.310547",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lommel/2018/01/07/23/56",
+    "latitude": "51.211664",
+    "geo": {
+      "lat": 51.211664,
+      "lon": 5.310547
+    },
+    "id": "BE.NMBS.008832565"
+  },
+  {
+    "name": "Wezet",
+    "longitude": "5.692835",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wezet/2018/01/07/23/56",
+    "latitude": "50.740296",
+    "geo": {
+      "lat": 50.740296,
+      "lon": 5.692835
+    },
+    "id": "BE.NMBS.008846201"
+  },
+  {
+    "name": "Floreffe",
+    "longitude": "4.762781",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Floreffe/2018/01/07/23/56",
+    "latitude": "50.443733",
+    "geo": {
+      "lat": 50.443733,
+      "lon": 4.762781
+    },
+    "id": "BE.NMBS.008861135"
+  },
+  {
+    "name": "Mont Saint Guibert",
+    "longitude": "4.612581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mont Saint Guibert/2018/01/07/23/56",
+    "latitude": "50.638214",
+    "geo": {
+      "lat": 50.638214,
+      "lon": 4.612581
+    },
+    "id": "BE.NMBS.008861549"
+  },
+  {
+    "name": "Beauraing",
+    "longitude": "4.957029",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beauraing/2018/01/07/23/56",
+    "latitude": "50.113836",
+    "geo": {
+      "lat": 50.113836,
+      "lon": 4.957029
+    },
+    "id": "BE.NMBS.008863867"
+  },
+  {
+    "name": "Floree",
+    "longitude": "5.056275",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Floree/2018/01/07/23/56",
+    "latitude": "50.357516",
+    "geo": {
+      "lat": 50.357516,
+      "lon": 5.056275
+    },
+    "id": "BE.NMBS.008864923"
+  },
+  {
+    "name": "Landelies",
+    "longitude": "4.350981",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Landelies/2018/01/07/23/56",
+    "latitude": "50.377314",
+    "geo": {
+      "lat": 50.377314,
+      "lon": 4.350981
+    },
+    "id": "BE.NMBS.008871837"
+  },
+  {
+    "name": "Mons",
+    "longitude": "3.942303",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mons/2018/01/07/23/56",
+    "latitude": "50.45445",
+    "geo": {
+      "lat": 50.45445,
+      "lon": 3.942303
+    },
+    "id": "BE.NMBS.008881000"
+  },
+  {
+    "name": "Lens",
+    "longitude": "3.903279",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lens/2018/01/07/23/56",
+    "latitude": "50.559128",
+    "geo": {
+      "lat": 50.559128,
+      "lon": 3.903279
+    },
+    "id": "BE.NMBS.008881190"
+  },
+  {
+    "name": "Ville Pommeroeul",
+    "longitude": "3.724189",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ville Pommeroeul/2018/01/07/23/56",
+    "latitude": "50.464339",
+    "geo": {
+      "lat": 50.464339,
+      "lon": 3.724189
+    },
+    "id": "BE.NMBS.008884632"
+  },
+  {
+    "name": "Leuze",
+    "longitude": "3.61677",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leuze/2018/01/07/23/56",
+    "latitude": "50.600576",
+    "geo": {
+      "lat": 50.600576,
+      "lon": 3.61677
+    },
+    "id": "BE.NMBS.008886348"
+  },
+  {
+    "name": "Houraing",
+    "longitude": "3.835269",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Houraing/2018/01/07/23/56",
+    "latitude": "50.702879",
+    "geo": {
+      "lat": 50.702879,
+      "lon": 3.835269
+    },
+    "id": "BE.NMBS.008886553"
+  },
+  {
+    "name": "Sint Denijs Boekel",
+    "longitude": "3.698397",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Denijs Boekel/2018/01/07/23/56",
+    "latitude": "50.874303",
+    "geo": {
+      "lat": 50.874303,
+      "lon": 3.698397
+    },
+    "id": "BE.NMBS.008892692"
+  },
+  {
+    "name": "BEZIERS",
+    "longitude": "3.21865081787109",
+    "departures": "https://data.irail.be/NMBS/Liveboard/BEZIERS/2018/01/07/23/56",
+    "latitude": "43.336072371858",
+    "geo": {
+      "lat": 43.336072371858,
+      "lon": 3.21865081787109
+    },
+    "id": "FR.SNCF.99004"
+  },
+  {
+    "name": "MARSEILLE",
+    "longitude": "5.38111209869385",
+    "departures": "https://data.irail.be/NMBS/Liveboard/MARSEILLE/2018/01/07/23/56",
+    "latitude": "43.3030545084136",
+    "geo": {
+      "lat": 43.3030545084136,
+      "lon": 5.38111209869385
+    },
+    "id": "FR.SNCF.99008"
+  },
+  {
+    "name": "STRASBOURG",
+    "longitude": "7.73454666137695",
+    "departures": "https://data.irail.be/NMBS/Liveboard/STRASBOURG/2018/01/07/23/56",
+    "latitude": "48.5848973736386",
+    "geo": {
+      "lat": 48.5848973736386,
+      "lon": 7.73454666137695
+    },
+    "id": "FR.SNCF.99015"
+  },
+  {
+    "name": "Jette",
+    "longitude": "4.328463",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jette/2018/01/07/23/56",
+    "latitude": "50.88091",
+    "geo": {
+      "lat": 50.88091,
+      "lon": 4.328463
+    },
+    "id": "BE.NMBS.008812047"
+  },
+  {
+    "name": "Heizijde",
+    "longitude": "4.157117",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heizijde/2018/01/07/23/56",
+    "latitude": "50.988814",
+    "geo": {
+      "lat": 50.988814,
+      "lon": 4.157117
+    },
+    "id": "BE.NMBS.008812153"
+  },
+  {
+    "name": "Holleken",
+    "longitude": "4.354914",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Holleken/2018/01/07/23/56",
+    "latitude": "50.767081",
+    "geo": {
+      "lat": 50.767081,
+      "lon": 4.354914
+    },
+    "id": "BE.NMBS.008814159"
+  },
+  {
+    "name": "Eppegem",
+    "longitude": "4.457486",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eppegem/2018/01/07/23/56",
+    "latitude": "50.9584",
+    "geo": {
+      "lat": 50.9584,
+      "lon": 4.457486
+    },
+    "id": "BE.NMBS.008822269"
+  },
+  {
+    "name": "Willebroek",
+    "longitude": "4.356083",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Willebroek/2018/01/07/23/56",
+    "latitude": "51.066608",
+    "geo": {
+      "lat": 51.066608,
+      "lon": 4.356083
+    },
+    "id": "BE.NMBS.008822608"
+  },
+  {
+    "name": "Diepenbeek",
+    "longitude": "5.416061",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Diepenbeek/2018/01/07/23/56",
+    "latitude": "50.911414",
+    "geo": {
+      "lat": 50.911414,
+      "lon": 5.416061
+    },
+    "id": "BE.NMBS.008831112"
+  },
+  {
+    "name": "Kiewit",
+    "longitude": "5.350553",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kiewit/2018/01/07/23/56",
+    "latitude": "50.954364",
+    "geo": {
+      "lat": 50.954364,
+      "lon": 5.350553
+    },
+    "id": "BE.NMBS.008832375"
+  },
+  {
+    "name": "Comblain La Tour",
+    "longitude": "5.567193",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Comblain La Tour/2018/01/07/23/56",
+    "latitude": "50.45663",
+    "geo": {
+      "lat": 50.45663,
+      "lon": 5.567193
+    },
+    "id": "BE.NMBS.008842838"
+  },
+  {
+    "name": "Jambes East",
+    "longitude": "4.880256",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jambes East/2018/01/07/23/56",
+    "latitude": "50.454804",
+    "geo": {
+      "lat": 50.454804,
+      "lon": 4.880256
+    },
+    "id": "BE.NMBS.008863115"
+  },
+  {
+    "name": "Melreux Hotton",
+    "longitude": "5.440142",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Melreux Hotton/2018/01/07/23/56",
+    "latitude": "50.283672",
+    "geo": {
+      "lat": 50.283672,
+      "lon": 5.440142
+    },
+    "id": "BE.NMBS.008864436"
+  },
+  {
+    "name": "Bertrix",
+    "longitude": "5.267703",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bertrix/2018/01/07/23/56",
+    "latitude": "49.852199",
+    "geo": {
+      "lat": 49.852199,
+      "lon": 5.267703
+    },
+    "id": "BE.NMBS.008865300"
+  },
+  {
+    "name": "Erbisoeul",
+    "longitude": "3.888717",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erbisoeul/2018/01/07/23/56",
+    "latitude": "50.507814",
+    "geo": {
+      "lat": 50.507814,
+      "lon": 3.8887169999999998
+    },
+    "id": "BE.NMBS.008881158"
+  },
+  {
+    "name": "Cambron Casteau",
+    "longitude": "3.874183",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Cambron Casteau/2018/01/07/23/56",
+    "latitude": "50.587131",
+    "geo": {
+      "lat": 50.587131,
+      "lon": 3.874183
+    },
+    "id": "BE.NMBS.008886074"
+  },
+  {
+    "name": "Zwankendamme",
+    "longitude": "3.191564",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zwankendamme/2018/01/07/23/56",
+    "latitude": "51.306408",
+    "geo": {
+      "lat": 51.306408,
+      "lon": 3.191564
+    },
+    "id": "BE.NMBS.008891611"
+  },
+  {
+    "name": "Landskouter",
+    "longitude": "3.791227",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Landskouter/2018/01/07/23/56",
+    "latitude": "50.970664",
+    "geo": {
+      "lat": 50.970664,
+      "lon": 3.791227
+    },
+    "id": "BE.NMBS.008893054"
+  },
+  {
+    "name": "Nieuwkerken Waas",
+    "longitude": "4.184414",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nieuwkerken Waas/2018/01/07/23/56",
+    "latitude": "51.185114",
+    "geo": {
+      "lat": 51.185114,
+      "lon": 4.184414
+    },
+    "id": "BE.NMBS.008894714"
+  },
+  {
+    "name": "Ottignies",
+    "longitude": "4.569615",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ottignies/2018/01/07/23/56",
+    "latitude": "50.671632",
+    "geo": {
+      "lat": 50.671632,
+      "lon": 4.569615
+    },
+    "id": "BE.NMBS.008811601"
+  },
+  {
+    "name": "Buizingen",
+    "longitude": "4.258561",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Buizingen/2018/01/07/23/56",
+    "latitude": "50.751581",
+    "geo": {
+      "lat": 50.751581,
+      "lon": 4.258561
+    },
+    "id": "BE.NMBS.008814340"
+  },
+  {
+    "name": "Huizingen",
+    "longitude": "4.265581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Huizingen/2018/01/07/23/56",
+    "latitude": "50.75171",
+    "geo": {
+      "lat": 50.75171,
+      "lon": 4.265581
+    },
+    "id": "BE.NMBS.008814415"
+  },
+  {
+    "name": "Essen",
+    "longitude": "4.451106",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Essen/2018/01/07/23/56",
+    "latitude": "51.462736",
+    "geo": {
+      "lat": 51.462736,
+      "lon": 4.451106
+    },
+    "id": "BE.NMBS.008821402"
+  },
+  {
+    "name": "Testelt",
+    "longitude": "4.945833",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Testelt/2018/01/07/23/56",
+    "latitude": "51.009864",
+    "geo": {
+      "lat": 51.009864,
+      "lon": 4.945833
+    },
+    "id": "BE.NMBS.008833266"
+  },
+  {
+    "name": "Glons",
+    "longitude": "5.535468",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Glons/2018/01/07/23/56",
+    "latitude": "50.750543",
+    "geo": {
+      "lat": 50.750543,
+      "lon": 5.535468
+    },
+    "id": "BE.NMBS.008841731"
+  },
+  {
+    "name": "Nessonvaux",
+    "longitude": "5.741708",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Nessonvaux/2018/01/07/23/56",
+    "latitude": "50.572043",
+    "geo": {
+      "lat": 50.572043,
+      "lon": 5.741708
+    },
+    "id": "BE.NMBS.008844230"
+  },
+  {
+    "name": "Lonzee",
+    "longitude": "4.720097",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lonzee/2018/01/07/23/56",
+    "latitude": "50.551939",
+    "geo": {
+      "lat": 50.551939,
+      "lon": 4.720097
+    },
+    "id": "BE.NMBS.008861416"
+  },
+  {
+    "name": "Beuzet",
+    "longitude": "4.750092",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beuzet/2018/01/07/23/56",
+    "latitude": "50.532914",
+    "geo": {
+      "lat": 50.532914,
+      "lon": 4.750092
+    },
+    "id": "BE.NMBS.008861424"
+  },
+  {
+    "name": "Yvoir",
+    "longitude": "4.878644",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Yvoir/2018/01/07/23/56",
+    "latitude": "50.320839",
+    "geo": {
+      "lat": 50.320839,
+      "lon": 4.8786439999999995
+    },
+    "id": "BE.NMBS.008863545"
+  },
+  {
+    "name": "Anseremme",
+    "longitude": "4.905525",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Anseremme/2018/01/07/23/56",
+    "latitude": "50.238016",
+    "geo": {
+      "lat": 50.238016,
+      "lon": 4.905525
+    },
+    "id": "BE.NMBS.008863818"
+  },
+  {
+    "name": "Jurbise",
+    "longitude": "3.910686",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jurbise/2018/01/07/23/56",
+    "latitude": "50.530503",
+    "geo": {
+      "lat": 50.530503,
+      "lon": 3.910686
+    },
+    "id": "BE.NMBS.008881166"
+  },
+  {
+    "name": "Harchies",
+    "longitude": "3.699",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Harchies/2018/01/07/23/56",
+    "latitude": "50.481939",
+    "geo": {
+      "lat": 50.481939,
+      "lon": 3.699
+    },
+    "id": "BE.NMBS.008884640"
+  },
+  {
+    "name": "Rebaix",
+    "longitude": "3.793502",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Rebaix/2018/01/07/23/56",
+    "latitude": "50.661058",
+    "geo": {
+      "lat": 50.661058,
+      "lon": 3.793502
+    },
+    "id": "BE.NMBS.008886587"
+  },
+  {
+    "name": "Zele",
+    "longitude": "4.041586",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zele/2018/01/07/23/56",
+    "latitude": "51.073103",
+    "geo": {
+      "lat": 51.073103,
+      "lon": 4.041586
+    },
+    "id": "BE.NMBS.008894235"
+  },
+  {
+    "name": "Balegem South",
+    "longitude": "3.805767",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Balegem South/2018/01/07/23/56",
+    "latitude": "50.900803",
+    "geo": {
+      "lat": 50.900803,
+      "lon": 3.805767
+    },
+    "id": "BE.NMBS.008895240"
+  },
+  {
+    "name": "Schendelbeke",
+    "longitude": "3.899159",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Schendelbeke/2018/01/07/23/56",
+    "latitude": "50.797818",
+    "geo": {
+      "lat": 50.797818,
+      "lon": 3.899159
+    },
+    "id": "BE.NMBS.008895711"
+  },
+  {
+    "name": "Messancy",
+    "longitude": "5.81822",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Messancy/2018/01/07/23/56",
+    "latitude": "49.59388",
+    "geo": {
+      "lat": 49.59388,
+      "lon": 5.81822
+    },
+    "id": "BE.NMBS.00103"
+  },
+  {
+    "name": "Antwerpen-Luchtbal",
+    "longitude": "4.425",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerpen-Luchtbal/2018/01/07/23/56",
+    "latitude": "51.244722",
+    "geo": {
+      "lat": 51.244722,
+      "lon": 4.425
+    },
+    "id": "BE.NMBS.00105"
+  },
+  {
+    "name": "Erps Kwerps",
+    "longitude": "4.584997",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erps Kwerps/2018/01/07/23/56",
+    "latitude": "50.896506",
+    "geo": {
+      "lat": 50.896506,
+      "lon": 4.5849969999999995
+    },
+    "id": "BE.NMBS.008811262"
+  },
+  {
+    "name": "Duffel",
+    "longitude": "4.492194",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Duffel/2018/01/07/23/56",
+    "latitude": "51.091633",
+    "geo": {
+      "lat": 51.091633,
+      "lon": 4.492194
+    },
+    "id": "BE.NMBS.008822210"
+  },
+  {
+    "name": "Hambos",
+    "longitude": "4.663011",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hambos/2018/01/07/23/56",
+    "latitude": "50.944247",
+    "geo": {
+      "lat": 50.944247,
+      "lon": 4.663011
+    },
+    "id": "BE.NMBS.008822533"
+  },
+  {
+    "name": "Tongeren",
+    "longitude": "5.473222",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tongeren/2018/01/07/23/56",
+    "latitude": "50.784214",
+    "geo": {
+      "lat": 50.784214,
+      "lon": 5.473222
+    },
+    "id": "BE.NMBS.008831310"
+  },
+  {
+    "name": "Fexhe Le Haut Clocher",
+    "longitude": "5.397297",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Fexhe Le Haut Clocher/2018/01/07/23/56",
+    "latitude": "50.664364",
+    "geo": {
+      "lat": 50.664364,
+      "lon": 5.397297
+    },
+    "id": "BE.NMBS.008841467"
+  },
+  {
+    "name": "Chenee",
+    "longitude": "5.61484",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chenee/2018/01/07/23/56",
+    "latitude": "50.608327",
+    "geo": {
+      "lat": 50.608327,
+      "lon": 5.61484
+    },
+    "id": "BE.NMBS.008842036"
+  },
+  {
+    "name": "Mery",
+    "longitude": "5.586942",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mery/2018/01/07/23/56",
+    "latitude": "50.548233",
+    "geo": {
+      "lat": 50.548233,
+      "lon": 5.586942
+    },
+    "id": "BE.NMBS.008842648"
+  },
+  {
+    "name": "Sy",
+    "longitude": "5.523094",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sy/2018/01/07/23/56",
+    "latitude": "50.403122",
+    "geo": {
+      "lat": 50.403122,
+      "lon": 5.523094
+    },
+    "id": "BE.NMBS.008842853"
+  },
+  {
+    "name": "Lustin",
+    "longitude": "4.877468",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lustin/2018/01/07/23/56",
+    "latitude": "50.369746",
+    "geo": {
+      "lat": 50.369746,
+      "lon": 4.877468
+    },
+    "id": "BE.NMBS.008863156"
+  },
+  {
+    "name": "Neufchateau",
+    "longitude": "5.452592",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Neufchateau/2018/01/07/23/56",
+    "latitude": "49.853819",
+    "geo": {
+      "lat": 49.853819,
+      "lon": 5.452592
+    },
+    "id": "BE.NMBS.008866258"
+  },
+  {
+    "name": "Villers La Ville",
+    "longitude": "4.533432",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Villers La Ville/2018/01/07/23/56",
+    "latitude": "50.578028",
+    "geo": {
+      "lat": 50.578028,
+      "lon": 4.533432
+    },
+    "id": "BE.NMBS.008872579"
+  },
+  {
+    "name": "Mariembourg",
+    "longitude": "4.525694",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mariembourg/2018/01/07/23/56",
+    "latitude": "50.095489",
+    "geo": {
+      "lat": 50.095489,
+      "lon": 4.525694
+    },
+    "id": "BE.NMBS.008875002"
+  },
+  {
+    "name": "Bracquegnies",
+    "longitude": "4.126332",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bracquegnies/2018/01/07/23/56",
+    "latitude": "50.474413",
+    "geo": {
+      "lat": 50.474413,
+      "lon": 4.126332
+    },
+    "id": "BE.NMBS.008881463"
+  },
+  {
+    "name": "Morlanwelz",
+    "longitude": "4.247367",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Morlanwelz/2018/01/07/23/56",
+    "latitude": "50.458",
+    "geo": {
+      "lat": 50.458,
+      "lon": 4.247367
+    },
+    "id": "BE.NMBS.008882230"
+  },
+  {
+    "name": "Thulin",
+    "longitude": "3.745783",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Thulin/2018/01/07/23/56",
+    "latitude": "50.423789",
+    "geo": {
+      "lat": 50.423789,
+      "lon": 3.745783
+    },
+    "id": "BE.NMBS.008884350"
+  },
+  {
+    "name": "Bellem",
+    "longitude": "3.487367",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bellem/2018/01/07/23/56",
+    "latitude": "51.083908",
+    "geo": {
+      "lat": 51.083908,
+      "lon": 3.487367
+    },
+    "id": "BE.NMBS.008891157"
+  },
+  {
+    "name": "Anzegem",
+    "longitude": "3.495469",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Anzegem/2018/01/07/23/56",
+    "latitude": "50.826208",
+    "geo": {
+      "lat": 50.826208,
+      "lon": 3.495469
+    },
+    "id": "BE.NMBS.008892734"
+  },
+  {
+    "name": "Eichem",
+    "longitude": "3.993659",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eichem/2018/01/07/23/56",
+    "latitude": "50.823878",
+    "geo": {
+      "lat": 50.823878,
+      "lon": 3.993659
+    },
+    "id": "BE.NMBS.008895752"
+  },
+  {
+    "name": "Rhisnes",
+    "longitude": "4.801872",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Rhisnes/2018/01/07/23/56",
+    "latitude": "50.499347",
+    "geo": {
+      "lat": 50.499347,
+      "lon": 4.8018719999999995
+    },
+    "id": "BE.NMBS.008861440"
+  },
+  {
+    "name": "Jemelle",
+    "longitude": "5.266375",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jemelle/2018/01/07/23/56",
+    "latitude": "50.160472",
+    "geo": {
+      "lat": 50.160472,
+      "lon": 5.266375
+    },
+    "id": "BE.NMBS.008864006"
+  },
+  {
+    "name": "Chapois",
+    "longitude": "5.124278",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chapois/2018/01/07/23/56",
+    "latitude": "50.262372",
+    "geo": {
+      "lat": 50.262372,
+      "lon": 5.124278
+    },
+    "id": "BE.NMBS.008864824"
+  },
+  {
+    "name": "Gedinne",
+    "longitude": "4.977867",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gedinne/2018/01/07/23/56",
+    "latitude": "49.984133",
+    "geo": {
+      "lat": 49.984133,
+      "lon": 4.977867
+    },
+    "id": "BE.NMBS.008865649"
+  },
+  {
+    "name": "Viville",
+    "longitude": "5.785497",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Viville/2018/01/07/23/56",
+    "latitude": "49.688369",
+    "geo": {
+      "lat": 49.688369,
+      "lon": 5.785497
+    },
+    "id": "BE.NMBS.008866118"
+  },
+  {
+    "name": "Godarville",
+    "longitude": "4.290314",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Godarville/2018/01/07/23/56",
+    "latitude": "50.4928",
+    "geo": {
+      "lat": 50.4928,
+      "lon": 4.290314
+    },
+    "id": "BE.NMBS.008871381"
+  },
+  {
+    "name": "Couvin",
+    "longitude": "4.492653",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Couvin/2018/01/07/23/56",
+    "latitude": "50.057871",
+    "geo": {
+      "lat": 50.057871,
+      "lon": 4.492653
+    },
+    "id": "BE.NMBS.008875127"
+  },
+  {
+    "name": "Silly",
+    "longitude": "3.937144",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Silly/2018/01/07/23/56",
+    "latitude": "50.663319",
+    "geo": {
+      "lat": 50.663319,
+      "lon": 3.937144
+    },
+    "id": "BE.NMBS.008883436"
+  },
+  {
+    "name": "Quievrain",
+    "longitude": "3.686067",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Quievrain/2018/01/07/23/56",
+    "latitude": "50.410514",
+    "geo": {
+      "lat": 50.410514,
+      "lon": 3.686067
+    },
+    "id": "BE.NMBS.008884335"
+  },
+  {
+    "name": "Antoing",
+    "longitude": "3.451308",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antoing/2018/01/07/23/56",
+    "latitude": "50.569628",
+    "geo": {
+      "lat": 50.569628,
+      "lon": 3.451308
+    },
+    "id": "BE.NMBS.008885522"
+  },
+  {
+    "name": "Papegem",
+    "longitude": "3.823797",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Papegem/2018/01/07/23/56",
+    "latitude": "50.687817",
+    "geo": {
+      "lat": 50.687817,
+      "lon": 3.823797
+    },
+    "id": "BE.NMBS.008886561"
+  },
+  {
+    "name": "Oostkamp",
+    "longitude": "3.257467",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Oostkamp/2018/01/07/23/56",
+    "latitude": "51.154108",
+    "geo": {
+      "lat": 51.154108,
+      "lon": 3.257467
+    },
+    "id": "BE.NMBS.008891116"
+  },
+  {
+    "name": "Saint Nicolas",
+    "longitude": "4.14315",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Saint Nicolas/2018/01/07/23/56",
+    "latitude": "51.17174",
+    "geo": {
+      "lat": 51.17174,
+      "lon": 4.14315
+    },
+    "id": "BE.NMBS.008894508"
+  },
+  {
+    "name": "Viane Moerbeke",
+    "longitude": "3.917055",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Viane Moerbeke/2018/01/07/23/56",
+    "latitude": "50.751914",
+    "geo": {
+      "lat": 50.751914,
+      "lon": 3.917055
+    },
+    "id": "BE.NMBS.008895612"
+  },
+  {
+    "name": "Wevelgem",
+    "longitude": "3.182533",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wevelgem/2018/01/07/23/56",
+    "latitude": "50.811017",
+    "geo": {
+      "lat": 50.811017,
+      "lon": 3.182533
+    },
+    "id": "BE.NMBS.008896370"
+  },
+  {
+    "name": "MONTPELLIER",
+    "longitude": "3.87521266937256",
+    "departures": "https://data.irail.be/NMBS/Liveboard/MONTPELLIER/2018/01/07/23/56",
+    "latitude": "43.6012163544529",
+    "geo": {
+      "lat": 43.6012163544529,
+      "lon": 3.87521266937256
+    },
+    "id": "FR.SNCF.99009"
+  },
+  {
+    "name": "Herent",
+    "longitude": "4.672189",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Herent/2018/01/07/23/56",
+    "latitude": "50.903528",
+    "geo": {
+      "lat": 50.903528,
+      "lon": 4.6721889999999995
+    },
+    "id": "BE.NMBS.008811288"
+  },
+  {
+    "name": "Asse",
+    "longitude": "4.208422",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Asse/2018/01/07/23/56",
+    "latitude": "50.906731",
+    "geo": {
+      "lat": 50.906731,
+      "lon": 4.208422
+    },
+    "id": "BE.NMBS.008812070"
+  },
+  {
+    "name": "Lembeek",
+    "longitude": "4.221581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lembeek/2018/01/07/23/56",
+    "latitude": "50.715108",
+    "geo": {
+      "lat": 50.715108,
+      "lon": 4.221581
+    },
+    "id": "BE.NMBS.008814332"
+  },
+  {
+    "name": "Saint Trond",
+    "longitude": "5.17665",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Saint Trond/2018/01/07/23/56",
+    "latitude": "50.817617",
+    "geo": {
+      "lat": 50.817617,
+      "lon": 5.17665
+    },
+    "id": "BE.NMBS.008831807"
+  },
+  {
+    "name": "Mol",
+    "longitude": "5.114733",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mol/2018/01/07/23/56",
+    "latitude": "51.191064",
+    "geo": {
+      "lat": 51.191064,
+      "lon": 5.114733
+    },
+    "id": "BE.NMBS.008832409"
+  },
+  {
+    "name": "Oud Heverlee",
+    "longitude": "4.653306",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Oud Heverlee/2018/01/07/23/56",
+    "latitude": "50.835928",
+    "geo": {
+      "lat": 50.835928,
+      "lon": 4.653306
+    },
+    "id": "BE.NMBS.008833134"
+  },
+  {
+    "name": "Flemalle Grande",
+    "longitude": "5.480983",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Flemalle Grande/2018/01/07/23/56",
+    "latitude": "50.605352",
+    "geo": {
+      "lat": 50.605352,
+      "lon": 5.480983
+    },
+    "id": "BE.NMBS.008843166"
+  },
+  {
+    "name": "Simonis",
+    "longitude": "4.330556",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Simonis/2018/01/07/23/56",
+    "latitude": "50.863056",
+    "geo": {
+      "lat": 50.863056,
+      "lon": 4.330556
+    },
+    "id": "BE.NMBS.00101"
+  },
+  {
+    "name": "Kortenberg",
+    "longitude": "4.543297",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kortenberg/2018/01/07/23/56",
+    "latitude": "50.893072",
+    "geo": {
+      "lat": 50.893072,
+      "lon": 4.543297
+    },
+    "id": "BE.NMBS.008811254"
+  },
+  {
+    "name": "Florival",
+    "longitude": "4.653873",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Florival/2018/01/07/23/56",
+    "latitude": "50.761503",
+    "geo": {
+      "lat": 50.761503,
+      "lon": 4.653873
+    },
+    "id": "BE.NMBS.008811767"
+  },
+  {
+    "name": "Brussels North",
+    "longitude": "4.360854",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels North/2018/01/07/23/56",
+    "latitude": "50.859658",
+    "geo": {
+      "lat": 50.859658,
+      "lon": 4.360854
+    },
+    "id": "BE.NMBS.008812005"
+  },
+  {
+    "name": "Tielen",
+    "longitude": "4.893089",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tielen/2018/01/07/23/56",
+    "latitude": "51.241017",
+    "geo": {
+      "lat": 51.241017,
+      "lon": 4.893089
+    },
+    "id": "BE.NMBS.008821964"
+  },
+  {
+    "name": "Baasrode South",
+    "longitude": "4.153992",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Baasrode South/2018/01/07/23/56",
+    "latitude": "51.019236",
+    "geo": {
+      "lat": 51.019236,
+      "lon": 4.153992
+    },
+    "id": "BE.NMBS.008822160"
+  },
+  {
+    "name": "Ezemaal",
+    "longitude": "4.994222",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ezemaal/2018/01/07/23/56",
+    "latitude": "50.772131",
+    "geo": {
+      "lat": 50.772131,
+      "lon": 4.994222
+    },
+    "id": "BE.NMBS.008833449"
+  },
+  {
+    "name": "Flawinne",
+    "longitude": "4.8063",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Flawinne/2018/01/07/23/56",
+    "latitude": "50.456244",
+    "geo": {
+      "lat": 50.456244,
+      "lon": 4.8063
+    },
+    "id": "BE.NMBS.008861127"
+  },
+  {
+    "name": "Chapelle Dieu",
+    "longitude": "4.698662",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chapelle Dieu/2018/01/07/23/56",
+    "latitude": "50.557902",
+    "geo": {
+      "lat": 50.557902,
+      "lon": 4.698662
+    },
+    "id": "BE.NMBS.008861317"
+  },
+  {
+    "name": "Dave Saint Martin",
+    "longitude": "4.884233",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Dave Saint Martin/2018/01/07/23/56",
+    "latitude": "50.429042",
+    "geo": {
+      "lat": 50.429042,
+      "lon": 4.884233
+    },
+    "id": "BE.NMBS.008863362"
+  },
+  {
+    "name": "Andenne",
+    "longitude": "5.095972",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Andenne/2018/01/07/23/56",
+    "latitude": "50.496799",
+    "geo": {
+      "lat": 50.496799,
+      "lon": 5.095972
+    },
+    "id": "BE.NMBS.008863404"
+  },
+  {
+    "name": "Carlsbourg",
+    "longitude": "5.097419",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Carlsbourg/2018/01/07/23/56",
+    "latitude": "49.903539",
+    "geo": {
+      "lat": 49.903539,
+      "lon": 5.097419
+    },
+    "id": "BE.NMBS.008865565"
+  },
+  {
+    "name": "Erquelinnes",
+    "longitude": "4.113564",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erquelinnes/2018/01/07/23/56",
+    "latitude": "50.304189",
+    "geo": {
+      "lat": 50.304189,
+      "lon": 4.113564
+    },
+    "id": "BE.NMBS.008871605"
+  },
+  {
+    "name": "Tilly",
+    "longitude": "4.551353",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tilly/2018/01/07/23/56",
+    "latitude": "50.556742",
+    "geo": {
+      "lat": 50.556742,
+      "lon": 4.551353
+    },
+    "id": "BE.NMBS.008872553"
+  },
+  {
+    "name": "Braine Le Comte",
+    "longitude": "4.137658",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Braine Le Comte/2018/01/07/23/56",
+    "latitude": "50.605075",
+    "geo": {
+      "lat": 50.605075,
+      "lon": 4.137658
+    },
+    "id": "BE.NMBS.008883006"
+  },
+  {
+    "name": "Knokke",
+    "longitude": "3.284097",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Knokke/2018/01/07/23/56",
+    "latitude": "51.339608",
+    "geo": {
+      "lat": 51.339608,
+      "lon": 3.284097
+    },
+    "id": "BE.NMBS.008891660"
+  },
+  {
+    "name": "Zwijndrecht",
+    "longitude": "4.329161",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zwijndrecht/2018/01/07/23/56",
+    "latitude": "51.214214",
+    "geo": {
+      "lat": 51.214214,
+      "lon": 4.329161
+    },
+    "id": "BE.NMBS.008894821"
+  },
+  {
+    "name": "Erpe Mere",
+    "longitude": "3.962461",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Erpe Mere/2018/01/07/23/56",
+    "latitude": "50.928603",
+    "geo": {
+      "lat": 50.928603,
+      "lon": 3.9624610000000002
+    },
+    "id": "BE.NMBS.008895471"
+  },
+  {
+    "name": "Lierde",
+    "longitude": "3.825947",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lierde/2018/01/07/23/56",
+    "latitude": "50.816822",
+    "geo": {
+      "lat": 50.816822,
+      "lon": 3.825947
+    },
+    "id": "BE.NMBS.008895570"
+  },
+  {
+    "name": "Waregem",
+    "longitude": "3.425514",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Waregem/2018/01/07/23/56",
+    "latitude": "50.892458",
+    "geo": {
+      "lat": 50.892458,
+      "lon": 3.425514
+    },
+    "id": "BE.NMBS.008896149"
+  },
+  {
+    "name": "Menen",
+    "longitude": "3.113794",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Menen/2018/01/07/23/56",
+    "latitude": "50.799492",
+    "geo": {
+      "lat": 50.799492,
+      "lon": 3.113794
+    },
+    "id": "BE.NMBS.008896305"
+  },
+  {
+    "name": "AACHEN HBF",
+    "longitude": "6.07071876525879",
+    "departures": "https://data.irail.be/NMBS/Liveboard/AACHEN HBF/2018/01/07/23/56",
+    "latitude": "50.7803668416347",
+    "geo": {
+      "lat": 50.7803668416347,
+      "lon": 6.07071876525879
+    },
+    "id": "DE.X.99001"
+  },
+  {
+    "name": "PARIS NORTH",
+    "longitude": "23.547222",
+    "departures": "https://data.irail.be/NMBS/Liveboard/PARIS NORTH/2018/01/07/23/56",
+    "latitude": "48.88",
+    "geo": {
+      "lat": 48.88,
+      "lon": 23.547222
+    },
+    "id": "FR.SNCF.1"
+  },
+  {
+    "name": "NICE",
+    "longitude": "7.26198434829712",
+    "departures": "https://data.irail.be/NMBS/Liveboard/NICE/2018/01/07/23/56",
+    "latitude": "43.7044834223413",
+    "geo": {
+      "lat": 43.7044834223413,
+      "lon": 7.26198434829712
+    },
+    "id": "FR.SNCF.99010"
+  },
+  {
+    "name": "Hergenrath",
+    "longitude": "6.042799",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hergenrath/2018/01/07/23/56",
+    "latitude": "50.709589",
+    "geo": {
+      "lat": 50.709589,
+      "lon": 6.042799
+    },
+    "id": "BE.NMBS.00102"
+  },
+  {
+    "name": "Evere",
+    "longitude": "4.4012",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Evere/2018/01/07/23/56",
+    "latitude": "50.868281",
+    "geo": {
+      "lat": 50.868281,
+      "lon": 4.4012
+    },
+    "id": "BE.NMBS.008811106"
+  },
+  {
+    "name": "Delta",
+    "longitude": "4.403972",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Delta/2018/01/07/23/56",
+    "latitude": "50.819281",
+    "geo": {
+      "lat": 50.819281,
+      "lon": 4.4039719999999996
+    },
+    "id": "BE.NMBS.008811205"
+  },
+  {
+    "name": "Basse Wavre",
+    "longitude": "4.621178",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Basse Wavre/2018/01/07/23/56",
+    "latitude": "50.724184",
+    "geo": {
+      "lat": 50.724184,
+      "lon": 4.6211780000000005
+    },
+    "id": "BE.NMBS.008811734"
+  },
+  {
+    "name": "Mortsel Oude God",
+    "longitude": "4.455511",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mortsel Oude God/2018/01/07/23/56",
+    "latitude": "51.171914",
+    "geo": {
+      "lat": 51.171914,
+      "lon": 4.4555109999999996
+    },
+    "id": "BE.NMBS.008821238"
+  },
+  {
+    "name": "Hasselt",
+    "longitude": "5.32618",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hasselt/2018/01/07/23/56",
+    "latitude": "50.931122",
+    "geo": {
+      "lat": 50.931122,
+      "lon": 5.32618
+    },
+    "id": "BE.NMBS.008831005"
+  },
+  {
+    "name": "Olen",
+    "longitude": "4.9025",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Olen/2018/01/07/23/56",
+    "latitude": "51.17403",
+    "geo": {
+      "lat": 51.17403,
+      "lon": 4.9025
+    },
+    "id": "BE.NMBS.008832458"
+  },
+  {
+    "name": "Vertrijk",
+    "longitude": "4.836591",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vertrijk/2018/01/07/23/56",
+    "latitude": "50.8359",
+    "geo": {
+      "lat": 50.8359,
+      "lon": 4.836591
+    },
+    "id": "BE.NMBS.008833050"
+  },
+  {
+    "name": "Waremme",
+    "longitude": "5.248986",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Waremme/2018/01/07/23/56",
+    "latitude": "50.694725",
+    "geo": {
+      "lat": 50.694725,
+      "lon": 5.248986
+    },
+    "id": "BE.NMBS.008841400"
+  },
+  {
+    "name": "Ampsin",
+    "longitude": "5.288855",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ampsin/2018/01/07/23/56",
+    "latitude": "50.539236",
+    "geo": {
+      "lat": 50.539236,
+      "lon": 5.288855
+    },
+    "id": "BE.NMBS.008843323"
+  },
+  {
+    "name": "Trooz",
+    "longitude": "5.688504",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Trooz/2018/01/07/23/56",
+    "latitude": "50.573337",
+    "geo": {
+      "lat": 50.573337,
+      "lon": 5.688504
+    },
+    "id": "BE.NMBS.008844271"
+  },
+  {
+    "name": "Vielsalm",
+    "longitude": "5.909",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Vielsalm/2018/01/07/23/56",
+    "latitude": "50.278814",
+    "geo": {
+      "lat": 50.278814,
+      "lon": 5.909
+    },
+    "id": "BE.NMBS.008845146"
+  },
+  {
+    "name": "Namen",
+    "longitude": "4.862057",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Namen/2018/01/07/23/56",
+    "latitude": "50.469156",
+    "geo": {
+      "lat": 50.469156,
+      "lon": 4.862057
+    },
+    "id": "BE.NMBS.008863008"
+  },
+  {
+    "name": "Houyet",
+    "longitude": "5.005861",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Houyet/2018/01/07/23/56",
+    "latitude": "50.190339",
+    "geo": {
+      "lat": 50.190339,
+      "lon": 5.005861
+    },
+    "id": "BE.NMBS.008863842"
+  },
+  {
+    "name": "Bomal",
+    "longitude": "5.519342",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bomal/2018/01/07/23/56",
+    "latitude": "50.37691",
+    "geo": {
+      "lat": 50.37691,
+      "lon": 5.519342
+    },
+    "id": "BE.NMBS.008864469"
+  },
+  {
+    "name": "Haversin",
+    "longitude": "5.194081",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haversin/2018/01/07/23/56",
+    "latitude": "50.249672",
+    "geo": {
+      "lat": 50.249672,
+      "lon": 5.194081
+    },
+    "id": "BE.NMBS.008864832"
+  },
+  {
+    "name": "Ligny",
+    "longitude": "4.565608",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ligny/2018/01/07/23/56",
+    "latitude": "50.511514",
+    "geo": {
+      "lat": 50.511514,
+      "lon": 4.565608
+    },
+    "id": "BE.NMBS.008872520"
+  },
+  {
+    "name": "Tamines",
+    "longitude": "4.608861",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tamines/2018/01/07/23/56",
+    "latitude": "50.432088",
+    "geo": {
+      "lat": 50.432088,
+      "lon": 4.608861
+    },
+    "id": "BE.NMBS.008874609"
+  },
+  {
+    "name": "Beervelde",
+    "longitude": "3.879722",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beervelde/2018/01/07/23/56",
+    "latitude": "51.086944",
+    "geo": {
+      "lat": 51.086944,
+      "lon": 3.879722
+    },
+    "id": "BE.NMBS.008891001"
+  },
+  {
+    "name": "Moortsele",
+    "longitude": "3.78055",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Moortsele/2018/01/07/23/56",
+    "latitude": "50.953053",
+    "geo": {
+      "lat": 50.953053,
+      "lon": 3.78055
+    },
+    "id": "BE.NMBS.008893062"
+  },
+  {
+    "name": "Sint Gillis",
+    "longitude": "4.11715",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Gillis/2018/01/07/23/56",
+    "latitude": "51.021925",
+    "geo": {
+      "lat": 51.021925,
+      "lon": 4.11715
+    },
+    "id": "BE.NMBS.008893443"
+  },
+  {
+    "name": "Zandbergen",
+    "longitude": "3.956928",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zandbergen/2018/01/07/23/56",
+    "latitude": "50.80715",
+    "geo": {
+      "lat": 50.80715,
+      "lon": 3.956928
+    },
+    "id": "BE.NMBS.008895737"
+  },
+  {
+    "name": "Ede",
+    "longitude": "3.987761",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ede/2018/01/07/23/56",
+    "latitude": "50.911203",
+    "geo": {
+      "lat": 50.911203,
+      "lon": 3.987761
+    },
+    "id": "BE.NMBS.008895877"
+  },
+  {
+    "name": "PERPIGNAN",
+    "longitude": "2.87992000579834",
+    "departures": "https://data.irail.be/NMBS/Liveboard/PERPIGNAN/2018/01/07/23/56",
+    "latitude": "42.6962992118387",
+    "geo": {
+      "lat": 42.6962992118387,
+      "lon": 2.87992000579834
+    },
+    "id": "FR.SNCF.99013"
+  },
+  {
+    "name": "Merode",
+    "longitude": "4.399058",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Merode/2018/01/07/23/56",
+    "latitude": "50.839881",
+    "geo": {
+      "lat": 50.839881,
+      "lon": 4.399058
+    },
+    "id": "BE.NMBS.008811197"
+  },
+  {
+    "name": "Hoeilaart",
+    "longitude": "4.467406",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hoeilaart/2018/01/07/23/56",
+    "latitude": "50.760158",
+    "geo": {
+      "lat": 50.760158,
+      "lon": 4.467406
+    },
+    "id": "BE.NMBS.008811460"
+  },
+  {
+    "name": "Terhulpen",
+    "longitude": "4.497064",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Terhulpen/2018/01/07/23/56",
+    "latitude": "50.737958",
+    "geo": {
+      "lat": 50.737958,
+      "lon": 4.497064
+    },
+    "id": "BE.NMBS.008811510"
+  },
+  {
+    "name": "Sint Agatha Berchem",
+    "longitude": "4.290961",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Agatha Berchem/2018/01/07/23/56",
+    "latitude": "50.872831",
+    "geo": {
+      "lat": 50.872831,
+      "lon": 4.290961
+    },
+    "id": "BE.NMBS.008812211"
+  },
+  {
+    "name": "Antwerp East",
+    "longitude": "4.434799",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerp East/2018/01/07/23/56",
+    "latitude": "51.206616",
+    "geo": {
+      "lat": 51.206616,
+      "lon": 4.434799
+    },
+    "id": "BE.NMBS.008821022"
+  },
+  {
+    "name": "Anwerp Dam",
+    "longitude": "4.426479",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Anwerp Dam/2018/01/07/23/56",
+    "latitude": "51.231782",
+    "geo": {
+      "lat": 51.231782,
+      "lon": 4.426479
+    },
+    "id": "BE.NMBS.008821030"
+  },
+  {
+    "name": "Ekeren",
+    "longitude": "4.433047",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ekeren/2018/01/07/23/56",
+    "latitude": "51.277214",
+    "geo": {
+      "lat": 51.277214,
+      "lon": 4.433047
+    },
+    "id": "BE.NMBS.008821071"
+  },
+  {
+    "name": "Haacht",
+    "longitude": "4.613314",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Haacht/2018/01/07/23/56",
+    "latitude": "50.966238",
+    "geo": {
+      "lat": 50.966238,
+      "lon": 4.613314
+    },
+    "id": "BE.NMBS.008822517"
+  },
+  {
+    "name": "Hoboken Polder",
+    "longitude": "4.348442",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hoboken Polder/2018/01/07/23/56",
+    "latitude": "51.183414",
+    "geo": {
+      "lat": 51.183414,
+      "lon": 4.348442
+    },
+    "id": "BE.NMBS.008824158"
+  },
+  {
+    "name": "Schulen",
+    "longitude": "5.188078",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Schulen/2018/01/07/23/56",
+    "latitude": "50.96335",
+    "geo": {
+      "lat": 50.96335,
+      "lon": 5.188078
+    },
+    "id": "BE.NMBS.008831088"
+  },
+  {
+    "name": "Neerpelt",
+    "longitude": "5.436692",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Neerpelt/2018/01/07/23/56",
+    "latitude": "51.222414",
+    "geo": {
+      "lat": 51.222414,
+      "lon": 5.436692
+    },
+    "id": "BE.NMBS.008832615"
+  },
+  {
+    "name": "Milmort",
+    "longitude": "5.599325",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Milmort/2018/01/07/23/56",
+    "latitude": "50.693364",
+    "geo": {
+      "lat": 50.693364,
+      "lon": 5.599325
+    },
+    "id": "BE.NMBS.008841665"
+  },
+  {
+    "name": "Tilff",
+    "longitude": "5.582514",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tilff/2018/01/07/23/56",
+    "latitude": "50.570464",
+    "geo": {
+      "lat": 50.570464,
+      "lon": 5.582514
+    },
+    "id": "BE.NMBS.008842630"
+  },
+  {
+    "name": "Flemalle Haute",
+    "longitude": "5.456364",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Flemalle Haute/2018/01/07/23/56",
+    "latitude": "50.594591",
+    "geo": {
+      "lat": 50.594591,
+      "lon": 5.456364
+    },
+    "id": "BE.NMBS.008843208"
+  },
+  {
+    "name": "Trois Ponts",
+    "longitude": "5.872817",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Trois Ponts/2018/01/07/23/56",
+    "latitude": "50.369264",
+    "geo": {
+      "lat": 50.369264,
+      "lon": 5.8728169999999995
+    },
+    "id": "BE.NMBS.008845203"
+  },
+  {
+    "name": "Godinne",
+    "longitude": "4.869961",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Godinne/2018/01/07/23/56",
+    "latitude": "50.348908",
+    "geo": {
+      "lat": 50.348908,
+      "lon": 4.869961
+    },
+    "id": "BE.NMBS.008863560"
+  },
+  {
+    "name": "Marbehan",
+    "longitude": "5.539533",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marbehan/2018/01/07/23/56",
+    "latitude": "49.728319",
+    "geo": {
+      "lat": 49.728319,
+      "lon": 5.539533
+    },
+    "id": "BE.NMBS.008866175"
+  },
+  {
+    "name": "Lodelinsart",
+    "longitude": "4.462947",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lodelinsart/2018/01/07/23/56",
+    "latitude": "50.43245",
+    "geo": {
+      "lat": 50.43245,
+      "lon": 4.462947
+    },
+    "id": "BE.NMBS.008872306"
+  },
+  {
+    "name": "Chatelet",
+    "longitude": "4.52186",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Chatelet/2018/01/07/23/56",
+    "latitude": "50.410103",
+    "geo": {
+      "lat": 50.410103,
+      "lon": 4.52186
+    },
+    "id": "BE.NMBS.008874005"
+  },
+  {
+    "name": "Quaregnon",
+    "longitude": "3.855461",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Quaregnon/2018/01/07/23/56",
+    "latitude": "50.450039",
+    "geo": {
+      "lat": 50.450039,
+      "lon": 3.855461
+    },
+    "id": "BE.NMBS.008884541"
+  },
+  {
+    "name": "Tournai",
+    "longitude": "3.396936",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tournai/2018/01/07/23/56",
+    "latitude": "50.613125",
+    "geo": {
+      "lat": 50.613125,
+      "lon": 3.396936
+    },
+    "id": "BE.NMBS.008885001"
+  },
+  {
+    "name": "Maffle",
+    "longitude": "3.800459",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Maffle/2018/01/07/23/56",
+    "latitude": "50.614031",
+    "geo": {
+      "lat": 50.614031,
+      "lon": 3.800459
+    },
+    "id": "BE.NMBS.008886041"
+  },
+  {
+    "name": "Heist",
+    "longitude": "3.240611",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heist/2018/01/07/23/56",
+    "latitude": "51.334008",
+    "geo": {
+      "lat": 51.334008,
+      "lon": 3.240611
+    },
+    "id": "BE.NMBS.008891645"
+  },
+  {
+    "name": "Zaventem",
+    "longitude": "4.469886",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zaventem/2018/01/07/23/56",
+    "latitude": "50.88572",
+    "geo": {
+      "lat": 50.88572,
+      "lon": 4.469886
+    },
+    "id": "BE.NMBS.008811221"
+  },
+  {
+    "name": "Beersel",
+    "longitude": "4.302274",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beersel/2018/01/07/23/56",
+    "latitude": "50.766404",
+    "geo": {
+      "lat": 50.766404,
+      "lon": 4.302274
+    },
+    "id": "BE.NMBS.008814423"
+  },
+  {
+    "name": "Saint Job",
+    "longitude": "4.360403",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Saint Job/2018/01/07/23/56",
+    "latitude": "50.79362",
+    "geo": {
+      "lat": 50.79362,
+      "lon": 4.360403
+    },
+    "id": "BE.NMBS.008814449"
+  },
+  {
+    "name": "Liege Guillemins",
+    "longitude": "5.568461",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Liege Guillemins/2018/01/07/23/56",
+    "latitude": "50.622935",
+    "geo": {
+      "lat": 50.622935,
+      "lon": 5.568461
+    },
+    "id": "BE.NMBS.008841004"
+  },
+  {
+    "name": "Liers",
+    "longitude": "5.566533",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Liers/2018/01/07/23/56",
+    "latitude": "50.698464",
+    "geo": {
+      "lat": 50.698464,
+      "lon": 5.566533
+    },
+    "id": "BE.NMBS.008841673"
+  },
+  {
+    "name": "Hamoir",
+    "longitude": "5.53373",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hamoir/2018/01/07/23/56",
+    "latitude": "50.428342",
+    "geo": {
+      "lat": 50.428342,
+      "lon": 5.53373
+    },
+    "id": "BE.NMBS.008842846"
+  },
+  {
+    "name": "Amay",
+    "longitude": "5.320489",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Amay/2018/01/07/23/56",
+    "latitude": "50.546006",
+    "geo": {
+      "lat": 50.546006,
+      "lon": 5.320489
+    },
+    "id": "BE.NMBS.008843331"
+  },
+  {
+    "name": "Bas Oha",
+    "longitude": "5.190939",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bas Oha/2018/01/07/23/56",
+    "latitude": "50.522625",
+    "geo": {
+      "lat": 50.522625,
+      "lon": 5.190939
+    },
+    "id": "BE.NMBS.008843430"
+  },
+  {
+    "name": "Ham Sur Sambre",
+    "longitude": "4.672923",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ham Sur Sambre/2018/01/07/23/56",
+    "latitude": "50.452852",
+    "geo": {
+      "lat": 50.452852,
+      "lon": 4.672923
+    },
+    "id": "BE.NMBS.008861168"
+  },
+  {
+    "name": "Florenville",
+    "longitude": "5.331119",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Florenville/2018/01/07/23/56",
+    "latitude": "49.706969",
+    "geo": {
+      "lat": 49.706969,
+      "lon": 5.331119
+    },
+    "id": "BE.NMBS.008866845"
+  },
+  {
+    "name": "Lobbes",
+    "longitude": "4.260988",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lobbes/2018/01/07/23/56",
+    "latitude": "50.346384",
+    "geo": {
+      "lat": 50.346384,
+      "lon": 4.260988
+    },
+    "id": "BE.NMBS.008871712"
+  },
+  {
+    "name": "Charleroi South",
+    "longitude": "4.438567",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Charleroi South/2018/01/07/23/56",
+    "latitude": "50.404713",
+    "geo": {
+      "lat": 50.404713,
+      "lon": 4.438567
+    },
+    "id": "BE.NMBS.008872009"
+  },
+  {
+    "name": "Torhout",
+    "longitude": "3.105869",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Torhout/2018/01/07/23/56",
+    "latitude": "51.064708",
+    "geo": {
+      "lat": 51.064708,
+      "lon": 3.105869
+    },
+    "id": "BE.NMBS.008891314"
+  },
+  {
+    "name": "Koksijde",
+    "longitude": "2.654107",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Koksijde/2018/01/07/23/56",
+    "latitude": "51.078667",
+    "geo": {
+      "lat": 51.078667,
+      "lon": 2.6541069999999998
+    },
+    "id": "BE.NMBS.008892320"
+  },
+  {
+    "name": "Merelbeke",
+    "longitude": "3.764963",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Merelbeke/2018/01/07/23/56",
+    "latitude": "51.020153",
+    "geo": {
+      "lat": 51.020153,
+      "lon": 3.764963
+    },
+    "id": "BE.NMBS.008893013"
+  },
+  {
+    "name": "Belsele",
+    "longitude": "4.089164",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Belsele/2018/01/07/23/56",
+    "latitude": "51.150903",
+    "geo": {
+      "lat": 51.150903,
+      "lon": 4.089164
+    },
+    "id": "BE.NMBS.008894433"
+  },
+  {
+    "name": "Harelbeke",
+    "longitude": "3.314617",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Harelbeke/2018/01/07/23/56",
+    "latitude": "50.856308",
+    "geo": {
+      "lat": 50.856308,
+      "lon": 3.314617
+    },
+    "id": "BE.NMBS.008896115"
+  },
+  {
+    "name": "MARNE-LA-VALLEE",
+    "longitude": "2.78218030929565",
+    "departures": "https://data.irail.be/NMBS/Liveboard/MARNE-LA-VALLEE/2018/01/07/23/56",
+    "latitude": "48.8682576765375",
+    "geo": {
+      "lat": 48.8682576765375,
+      "lon": 2.78218030929565
+    },
+    "id": "FR.SNCF.99007"
+  },
+  {
+    "name": "Gembloux",
+    "longitude": "4.690778",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gembloux/2018/01/07/23/56",
+    "latitude": "50.571292",
+    "geo": {
+      "lat": 50.571292,
+      "lon": 4.690778
+    },
+    "id": "BE.NMBS.008861200"
+  },
+  {
+    "name": "Saint Denis Bovesse",
+    "longitude": "4.767792",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Saint Denis Bovesse/2018/01/07/23/56",
+    "latitude": "50.521297",
+    "geo": {
+      "lat": 50.521297,
+      "lon": 4.767792
+    },
+    "id": "BE.NMBS.008861432"
+  },
+  {
+    "name": "Jamioulx",
+    "longitude": "4.410997",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Jamioulx/2018/01/07/23/56",
+    "latitude": "50.353039",
+    "geo": {
+      "lat": 50.353039,
+      "lon": 4.410997
+    },
+    "id": "BE.NMBS.008871175"
+  },
+  {
+    "name": "Courcelles Motte",
+    "longitude": "4.400528",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Courcelles Motte/2018/01/07/23/56",
+    "latitude": "50.462014",
+    "geo": {
+      "lat": 50.462014,
+      "lon": 4.4005279999999996
+    },
+    "id": "BE.NMBS.008871225"
+  },
+  {
+    "name": "Faux",
+    "longitude": "4.549264",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Faux/2018/01/07/23/56",
+    "latitude": "50.621833",
+    "geo": {
+      "lat": 50.621833,
+      "lon": 4.549264
+    },
+    "id": "BE.NMBS.008872611"
+  },
+  {
+    "name": "Philippeville",
+    "longitude": "4.535958",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Philippeville/2018/01/07/23/56",
+    "latitude": "50.191639",
+    "geo": {
+      "lat": 50.191639,
+      "lon": 4.535958
+    },
+    "id": "BE.NMBS.008873122"
+  },
+  {
+    "name": "La Louviere Center",
+    "longitude": "4.179965",
+    "departures": "https://data.irail.be/NMBS/Liveboard/La Louviere Center/2018/01/07/23/56",
+    "latitude": "50.477773",
+    "geo": {
+      "lat": 50.477773,
+      "lon": 4.179965
+    },
+    "id": "BE.NMBS.008882107"
+  },
+  {
+    "name": "Edingen",
+    "longitude": "4.04725",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Edingen/2018/01/07/23/56",
+    "latitude": "50.697198",
+    "geo": {
+      "lat": 50.697198,
+      "lon": 4.04725
+    },
+    "id": "BE.NMBS.008883311"
+  },
+  {
+    "name": "Callenelle",
+    "longitude": "3.526182",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Callenelle/2018/01/07/23/56",
+    "latitude": "50.527192",
+    "geo": {
+      "lat": 50.527192,
+      "lon": 3.526182
+    },
+    "id": "BE.NMBS.008884889"
+  },
+  {
+    "name": "Deinze",
+    "longitude": "3.53494",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Deinze/2018/01/07/23/56",
+    "latitude": "50.97824",
+    "geo": {
+      "lat": 50.97824,
+      "lon": 3.53494
+    },
+    "id": "BE.NMBS.008892106"
+  },
+  {
+    "name": "Ronse",
+    "longitude": "3.60255",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ronse/2018/01/07/23/56",
+    "latitude": "50.742508",
+    "geo": {
+      "lat": 50.742508,
+      "lon": 3.60255
+    },
+    "id": "BE.NMBS.008892908"
+  },
+  {
+    "name": "Gentbrugge",
+    "longitude": "3.755975",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Gentbrugge/2018/01/07/23/56",
+    "latitude": "51.038714",
+    "geo": {
+      "lat": 51.038714,
+      "lon": 3.755975
+    },
+    "id": "BE.NMBS.008893179"
+  },
+  {
+    "name": "Schoonaarde",
+    "longitude": "4.011276",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Schoonaarde/2018/01/07/23/56",
+    "latitude": "51.003116",
+    "geo": {
+      "lat": 51.003116,
+      "lon": 4.011276
+    },
+    "id": "BE.NMBS.008893526"
+  },
+  {
+    "name": "Ieper",
+    "longitude": "2.876589",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ieper/2018/01/07/23/56",
+    "latitude": "50.8474",
+    "geo": {
+      "lat": 50.8474,
+      "lon": 2.876589
+    },
+    "id": "BE.NMBS.008896503"
+  },
+  {
+    "name": "Ingelmunster",
+    "longitude": "3.254289",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ingelmunster/2018/01/07/23/56",
+    "latitude": "50.914758",
+    "geo": {
+      "lat": 50.914758,
+      "lon": 3.254289
+    },
+    "id": "BE.NMBS.008896925"
+  },
+  {
+    "name": "AGDE",
+    "longitude": "3.46614360809326",
+    "departures": "https://data.irail.be/NMBS/Liveboard/AGDE/2018/01/07/23/56",
+    "latitude": "43.3168336470217",
+    "geo": {
+      "lat": 43.3168336470217,
+      "lon": 3.46614360809326
+    },
+    "id": "FR.SNCF.99002"
+  },
+  {
+    "name": "Brussels Schuman",
+    "longitude": "4.380022",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brussels Schuman/2018/01/07/23/56",
+    "latitude": "50.842851",
+    "geo": {
+      "lat": 50.842851,
+      "lon": 4.380022
+    },
+    "id": "BE.NMBS.008811916"
+  },
+  {
+    "name": "Bockstael",
+    "longitude": "4.348507",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bockstael/2018/01/07/23/56",
+    "latitude": "50.879428",
+    "geo": {
+      "lat": 50.879428,
+      "lon": 4.348507
+    },
+    "id": "BE.NMBS.008812021"
+  },
+  {
+    "name": "Dilbeek",
+    "longitude": "4.243389",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Dilbeek/2018/01/07/23/56",
+    "latitude": "50.866731",
+    "geo": {
+      "lat": 50.866731,
+      "lon": 4.243389
+    },
+    "id": "BE.NMBS.008812237"
+  },
+  {
+    "name": "Sint Martens Bodegem",
+    "longitude": "4.205081",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Martens Bodegem/2018/01/07/23/56",
+    "latitude": "50.867158",
+    "geo": {
+      "lat": 50.867158,
+      "lon": 4.205081
+    },
+    "id": "BE.NMBS.008812245"
+  },
+  {
+    "name": "Verviers Central",
+    "longitude": "5.854597",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Verviers Central/2018/01/07/23/56",
+    "latitude": "50.587821",
+    "geo": {
+      "lat": 50.587821,
+      "lon": 5.854597
+    },
+    "id": "BE.NMBS.008844008"
+  },
+  {
+    "name": "Schaarbeek",
+    "longitude": "4.378644",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Schaarbeek/2018/01/07/23/56",
+    "latitude": "50.878508",
+    "geo": {
+      "lat": 50.878508,
+      "lon": 4.3786439999999995
+    },
+    "id": "BE.NMBS.008811007"
+  },
+  {
+    "name": "Bordet",
+    "longitude": "4.409992",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bordet/2018/01/07/23/56",
+    "latitude": "50.877782",
+    "geo": {
+      "lat": 50.877782,
+      "lon": 4.409992
+    },
+    "id": "BE.NMBS.008811163"
+  },
+  {
+    "name": "Eerken",
+    "longitude": "4.662366",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eerken/2018/01/07/23/56",
+    "latitude": "50.754337",
+    "geo": {
+      "lat": 50.754337,
+      "lon": 4.6623660000000005
+    },
+    "id": "BE.NMBS.008811759"
+  },
+  {
+    "name": "Groot Bijgaarden",
+    "longitude": "4.27455",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Groot Bijgaarden/2018/01/07/23/56",
+    "latitude": "50.868231",
+    "geo": {
+      "lat": 50.868231,
+      "lon": 4.27455
+    },
+    "id": "BE.NMBS.008812229"
+  },
+  {
+    "name": "Boondaal",
+    "longitude": "4.393523",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Boondaal/2018/01/07/23/56",
+    "latitude": "50.801975",
+    "geo": {
+      "lat": 50.801975,
+      "lon": 4.393523
+    },
+    "id": "BE.NMBS.008814456"
+  },
+  {
+    "name": "Antwerp Noorderdokken",
+    "longitude": "4.42874",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerp Noorderdokken/2018/01/07/23/56",
+    "latitude": "51.264045",
+    "geo": {
+      "lat": 51.264045,
+      "lon": 4.42874
+    },
+    "id": "BE.NMBS.008821089"
+  },
+  {
+    "name": "Malderen",
+    "longitude": "4.231403",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Malderen/2018/01/07/23/56",
+    "latitude": "51.014325",
+    "geo": {
+      "lat": 51.014325,
+      "lon": 4.231403
+    },
+    "id": "BE.NMBS.008822137"
+  },
+  {
+    "name": "Heusden",
+    "longitude": "5.280683",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heusden/2018/01/07/23/56",
+    "latitude": "51.038314",
+    "geo": {
+      "lat": 51.038314,
+      "lon": 5.280683
+    },
+    "id": "BE.NMBS.008832243"
+  },
+  {
+    "name": "Labuissiere",
+    "longitude": "4.186581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Labuissiere/2018/01/07/23/56",
+    "latitude": "50.316139",
+    "geo": {
+      "lat": 50.316139,
+      "lon": 4.186581
+    },
+    "id": "BE.NMBS.008871670"
+  },
+  {
+    "name": "Leval",
+    "longitude": "4.211044",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leval/2018/01/07/23/56",
+    "latitude": "50.4308",
+    "geo": {
+      "lat": 50.4308,
+      "lon": 4.211044
+    },
+    "id": "BE.NMBS.008882339"
+  },
+  {
+    "name": "Marche Lez Ecaussinnes",
+    "longitude": "4.176558",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marche Lez Ecaussinnes/2018/01/07/23/56",
+    "latitude": "50.545931",
+    "geo": {
+      "lat": 50.545931,
+      "lon": 4.176558
+    },
+    "id": "BE.NMBS.008883220"
+  },
+  {
+    "name": "Saint Ghislain",
+    "longitude": "3.820092",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Saint Ghislain/2018/01/07/23/56",
+    "latitude": "50.442625",
+    "geo": {
+      "lat": 50.442625,
+      "lon": 3.820092
+    },
+    "id": "BE.NMBS.008884004"
+  },
+  {
+    "name": "Duinbergen",
+    "longitude": "3.26295",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Duinbergen/2018/01/07/23/56",
+    "latitude": "51.338108",
+    "geo": {
+      "lat": 51.338108,
+      "lon": 3.26295
+    },
+    "id": "BE.NMBS.008891652"
+  },
+  {
+    "name": "Eeklo",
+    "longitude": "3.575256",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eeklo/2018/01/07/23/56",
+    "latitude": "51.180567",
+    "geo": {
+      "lat": 51.180567,
+      "lon": 3.575256
+    },
+    "id": "BE.NMBS.008893708"
+  },
+  {
+    "name": "Denderleeuw",
+    "longitude": "4.071828",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Denderleeuw/2018/01/07/23/56",
+    "latitude": "50.891925",
+    "geo": {
+      "lat": 50.891925,
+      "lon": 4.071828
+    },
+    "id": "BE.NMBS.008895802"
+  },
+  {
+    "name": "Iddergem",
+    "longitude": "4.068503",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Iddergem/2018/01/07/23/56",
+    "latitude": "50.876855",
+    "geo": {
+      "lat": 50.876855,
+      "lon": 4.068503
+    },
+    "id": "BE.NMBS.008895844"
+  },
+  {
+    "name": "Voroux-Goreux",
+    "longitude": "5.42958",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Voroux-Goreux/2018/01/07/23/56",
+    "latitude": "50.66168",
+    "geo": {
+      "lat": 50.66168,
+      "lon": 5.42958
+    },
+    "id": "BE.NMBS.00104"
+  },
+  {
+    "name": "Profondsart",
+    "longitude": "4.54915",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Profondsart/2018/01/07/23/56",
+    "latitude": "50.693761",
+    "geo": {
+      "lat": 50.693761,
+      "lon": 4.54915
+    },
+    "id": "BE.NMBS.008811544"
+  },
+  {
+    "name": "Rhode Saint Genese",
+    "longitude": "4.361492",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Rhode Saint Genese/2018/01/07/23/56",
+    "latitude": "50.748081",
+    "geo": {
+      "lat": 50.748081,
+      "lon": 4.361492
+    },
+    "id": "BE.NMBS.008814167"
+  },
+  {
+    "name": "Lot",
+    "longitude": "4.272426",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Lot/2018/01/07/23/56",
+    "latitude": "50.765175",
+    "geo": {
+      "lat": 50.765175,
+      "lon": 4.272426
+    },
+    "id": "BE.NMBS.008814357"
+  },
+  {
+    "name": "Kessel",
+    "longitude": "4.618458",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kessel/2018/01/07/23/56",
+    "latitude": "51.151056",
+    "geo": {
+      "lat": 51.151056,
+      "lon": 4.618458
+    },
+    "id": "BE.NMBS.008821659"
+  },
+  {
+    "name": "Hever",
+    "longitude": "4.539585",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hever/2018/01/07/23/56",
+    "latitude": "50.996904",
+    "geo": {
+      "lat": 50.996904,
+      "lon": 4.539585
+    },
+    "id": "BE.NMBS.008822459"
+  },
+  {
+    "name": "Bokrijk",
+    "longitude": "5.408728",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bokrijk/2018/01/07/23/56",
+    "latitude": "50.955514",
+    "geo": {
+      "lat": 50.955514,
+      "lon": 5.408728
+    },
+    "id": "BE.NMBS.008831781"
+  },
+  {
+    "name": "Geel",
+    "longitude": "4.989567",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Geel/2018/01/07/23/56",
+    "latitude": "51.169244",
+    "geo": {
+      "lat": 51.169244,
+      "lon": 4.989567
+    },
+    "id": "BE.NMBS.008832433"
+  },
+  {
+    "name": "Marloie",
+    "longitude": "5.31456",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marloie/2018/01/07/23/56",
+    "latitude": "50.203115",
+    "geo": {
+      "lat": 50.203115,
+      "lon": 5.31456
+    },
+    "id": "BE.NMBS.008864345"
+  },
+  {
+    "name": "Ciney",
+    "longitude": "5.090581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ciney/2018/01/07/23/56",
+    "latitude": "50.292022",
+    "geo": {
+      "lat": 50.292022,
+      "lon": 5.090581
+    },
+    "id": "BE.NMBS.008864501"
+  },
+  {
+    "name": "Virton",
+    "longitude": "5.518441",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Virton/2018/01/07/23/56",
+    "latitude": "49.560932",
+    "geo": {
+      "lat": 49.560932,
+      "lon": 5.518441
+    },
+    "id": "BE.NMBS.008866407"
+  },
+  {
+    "name": "Beignee",
+    "longitude": "4.406797",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beignee/2018/01/07/23/56",
+    "latitude": "50.333239",
+    "geo": {
+      "lat": 50.333239,
+      "lon": 4.406797
+    },
+    "id": "BE.NMBS.008871183"
+  },
+  {
+    "name": "Luttre",
+    "longitude": "4.384119",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Luttre/2018/01/07/23/56",
+    "latitude": "50.505864",
+    "geo": {
+      "lat": 50.505864,
+      "lon": 4.384119
+    },
+    "id": "BE.NMBS.008871308"
+  },
+  {
+    "name": "Solre Sur Sambre",
+    "longitude": "4.158431",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Solre Sur Sambre/2018/01/07/23/56",
+    "latitude": "50.312639",
+    "geo": {
+      "lat": 50.312639,
+      "lon": 4.158431
+    },
+    "id": "BE.NMBS.008871662"
+  },
+  {
+    "name": "Binche",
+    "longitude": "4.172453",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Binche/2018/01/07/23/56",
+    "latitude": "50.408764",
+    "geo": {
+      "lat": 50.408764,
+      "lon": 4.172453
+    },
+    "id": "BE.NMBS.008882362"
+  },
+  {
+    "name": "Ecaussinnes",
+    "longitude": "4.156094",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ecaussinnes/2018/01/07/23/56",
+    "latitude": "50.5621",
+    "geo": {
+      "lat": 50.5621,
+      "lon": 4.156094
+    },
+    "id": "BE.NMBS.008883212"
+  },
+  {
+    "name": "Mouscron",
+    "longitude": "3.225307",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mouscron/2018/01/07/23/56",
+    "latitude": "50.738372",
+    "geo": {
+      "lat": 50.738372,
+      "lon": 3.225307
+    },
+    "id": "BE.NMBS.008885704"
+  },
+  {
+    "name": "Brugelette",
+    "longitude": "3.85305",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Brugelette/2018/01/07/23/56",
+    "latitude": "50.594131",
+    "geo": {
+      "lat": 50.594131,
+      "lon": 3.85305
+    },
+    "id": "BE.NMBS.008886066"
+  },
+  {
+    "name": "Tollembeek",
+    "longitude": "3.992833",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tollembeek/2018/01/07/23/56",
+    "latitude": "50.735382",
+    "geo": {
+      "lat": 50.735382,
+      "lon": 3.992833
+    },
+    "id": "BE.NMBS.008895638"
+  },
+  {
+    "name": "Etterbeek",
+    "longitude": "4.390222",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Etterbeek/2018/01/07/23/56",
+    "latitude": "50.821208",
+    "geo": {
+      "lat": 50.821208,
+      "lon": 4.390222
+    },
+    "id": "BE.NMBS.008811411"
+  },
+  {
+    "name": "Watermaal",
+    "longitude": "4.399692",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Watermaal/2018/01/07/23/56",
+    "latitude": "50.809691",
+    "geo": {
+      "lat": 50.809691,
+      "lon": 4.399692
+    },
+    "id": "BE.NMBS.008811429"
+  },
+  {
+    "name": "Mortsel",
+    "longitude": "4.440127",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Mortsel/2018/01/07/23/56",
+    "latitude": "51.190291",
+    "geo": {
+      "lat": 51.190291,
+      "lon": 4.440127
+    },
+    "id": "BE.NMBS.008821147"
+  },
+  {
+    "name": "Bouwel",
+    "longitude": "4.747581",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Bouwel/2018/01/07/23/56",
+    "latitude": "51.165844",
+    "geo": {
+      "lat": 51.165844,
+      "lon": 4.747581
+    },
+    "id": "BE.NMBS.008821725"
+  },
+  {
+    "name": "Hofstade",
+    "longitude": "4.498342",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hofstade/2018/01/07/23/56",
+    "latitude": "50.988661",
+    "geo": {
+      "lat": 50.988661,
+      "lon": 4.498342
+    },
+    "id": "BE.NMBS.008822277"
+  },
+  {
+    "name": "Leopoldsburg",
+    "longitude": "5.257289",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Leopoldsburg/2018/01/07/23/56",
+    "latitude": "51.117314",
+    "geo": {
+      "lat": 51.117314,
+      "lon": 5.257289
+    },
+    "id": "BE.NMBS.008832003"
+  },
+  {
+    "name": "Beringen",
+    "longitude": "5.231867",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Beringen/2018/01/07/23/56",
+    "latitude": "51.076814",
+    "geo": {
+      "lat": 51.076814,
+      "lon": 5.231867
+    },
+    "id": "BE.NMBS.008832227"
+  },
+  {
+    "name": "Overpelt",
+    "longitude": "5.423126",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Overpelt/2018/01/07/23/56",
+    "latitude": "51.21555",
+    "geo": {
+      "lat": 51.21555,
+      "lon": 5.423126
+    },
+    "id": "BE.NMBS.008832573"
+  },
+  {
+    "name": "Tienen",
+    "longitude": "4.925814",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Tienen/2018/01/07/23/56",
+    "latitude": "50.808022",
+    "geo": {
+      "lat": 50.808022,
+      "lon": 4.925814
+    },
+    "id": "BE.NMBS.008833308"
+  },
+  {
+    "name": "Remicourt",
+    "longitude": "5.321406",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Remicourt/2018/01/07/23/56",
+    "latitude": "50.678608",
+    "geo": {
+      "lat": 50.678608,
+      "lon": 5.321406
+    },
+    "id": "BE.NMBS.008841442"
+  },
+  {
+    "name": "Poulseur",
+    "longitude": "5.57819",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Poulseur/2018/01/07/23/56",
+    "latitude": "50.508958",
+    "geo": {
+      "lat": 50.508958,
+      "lon": 5.57819
+    },
+    "id": "BE.NMBS.008842689"
+  },
+  {
+    "name": "Forrieres",
+    "longitude": "5.276572",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Forrieres/2018/01/07/23/56",
+    "latitude": "50.133072",
+    "geo": {
+      "lat": 50.133072,
+      "lon": 5.276572
+    },
+    "id": "BE.NMBS.008864311"
+  },
+  {
+    "name": "Marche En Famenne",
+    "longitude": "5.346294",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marche En Famenne/2018/01/07/23/56",
+    "latitude": "50.222472",
+    "geo": {
+      "lat": 50.222472,
+      "lon": 5.346294
+    },
+    "id": "BE.NMBS.008864410"
+  },
+  {
+    "name": "Graide",
+    "longitude": "5.043708",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Graide/2018/01/07/23/56",
+    "latitude": "49.933789",
+    "geo": {
+      "lat": 49.933789,
+      "lon": 5.043708
+    },
+    "id": "BE.NMBS.008865615"
+  },
+  {
+    "name": "Marchienne Au Pont",
+    "longitude": "4.394223",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Marchienne Au Pont/2018/01/07/23/56",
+    "latitude": "50.412173",
+    "geo": {
+      "lat": 50.412173,
+      "lon": 4.394223
+    },
+    "id": "BE.NMBS.008871100"
+  },
+  {
+    "name": "Frameries",
+    "longitude": "3.906314",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Frameries/2018/01/07/23/56",
+    "latitude": "50.405539",
+    "geo": {
+      "lat": 50.405539,
+      "lon": 3.906314
+    },
+    "id": "BE.NMBS.008881570"
+  },
+  {
+    "name": "Hennuyeres",
+    "longitude": "4.175892",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Hennuyeres/2018/01/07/23/56",
+    "latitude": "50.651008",
+    "geo": {
+      "lat": 50.651008,
+      "lon": 4.175892
+    },
+    "id": "BE.NMBS.008883022"
+  },
+  {
+    "name": "Blankenberge",
+    "longitude": "3.133862",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Blankenberge/2018/01/07/23/56",
+    "latitude": "51.312431",
+    "geo": {
+      "lat": 51.312431,
+      "lon": 3.133862
+    },
+    "id": "BE.NMBS.008891405"
+  },
+  {
+    "name": "Eine",
+    "longitude": "3.623697",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Eine/2018/01/07/23/56",
+    "latitude": "50.871008",
+    "geo": {
+      "lat": 50.871008,
+      "lon": 3.623697
+    },
+    "id": "BE.NMBS.008892627"
+  },
+  {
+    "name": "Dendermonde",
+    "longitude": "4.101431",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Dendermonde/2018/01/07/23/56",
+    "latitude": "51.022775",
+    "geo": {
+      "lat": 51.022775,
+      "lon": 4.101431
+    },
+    "id": "BE.NMBS.008893401"
+  },
+  {
+    "name": "Wetteren",
+    "longitude": "3.881881",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wetteren/2018/01/07/23/56",
+    "latitude": "51.001603",
+    "geo": {
+      "lat": 51.001603,
+      "lon": 3.881881
+    },
+    "id": "BE.NMBS.008893559"
+  },
+  {
+    "name": "Burst",
+    "longitude": "3.920911",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Burst/2018/01/07/23/56",
+    "latitude": "50.907103",
+    "geo": {
+      "lat": 50.907103,
+      "lon": 3.920911
+    },
+    "id": "BE.NMBS.008895455"
+  },
+  {
+    "name": "LILLE",
+    "longitude": "3.06948781013489",
+    "departures": "https://data.irail.be/NMBS/Liveboard/LILLE/2018/01/07/23/56",
+    "latitude": "50.6366202194687",
+    "geo": {
+      "lat": 50.6366202194687,
+      "lon": 3.06948781013489
+    },
+    "id": "FR.SNCF.99005"
+  },
+  {
+    "name": "LYON",
+    "longitude": "4.85891819000244",
+    "departures": "https://data.irail.be/NMBS/Liveboard/LYON/2018/01/07/23/56",
+    "latitude": "45.7605473180493",
+    "geo": {
+      "lat": 45.7605473180493,
+      "lon": 4.85891819000244
+    },
+    "id": "FR.SNCF.99006"
+  },
+  {
+    "name": "Buda",
+    "longitude": "4.417053",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Buda/2018/01/07/23/56",
+    "latitude": "50.908281",
+    "geo": {
+      "lat": 50.908281,
+      "lon": 4.417053
+    },
+    "id": "BE.NMBS.008811148"
+  },
+  {
+    "name": "Rixensart",
+    "longitude": "4.532861",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Rixensart/2018/01/07/23/56",
+    "latitude": "50.711414",
+    "geo": {
+      "lat": 50.711414,
+      "lon": 4.5328610000000005
+    },
+    "id": "BE.NMBS.008811536"
+  },
+  {
+    "name": "Waver",
+    "longitude": "4.604783",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Waver/2018/01/07/23/56",
+    "latitude": "50.716272",
+    "geo": {
+      "lat": 50.716272000000004,
+      "lon": 4.604783
+    },
+    "id": "BE.NMBS.008811726"
+  },
+  {
+    "name": "Antwerp South",
+    "longitude": "4.392258",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Antwerp South/2018/01/07/23/56",
+    "latitude": "51.197514",
+    "geo": {
+      "lat": 51.197514,
+      "lon": 4.392258
+    },
+    "id": "BE.NMBS.008821196"
+  },
+  {
+    "name": "Kontich",
+    "longitude": "4.476695",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Kontich/2018/01/07/23/56",
+    "latitude": "51.13364",
+    "geo": {
+      "lat": 51.13364,
+      "lon": 4.476695
+    },
+    "id": "BE.NMBS.008821311"
+  },
+  {
+    "name": "Sint Mariaburg",
+    "longitude": "4.434961",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Mariaburg/2018/01/07/23/56",
+    "latitude": "51.292714",
+    "geo": {
+      "lat": 51.292714,
+      "lon": 4.434961
+    },
+    "id": "BE.NMBS.008821543"
+  },
+  {
+    "name": "Heist Op Den Berg",
+    "longitude": "4.709361",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Heist Op Den Berg/2018/01/07/23/56",
+    "latitude": "51.073517",
+    "geo": {
+      "lat": 51.073517,
+      "lon": 4.709361
+    },
+    "id": "BE.NMBS.008821832"
+  },
+  {
+    "name": "Buggenhout",
+    "longitude": "4.200575",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Buggenhout/2018/01/07/23/56",
+    "latitude": "51.016228",
+    "geo": {
+      "lat": 51.016228,
+      "lon": 4.200575
+    },
+    "id": "BE.NMBS.008822145"
+  },
+  {
+    "name": "Sint Katelijne Waver",
+    "longitude": "4.495481",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Sint Katelijne Waver/2018/01/07/23/56",
+    "latitude": "51.070931",
+    "geo": {
+      "lat": 51.070931,
+      "lon": 4.495481
+    },
+    "id": "BE.NMBS.008822228"
+  },
+  {
+    "name": "Puurs",
+    "longitude": "4.283558",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Puurs/2018/01/07/23/56",
+    "latitude": "51.077219",
+    "geo": {
+      "lat": 51.077219,
+      "lon": 4.283558
+    },
+    "id": "BE.NMBS.008822715"
+  },
+  {
+    "name": "Wijgmaal",
+    "longitude": "4.700242",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wijgmaal/2018/01/07/23/56",
+    "latitude": "50.923017",
+    "geo": {
+      "lat": 50.923017,
+      "lon": 4.700242
+    },
+    "id": "BE.NMBS.008833175"
+  },
+  {
+    "name": "Zichem",
+    "longitude": "4.987358",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Zichem/2018/01/07/23/56",
+    "latitude": "51.006694",
+    "geo": {
+      "lat": 51.006694,
+      "lon": 4.987358
+    },
+    "id": "BE.NMBS.008833274"
+  },
+  {
+    "name": "Ans",
+    "longitude": "5.509703",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Ans/2018/01/07/23/56",
+    "latitude": "50.661214",
+    "geo": {
+      "lat": 50.661214,
+      "lon": 5.509703
+    },
+    "id": "BE.NMBS.008841202"
+  },
+  {
+    "name": "Franchimont",
+    "longitude": "5.822594",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Franchimont/2018/01/07/23/56",
+    "latitude": "50.525214",
+    "geo": {
+      "lat": 50.525214,
+      "lon": 5.822594
+    },
+    "id": "BE.NMBS.008844347"
+  },
+  {
+    "name": "Barvaux",
+    "longitude": "5.502133",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Barvaux/2018/01/07/23/56",
+    "latitude": "50.349541",
+    "geo": {
+      "lat": 50.349541,
+      "lon": 5.502133
+    },
+    "id": "BE.NMBS.008864451"
+  },
+  {
+    "name": "Le Campinaire",
+    "longitude": "4.552951",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Le Campinaire/2018/01/07/23/56",
+    "latitude": "50.429587",
+    "geo": {
+      "lat": 50.429587,
+      "lon": 4.552951
+    },
+    "id": "BE.NMBS.008874559"
+  },
+  {
+    "name": "Havre",
+    "longitude": "4.058311",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Havre/2018/01/07/23/56",
+    "latitude": "50.470739",
+    "geo": {
+      "lat": 50.470739,
+      "lon": 4.058311
+    },
+    "id": "BE.NMBS.008881430"
+  },
+  {
+    "name": "La Louviere South",
+    "longitude": "4.190115",
+    "departures": "https://data.irail.be/NMBS/Liveboard/La Louviere South/2018/01/07/23/56",
+    "latitude": "50.465017",
+    "geo": {
+      "lat": 50.465017,
+      "lon": 4.190115
+    },
+    "id": "BE.NMBS.008882206"
+  },
+  {
+    "name": "Manage",
+    "longitude": "4.234678",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Manage/2018/01/07/23/56",
+    "latitude": "50.506114",
+    "geo": {
+      "lat": 50.506114,
+      "lon": 4.234678
+    },
+    "id": "BE.NMBS.008882701"
+  },
+  {
+    "name": "Boussu",
+    "longitude": "3.79585",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Boussu/2018/01/07/23/56",
+    "latitude": "50.436239",
+    "geo": {
+      "lat": 50.436239,
+      "lon": 3.79585
+    },
+    "id": "BE.NMBS.008884319"
+  },
+  {
+    "name": "Blaton",
+    "longitude": "3.665675",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Blaton/2018/01/07/23/56",
+    "latitude": "50.505939",
+    "geo": {
+      "lat": 50.505939,
+      "lon": 3.6656750000000002
+    },
+    "id": "BE.NMBS.008884715"
+  },
+  {
+    "name": "Peruwelz",
+    "longitude": "3.592061",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Peruwelz/2018/01/07/23/56",
+    "latitude": "50.513639",
+    "geo": {
+      "lat": 50.513639,
+      "lon": 3.592061
+    },
+    "id": "BE.NMBS.008884855"
+  },
+  {
+    "name": "Landegem",
+    "longitude": "3.576889",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Landegem/2018/01/07/23/56",
+    "latitude": "51.064114",
+    "geo": {
+      "lat": 51.064114,
+      "lon": 3.576889
+    },
+    "id": "BE.NMBS.008892056"
+  },
+  {
+    "name": "Aarsele",
+    "longitude": "3.418361",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aarsele/2018/01/07/23/56",
+    "latitude": "50.984458",
+    "geo": {
+      "lat": 50.984458,
+      "lon": 3.418361
+    },
+    "id": "BE.NMBS.008892288"
+  },
+  {
+    "name": "Furnes",
+    "longitude": "2.669742",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Furnes/2018/01/07/23/56",
+    "latitude": "51.073897",
+    "geo": {
+      "lat": 51.073897,
+      "lon": 2.669742
+    },
+    "id": "BE.NMBS.008892304"
+  },
+  {
+    "name": "Wichelen",
+    "longitude": "3.974897",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Wichelen/2018/01/07/23/56",
+    "latitude": "51.001903",
+    "geo": {
+      "lat": 51.001903,
+      "lon": 3.974897
+    },
+    "id": "BE.NMBS.008893534"
+  },
+  {
+    "name": "Aalst Kerrebroek",
+    "longitude": "4.024773",
+    "departures": "https://data.irail.be/NMBS/Liveboard/Aalst Kerrebroek/2018/01/07/23/56",
+    "latitude": "50.948316",
+    "geo": {
+      "lat": 50.948316,
+      "lon": 4.024773
+    },
+    "id": "BE.NMBS.008895125"
+  },
+  {
+    "name": "KOLN HBF",
+    "longitude": "6.95812225341797",
+    "departures": "https://data.irail.be/NMBS/Liveboard/KOLN HBF/2018/01/07/23/56",
+    "latitude": "50.9437056349119",
+    "geo": {
+      "lat": 50.9437056349119,
+      "lon": 6.95812225341797
+    },
+    "id": "DE.X.99002"
+  }
+]
